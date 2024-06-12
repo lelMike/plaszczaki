@@ -10,6 +10,7 @@
 #include <limits>
 #include <algorithm>
 #include "BorderHandler.h"
+#include <SFML/Graphics.hpp>
 
 struct Edge {
     int node1;
@@ -24,7 +25,7 @@ public:
     void readInput(const std::string& filename);
     void calculateBorder();
     void printBorder() const;
-    void printGraph() const;
+    void printGraph(bool GUI = false) const;
     float calculateMaxFlow(int workers, bool debug = false);
 
 private:
@@ -34,6 +35,7 @@ private:
     int startPoint;
 
     bool findAugmentingPath(int source, int sink, std::vector<int>& parent);
+    void plotGraph() const;
 };
 
 #endif // GRAPHHANDLER_H
