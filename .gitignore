@@ -1,0 +1,24 @@
+# Ignore build output
+/build/
+
+# Ignore compiled executables
+*.exe
+*.out
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.sdf
+
+# Ignore generated files
+*.o
+*.a
+
+# Ignore cmake generated files
+/cmake-build-debug
+
+#Ignore cmake for now
+CMakeLists.txt

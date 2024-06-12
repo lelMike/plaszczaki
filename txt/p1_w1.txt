@@ -1,0 +1,16 @@
+7
+Alice 0
+Bob 1
+Charlie 0
+David 0
+Eve 1
+Luke 0
+Zoe 1
+Alice Bob Charlie David
+Bob Alice Charlie David
+Charlie Alice Bob David
+David Alice Bob Charlie
+Eve Luke Zoe
+Luke Eve Zoe
+Zoe Eve Luke
+0
