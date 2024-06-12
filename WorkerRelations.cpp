@@ -183,5 +183,11 @@ std::vector<std::pair<Worker, Worker>> WorkerRelations::hopcroftKarp() {
         }
     }
 
+    this->pair_count = matching.size();
+
     return matching;
+}
+
+int WorkerRelations::getPairCount() const {
+    return pair_count;
 }

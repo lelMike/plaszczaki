@@ -25,6 +25,8 @@ public:
     void setPoints(const std::unordered_map<int, Point>& pts);
     void calculateBorder();
     void printResult() const;
+    [[nodiscard]] float getPerimeter() const;
+    [[nodiscard]] std::vector<Point> getEdgePoints() const;
 
 private:
     [[nodiscard]] static float distance(const Point& p1, const Point& p2);
@@ -32,6 +34,7 @@ private:
 
     const std::unordered_map<int, Point>* points = nullptr;
     std::vector<Point> edgePoints;
+    float perimeter = 0.0f;
 };
 
 #endif // BORDERHANDLER_H

@@ -49,6 +49,7 @@ private:
     std::unordered_map<std::string, std::unordered_set<std::string>> entryPairs[2]; //0 for left, 1 for right, seems like a more efficient way of handling which hand the worker has
     std::unordered_map<Worker, std::unordered_set<Worker>> finalPairs;
     std::vector<std::pair<Worker, Worker>> pairs;
+    int pair_count;
 
     bool bpm(const Worker& worker, std::unordered_map<Worker, Worker>& pairR, std::unordered_set<Worker>& seen);    //used for Hopcroft-Karp algorithm
     int maxBPM(std::unordered_map<Worker, Worker>& pairR);  //used for Hopcroft-Karp algorithm
@@ -58,6 +59,7 @@ public:
     void addLikes(const std::string& name, const std::vector<std::string>& likes);
     void parseTxt(const std::string& filename);
     void printPairs();
+    int getPairCount() const;
     std::vector<std::pair<Worker, Worker>> hopcroftKarp();  //efficient way of finding the maximum number of pairs
 };
 

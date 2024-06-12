@@ -16,6 +16,7 @@ void BorderHandler::calculateBorder() {
     }
 
     Point q{}, p = leftPoint;
+    perimeter = 0.0f;
 
     while (true) {
         edgePoints.emplace_back(p);
@@ -27,6 +28,7 @@ void BorderHandler::calculateBorder() {
                 q = r;
             }
         }
+        perimeter += distance(p, q);
         p = q;
 
         if (p == leftPoint) {
@@ -39,6 +41,14 @@ void BorderHandler::printResult() const {
     for (const auto& a : edgePoints) {
         std::cout << "point: " << a.x << " " << a.y << std::endl;
     }
+}
+
+float BorderHandler::getPerimeter() const {
+    return perimeter;
+}
+
+std::vector<Point> BorderHandler::getEdgePoints() const {
+    return edgePoints;
 }
 
 inline float BorderHandler::distance(const Point& p1, const Point& p2) {
