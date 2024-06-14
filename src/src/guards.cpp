@@ -1,13 +1,13 @@
-#include "guards.h"
+#include "../include/guards.h"
+#include <climits>
 
-int select_guard(const std::vector<int>& energies, int start, int end) {
-    int max_energy = -1;
-    int selected_guard = -1;
-    for (int i = start; i <= end; ++i) {
-        if (energies[i] > max_energy) {
-            max_energy = energies[i];
-            selected_guard = i;
+// function to select the guard with the highest energy who is available to work
+Guard selectGuard(const std::vector<Guard>& guards, const std::vector<bool>& available) {
+    Guard maxGuard = {INT_MIN, 'F', -1}; // initialising the function with minimum energy and invalid index
+    for (int i = 0; i < guards.size(); ++i) {
+        if (available[i] && guards[i].availability == 'W' && guards[i].energy > maxGuard.energy) {
+            maxGuard = guards[i];
         }
     }
-    return selected_guard;
+    return maxGuard;
 }

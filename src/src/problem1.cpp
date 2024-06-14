@@ -71,7 +71,7 @@ int main(int argc, char* argv[]) {
             }
             graphHandler.calculateBorder();
             float maxFlow = graphHandler.calculateMaxFlow(workerRelations.getPairCount(), false);
-            std::cout << "Test " << i++ << ": " << maxFlow << std::endl;
+            std::cout << "Test " << i++ << ": " << "Max flow: " << maxFlow << " Amount of days: " << graphHandler.getPerimeter() / maxFlow << std::endl;
             filePath1 = "txt/p" + std::to_string(i) + "_c" + std::to_string(i) + ".txt";
             filePath2 = "txt/p" + std::to_string(i) + "_w" + std::to_string(i) + ".txt";
         }

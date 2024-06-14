@@ -3,6 +3,6 @@
 
 #include <vector>
 
-std::vector<int> plan_patrol(const std::vector<int>& brightness);
+int calculateMinRestPoints(const std::vector<int>& brightness, int max_steps); //this is a function to calculate the minimum number of rest points
 
 #endif

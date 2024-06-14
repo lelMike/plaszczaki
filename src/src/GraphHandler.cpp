@@ -55,14 +55,6 @@ void GraphHandler::printBorder() const {
     borderHandler.printResult();
 }
 
-#include <SFML/Graphics.hpp>
-#include <algorithm>
-
-#include <SFML/Graphics.hpp>
-#include <algorithm>
-#include <iomanip>
-#include <sstream>
-
 void GraphHandler::printGraph(bool GUI) const {
     if (GUI) {
         sf::RenderWindow window(sf::VideoMode(800, 600), "Graph Visualization");

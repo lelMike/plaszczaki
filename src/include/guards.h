@@ -3,6 +3,13 @@
 
 #include <vector>
 
-int select_guard(const std::vector<int>& energies, int start, int end);
+// struct that is representing a guard
+struct Guard {
+    int energy;         // guard's energy
+    char availability;  // 'W' for work, 'F' for free
+    int index;          // guard's index
+};
 
-#endif 
+Guard selectGuard(const std::vector<Guard>& guards, const std::vector<bool>& available); // function to select the guard with the highest energy who is available to work
+
+#endif

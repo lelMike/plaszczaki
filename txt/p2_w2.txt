@@ -1,11 +1,11 @@
 7
 Alice 0
-Bob 1
+Bob 0
 Charlie 0
 David 0
-Eve 1
+Eve 0
 Luke 0
-Zoe 1
+Zoe 0
 Alice Bob Charlie David
 Bob Alice Charlie David
 Charlie Alice Bob David
