@@ -5,6 +5,7 @@
 #include <unordered_map>
 #include <cstdlib>
 #include <ctime>
+#include <algorithm>
 #include "guards.h"
 #include "route.h"
 
@@ -16,18 +17,15 @@ int main() {
         return 1;
     }
 
-    // Read the number of days (week), points, and max_steps
-    int days, points, max_steps;
+    int days, points, max_steps;  // reading the number of days, points, and max_steps from the input file
     input >> days >> points >> max_steps;
 
-    // Read brightness levels
-    std::vector<int> brightness(points);
+    std::vector<int> brightness(points); // reading the brightness levels from file
     for (int i = 0; i < points; ++i) {
         input >> brightness[i];
     }
 
-    // Initialize route
-    Route route(brightness, max_steps);
+    Route route(brightness, max_steps); // initializing the route
 
     // Read guards' energy and availability
     std::unordered_map<int, int> guardEnergy;
@@ -35,17 +33,15 @@ int main() {
     int guardCount;
     input >> guardCount;
 
-    // Assign random energy to guards in the range 1-10
     srand(time(0));
     for (int i = 0; i < guardCount; ++i) {
         int id = i + 1;
-        int energy = rand() % 10 + 1;
+        int energy = rand() % 10 + 1; // assigning random energy to guards in the range 1-10
         guardEnergy[id] = energy;
         std::cout << "Guard " << id << " initial energy: " << energy << std::endl;
     }
 
-    // Read vacation days for each guard
-    for (int i = 0; i < guardCount; ++i) {
+    for (int i = 0; i < guardCount; ++i) { // reading vacation days for each guard
         int vacationDays;
         input >> vacationDays;
         for (int j = 0; j < vacationDays; ++j) {
@@ -54,18 +50,17 @@ int main() {
             guardVacations[i + 1].push_back(vacationDay);
         }
     }
+    Guards guards(guardEnergy, guardVacations); // initializing Guards object
 
-    // Initialize Guards object
-    Guards guards(guardEnergy, guardVacations);
-
-    // Schedule guards for each day
     for (int day = 0; day < days; ++day) {
         auto selectedGuard = guards.selectGuard(day);
-        if (selectedGuard.id != 0) { // Ensure a valid guard is selected
-            int stops = route.calculateStops();
+        if (selectedGuard.id != 0) { // ensuring a valid guard is selected
+            int optimalStart = route.findOptimalStartPoint();
+            std::rotate(brightness.begin(), brightness.begin() + optimalStart, brightness.end()); // Rotate to the optimal start point
+
             int listens = route.calculateListens();
-            guards.updateGuard(selectedGuard.id, stops, day);
-            std::cout << "Day " << day + 1 << ": Guard " << selectedGuard.id << " with " << listens << " listens to the melody.\n";
+            guards.updateGuard(selectedGuard.id, 0, day); // updating guard without stops
+            std::cout << "Day " << day + 1 << ": Guard " << selectedGuard.id << " with " << listens << " listens.\n";
         } else {
             std::cout << "Day " << day + 1 << ": No available guard.\n";
         }
