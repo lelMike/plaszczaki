@@ -16,21 +16,26 @@ int main() {
         return 1;
     }
 
-    int days, points;
-    input >> days >> points;
+    // Read the number of days (week), points, and max_steps
+    int days, points, max_steps;
+    input >> days >> points >> max_steps;
 
+    // Read brightness levels
     std::vector<int> brightness(points);
     for (int i = 0; i < points; ++i) {
         input >> brightness[i];
     }
 
-    Route route(brightness);
+    // Initialize route
+    Route route(brightness, max_steps);
 
+    // Read guards' energy and availability
     std::unordered_map<int, int> guardEnergy;
     std::unordered_map<int, std::vector<int>> guardVacations;
     int guardCount;
     input >> guardCount;
 
+    // Assign random energy to guards in the range 1-10
     srand(time(0));
     for (int i = 0; i < guardCount; ++i) {
         int id = i + 1;
@@ -39,6 +44,7 @@ int main() {
         std::cout << "Guard " << id << " initial energy: " << energy << std::endl;
     }
 
+    // Read vacation days for each guard
     for (int i = 0; i < guardCount; ++i) {
         int vacationDays;
         input >> vacationDays;
@@ -49,15 +55,17 @@ int main() {
         }
     }
 
+    // Initialize Guards object
     Guards guards(guardEnergy, guardVacations);
 
+    // Schedule guards for each day
     for (int day = 0; day < days; ++day) {
         auto selectedGuard = guards.selectGuard(day);
-        if (selectedGuard.id != 0) {  
-            int stops = route.calculateStops(selectedGuard.energy);
-            int listens = route.calculateListens(selectedGuard.energy);
+        if (selectedGuard.id != 0) { // Ensure a valid guard is selected
+            int stops = route.calculateStops();
+            int listens = route.calculateListens();
             guards.updateGuard(selectedGuard.id, stops, day);
-            std::cout << "Day " << day + 1 << ": Guard " << selectedGuard.id << " with " << stops << " stops and " << listens << " listens.\n";
+            std::cout << "Day " << day + 1 << ": Guard " << selectedGuard.id << " with " << listens << " listens to the melody.\n";
         } else {
             std::cout << "Day " << day + 1 << ": No available guard.\n";
         }
