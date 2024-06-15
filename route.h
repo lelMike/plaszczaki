@@ -2,16 +2,16 @@
 #define ROUTE_H
 
 #include <vector>
-#include <cstddef>
 
 class Route {
 public:
-    Route(const std::vector<int>& brightnessLevels);
-    int calculateStops(int guardEnergy);
-    int calculateListens(int guardEnergy);
+    Route(const std::vector<int>& brightnessLevels, int maxSteps);
+    int calculateStops();
+    int calculateListens();
 
 private:
     std::vector<int> brightness;
+    int max_steps;
 };
 
-#endif 
+#endif // ROUTE_H
