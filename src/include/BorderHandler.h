@@ -5,6 +5,9 @@
 #include <unordered_map>
 #include <vector>
 #include <cmath>
+#include <filesystem>
+#include <fstream>
+#include <random>
 
 struct Point {  // aka node
     float x;
@@ -27,6 +30,7 @@ public:
     void printResult() const;
     [[nodiscard]] float getPerimeter() const;
     [[nodiscard]] std::vector<Point> getEdgePoints() const;
+    void exportBorder() const;
 
 private:
     [[nodiscard]] static float distance(const Point& p1, const Point& p2);

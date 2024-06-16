@@ -1,0 +1,60 @@
+29
+Zoe 0
+Aria 0
+Sophia 0
+Joshua 0
+Benjamin 1
+Luna 0
+Samuel 1
+Victoria 0
+Alice 1
+Hazel 1
+Hunter 1
+Andrew 1
+Lucas 0
+Jacob 0
+Chloe 1
+Hannah 0
+Isabella 1
+Isaac 1
+Dylan 0
+James 0
+David 0
+Grace 1
+Amelia 1
+Mia 0
+Avery 1
+William 0
+Ryan 1
+Caleb 1
+Matthew 0
+Zoe James Avery Ryan Caleb Isaac Matthew
+Aria Samuel Avery William Joshua Andrew Hunter Isaac Dylan Zoe Benjamin Hazel Ryan Isabella Mia James Victoria Chloe Luna Lucas Jacob Matthew Alice Grace Caleb Hannah
+Sophia Hunter Hazel Jacob William Grace Luna Isaac Lucas Andrew Mia
+Joshua Aria Mia Samuel Andrew Ryan Grace Luna Chloe David Jacob Caleb James William Lucas Benjamin Isabella Avery Dylan Sophia Hunter Isaac Victoria Amelia Alice
+Benjamin Matthew Hazel Aria Jacob Isabella Zoe Ryan William Hunter Samuel Mia Caleb Amelia
+Luna Samuel Benjamin Grace Andrew Hazel Alice Matthew Victoria Hunter Joshua Amelia Ryan Dylan William Jacob
+Samuel Hannah Isaac Dylan Luna Mia Zoe Andrew Lucas
+Victoria Sophia Isaac Alice William Matthew Aria Luna Benjamin Jacob Mia James Chloe Joshua Grace Lucas Caleb Isabella Hunter Andrew Avery
+Alice Joshua David Andrew Samuel Isaac Dylan Victoria Aria Avery Benjamin Hunter Jacob Luna James William Sophia Caleb Grace Lucas Chloe Matthew Zoe
+Hazel Amelia Samuel Joshua Jacob Chloe Sophia Hannah Alice Grace Zoe
+Hunter Chloe Isaac William Samuel Amelia Ryan Zoe Dylan
+Andrew Amelia Sophia Isaac Ryan William Caleb David James
+Lucas Samuel Amelia
+Jacob Mia Lucas Sophia Benjamin Chloe Zoe Avery David Hannah James Isaac Luna Isabella Matthew Andrew Samuel Ryan William Alice
+Chloe Isaac Zoe Victoria Isabella
+Hannah Samuel Avery Mia Alice Caleb Luna Victoria Chloe James William David Jacob Amelia Andrew Joshua
+Isabella Lucas Chloe Zoe Hunter Sophia Joshua Alice Samuel Hazel James David Hannah
+Isaac Chloe Andrew Joshua Jacob Samuel Avery Matthew Mia Ryan Amelia Sophia Hannah Hunter James Lucas Hazel Victoria Alice Dylan William Grace Benjamin Caleb David Aria Zoe Luna Isabella
+Dylan William James Ryan Aria Mia Alice Hazel Lucas Isaac Avery Andrew Matthew Joshua Hunter Isabella Jacob Zoe Caleb Luna Hannah Victoria
+James Hunter Lucas Mia Dylan Ryan Matthew Grace David Alice Amelia Luna Benjamin Isaac Jacob Samuel Sophia Andrew Aria Isabella Hazel Caleb Chloe
+David Lucas Jacob
+Grace Sophia Avery Mia David Hannah Andrew Isaac Victoria Chloe Benjamin Hazel Alice Joshua Lucas Amelia Isabella Zoe Hunter William Matthew
+Amelia David Isabella Hunter Luna Sophia Hazel
+Mia David Lucas Zoe Victoria Amelia Matthew Alice Hazel Avery Benjamin Caleb Chloe Dylan Jacob Isabella
+Avery Andrew Isaac Victoria Luna Matthew
+William Amelia Joshua Mia Ryan Victoria David Hazel Aria Dylan Isaac Jacob Lucas Samuel Alice
+Ryan Andrew Dylan Joshua Grace Hunter Mia William Caleb Matthew Luna Avery Hazel Benjamin Hannah Lucas David Sophia Jacob Alice James Aria Samuel Zoe Amelia Isabella
+Caleb William Dylan Jacob Ryan Chloe Isabella Alice Avery Mia Zoe Sophia Lucas Amelia David Victoria Hunter Benjamin Aria Grace Isaac Samuel Hannah Matthew Hazel Luna Andrew James
+Matthew Hunter Joshua Dylan Lucas Avery Alice Luna
+0

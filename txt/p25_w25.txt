@@ -1,0 +1,60 @@
+29
+Owen 1
+Hannah 1
+Luna 0
+Jacob 0
+Zoe 1
+Isabella 1
+Hannah 0
+Emily 1
+Christian 0
+Liam 1
+Carter 0
+Madison 1
+Mia 1
+Alexander 0
+Sebastian 0
+Ava 1
+Joshua 0
+Landon 1
+Aaron 0
+Ella 0
+Charlie 0
+Mia 1
+Scarlett 0
+Chloe 0
+Andrew 1
+Bob 1
+William 0
+Lucas 1
+Ivy 0
+Owen Christian Liam Zoe Aaron Alexander Sebastian Isabella Madison Scarlett Joshua William Hannah Ivy Emily Hannah Lucas Ava
+Hannah Ella Alexander Christian Zoe Mia Liam Charlie Isabella Sebastian Carter Mia Emily Joshua Luna Andrew Owen Scarlett
+Luna Isabella Mia Carter Landon Hannah Madison Ivy Scarlett Liam Andrew Bob Mia
+Jacob Hannah Alexander Andrew Aaron Emily Chloe Scarlett Isabella Zoe
+Zoe Owen Jacob Luna Hannah Carter Emily Chloe Charlie Andrew Bob Mia William Ella Liam Joshua Ivy Ava
+Isabella Bob Joshua Madison Chloe Owen Liam Emily
+Hannah Carter Sebastian Mia Joshua Ella Owen Ava Bob Lucas Liam Aaron Scarlett Alexander Andrew Luna Ivy Charlie William Christian Isabella Zoe Emily Jacob Chloe Mia Landon Madison
+Emily Christian Scarlett Liam Luna Landon William Ivy Ella Bob Madison Ava Joshua Zoe Aaron Andrew Carter
+Christian Luna Mia Ivy Alexander Scarlett Madison Ella Joshua Owen Emily Mia
+Liam Emily Landon Christian Ava Madison Mia Owen Mia Sebastian Lucas Hannah Carter Isabella Luna Charlie Alexander Scarlett Andrew Hannah Chloe Ivy Bob Joshua Aaron Ella William Jacob
+Carter Luna Isabella Hannah William Owen Scarlett Emily Andrew Landon Lucas Liam Ella Joshua Hannah Charlie Ava Zoe Bob Chloe Christian
+Madison Charlie Carter Bob William Sebastian Hannah Ava Joshua Zoe Christian Mia Luna Aaron Scarlett Landon Jacob Emily Hannah Alexander Ivy Mia Ella Andrew Chloe Liam Lucas Owen Isabella
+Mia Bob Hannah Alexander Scarlett Ava Zoe Carter Ella Emily Andrew Joshua Sebastian Christian Madison Isabella Charlie Liam Owen Luna William Lucas Aaron Landon Jacob Ivy Chloe
+Alexander Joshua Chloe Emily Lucas Sebastian Mia Bob Jacob Ella William Christian Hannah Landon Aaron Isabella Scarlett Charlie Liam Hannah Luna Mia Zoe Ivy Ava Carter Madison Andrew Owen
+Sebastian Jacob Mia Luna Ivy Ella Bob Alexander Madison Carter Hannah Scarlett Lucas Landon Andrew Ava Christian Hannah Chloe Emily William Aaron Zoe Owen Liam Mia Charlie
+Ava Owen Mia Scarlett Bob Lucas
+Joshua Hannah Sebastian Mia Ava Chloe Alexander Ella Andrew Emily Lucas Luna Bob Aaron
+Landon Joshua Scarlett Andrew Madison Liam Ivy
+Aaron Chloe Christian
+Ella Landon Christian Alexander Sebastian Hannah Carter Emily Zoe Hannah Scarlett Owen Ivy Andrew
+Charlie Landon Sebastian Ivy Scarlett Hannah Christian Ava Andrew Liam Joshua Ella Alexander
+Mia Madison Isabella William Ivy Bob Zoe Scarlett Joshua
+Scarlett Chloe Alexander Owen Hannah Andrew Ava Mia Charlie Bob Lucas Landon Aaron Jacob Mia Madison William Zoe Carter Ivy Isabella Sebastian Joshua Liam Christian
+Chloe Mia Carter Isabella Alexander Owen William Christian Andrew Mia Luna Jacob Ivy Hannah Ella Sebastian Aaron Hannah Madison Zoe Ava Lucas Emily Liam Charlie
+Andrew Aaron Luna Chloe Jacob
+Bob Ivy William Jacob Liam Ava Owen Charlie Madison Lucas Alexander
+William Landon Madison Zoe Alexander Mia Liam Ava Joshua Owen Isabella Lucas Mia Sebastian Emily Ivy Bob Andrew Ella Christian Jacob Hannah Aaron Scarlett Hannah Charlie Carter Luna Chloe
+Lucas Alexander Hannah Owen William Liam Madison Sebastian Ivy Mia Ava Hannah Zoe Carter Emily Joshua Andrew Landon Ella Chloe Mia Christian Aaron Isabella Bob
+Ivy Joshua Alexander Ella Mia Christian Liam Landon Scarlett Andrew Mia
+0

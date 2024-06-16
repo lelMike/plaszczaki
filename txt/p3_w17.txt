@@ -1,0 +1,82 @@
+40
+Layla 1
+Oliver 1
+William 0
+Charlotte 1
+Harper 0
+Daniel 1
+Joseph 0
+Charlie 1
+Lily 1
+Henry 0
+Gabriel 1
+Ryan 1
+Amelia 0
+Scarlett 1
+Nora 1
+Hunter 1
+Thomas 1
+Mia 0
+Noah 1
+Benjamin 1
+Landon 1
+Aiden 1
+Lucas 0
+Aria 1
+Levi 0
+Penelope 0
+Caleb 1
+Madison 1
+Riley 0
+Jacob 1
+Zoe 0
+Jack 1
+Andrew 0
+Sophia 1
+Emily 0
+Joshua 0
+Zoe 1
+Aurora 1
+Aaron 1
+David 0
+Layla Joseph
+Oliver Zoe Benjamin Mia Madison Daniel Aiden William Aurora Layla Jacob Emily Joseph Charlotte Levi Amelia Riley Penelope Zoe David Aria Nora Sophia Ryan
+William Aaron Ryan Scarlett Aiden Penelope Henry Mia Noah
+Charlotte Joseph Gabriel Henry Zoe Landon Caleb Zoe William Riley Noah Penelope Harper Mia Scarlett Lucas Madison David Lily Amelia Oliver Layla Sophia Jacob Levi Jack Ryan Aurora Emily Andrew Aria Hunter Joshua Aiden Aaron Charlie Thomas Benjamin Nora Daniel
+Harper Emily Penelope Zoe Aaron Mia Noah Ryan Zoe Madison Oliver Joshua Scarlett
+Daniel Thomas Emily Penelope Layla Zoe Riley Hunter Aurora Gabriel William Harper Oliver Benjamin Aaron Jack Nora Caleb Lily Zoe David Sophia Mia Henry Jacob Scarlett Joseph Amelia Aria Andrew
+Joseph David Mia Gabriel Riley Jack Henry Aiden Thomas Nora Madison Emily Lucas Hunter Landon Layla Zoe Andrew Sophia William Oliver Lily Jacob Scarlett Aria Amelia Aaron Daniel Noah Benjamin Aurora
+Charlie William Benjamin Oliver Gabriel Sophia Mia David Emily Aaron Charlotte Scarlett Lucas Henry Noah Aiden Nora Riley Penelope Aurora Levi Zoe Joshua Landon Hunter
+Lily Noah Madison Nora Thomas Hunter Zoe Joseph Benjamin Amelia Aaron Henry Gabriel William Lucas Emily Sophia Jacob Scarlett Penelope Daniel Zoe Levi David Landon Joshua Aiden Harper
+Henry Charlotte Thomas Joseph Benjamin Lucas Emily Mia Hunter Lily Gabriel Caleb Joshua Scarlett David Charlie Oliver Aurora Amelia Aiden Layla Zoe
+Gabriel Charlie Lucas Jack Hunter Daniel Scarlett Levi Madison Jacob Aaron Benjamin Joshua Andrew Amelia Noah Harper
+Ryan Madison Lucas Aurora Charlie Mia Gabriel Charlotte Aiden Aaron Aria Noah Benjamin David Landon Levi Joshua Oliver Zoe Henry Hunter Thomas Caleb Scarlett Jack Jacob Sophia Amelia Daniel Lily Zoe William Nora Penelope Andrew Riley Harper Layla Emily Joseph
+Amelia Madison Aria Daniel Hunter Mia Sophia William Zoe Andrew Aurora Caleb Noah Penelope Aaron
+Scarlett Levi Sophia Emily Charlotte
+Nora Daniel Henry
+Hunter Caleb Aiden Mia Joseph Amelia Penelope Layla Charlotte Andrew Emily Aaron Daniel Lucas Oliver Zoe Joshua Madison Gabriel David Charlie Lily Riley Landon Jacob Sophia Scarlett Nora Ryan Levi Thomas Jack Aria
+Thomas Aria Harper Zoe Lucas
+Mia Thomas Amelia Ryan Layla Charlotte Benjamin
+Noah Hunter Aurora Sophia Ryan Andrew William Aria Zoe Aaron Mia Landon Thomas Gabriel Amelia Henry Charlie Levi Joshua Joseph Zoe Lily Lucas Jack Daniel Emily David Nora Benjamin Madison Charlotte Scarlett Penelope Harper Caleb
+Benjamin Charlotte Zoe Scarlett Aria Ryan Caleb Layla Oliver Sophia Jack Levi Penelope Landon Noah Gabriel Andrew Lily Amelia Aaron William Madison Daniel Mia Henry Emily Nora Jacob Joseph Lucas Aiden David Charlie Hunter Joshua Riley Zoe Harper Aurora
+Landon Aiden Oliver Zoe William Aria Henry Andrew Jacob Joseph Penelope Aurora Benjamin Lily Jack
+Aiden Aria Benjamin Daniel Riley Nora Ryan Lucas Scarlett Madison Charlotte Andrew Thomas Sophia Hunter Zoe Zoe David Aurora Joshua Aaron Harper Oliver
+Lucas Joseph Penelope Noah Amelia Scarlett Daniel Landon Oliver Layla Andrew Joshua Jacob Sophia Charlie Caleb Harper Henry Benjamin Emily
+Aria Ryan Zoe Amelia Levi Aaron Madison Layla Hunter Penelope Mia Aurora Oliver Noah Harper Thomas Gabriel Emily Jack Riley Benjamin Lucas David Lily Nora
+Levi David Joshua Charlie Amelia Madison Charlotte Thomas Layla
+Penelope Emily Zoe Caleb Benjamin
+Caleb David Amelia Landon Penelope William Mia Aaron Joshua Andrew Thomas Nora Ryan Lucas Joseph Oliver Hunter Jacob Zoe Noah Aiden Harper
+Madison Oliver Levi Thomas Aaron Charlotte Aurora Charlie
+Riley Zoe Ryan Sophia Joseph Benjamin Nora Mia Amelia Emily David Henry Caleb Layla Jack Zoe Lily Oliver Charlie Madison Gabriel Harper Landon Hunter Lucas
+Jacob Benjamin Andrew David William Zoe Layla Scarlett Caleb Harper Oliver Aaron Emily Sophia Aiden Levi Thomas Mia Henry Charlie Nora Gabriel Landon Madison Jack Ryan Zoe Riley Aria Charlotte Lily Noah Daniel Joshua Amelia Hunter Joseph Aurora Penelope
+Zoe Emily Aria Aaron Levi Aurora Joseph Madison Jacob Sophia Harper Layla Henry Scarlett David Noah Lily Benjamin Daniel Lucas Nora Penelope Riley Jack Mia Aiden Landon Charlotte Ryan Charlie Hunter Thomas Oliver Andrew
+Jack Charlotte Charlie Layla
+Andrew Mia David Scarlett Zoe Penelope Levi Zoe Noah Nora Thomas Caleb William Aria Charlie Hunter Landon Layla Henry Riley Jack Lily Gabriel Sophia Aaron Ryan Lucas Emily Benjamin Harper Oliver Madison Aurora Joshua Aiden Charlotte Amelia Jacob Daniel Joseph
+Sophia Andrew Daniel
+Emily Amelia Caleb Sophia William Mia Benjamin Harper Riley Noah Gabriel Thomas Nora Lucas Layla Lily Landon Scarlett Oliver Madison David Charlotte Charlie Aaron Penelope Hunter Jacob Andrew Aiden Aurora Henry Joshua Ryan Aria Daniel Zoe Joseph Zoe Jack
+Joshua Sophia Nora Caleb Lily William Aiden Charlotte Scarlett Joseph Landon Aria Henry Thomas Oliver Penelope Andrew Madison Amelia Emily Ryan Daniel Lucas Aurora Benjamin Aaron Harper David Layla Zoe Zoe Levi Gabriel Mia Noah Riley
+Zoe Joseph Charlie Caleb Sophia Landon Aurora Aiden Thomas Charlotte Noah Aria Mia
+Aurora Scarlett Zoe Sophia Riley Levi Lucas Gabriel Aria Jacob Noah Henry David Charlie Daniel
+Aaron Mia Andrew Sophia
+David Aria Zoe Caleb
+0

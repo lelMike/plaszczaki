@@ -37,6 +37,30 @@ void BorderHandler::calculateBorder() {
     }
 }
 
+void BorderHandler::exportBorder() const {
+    int i = 0;
+    std::string filePath = "txt/p3_path1.txt";
+    while(std::filesystem::exists(filePath)) {
+        i++;
+        filePath = "txt/p3_path" + std::to_string(i) + ".txt";
+    }
+    std::ofstream file(filePath);
+    if (!file.is_open()) {
+        std::cerr << "Error opening file" << std::endl;
+        return;
+    }
+
+    file << edgePoints.size() << std::endl;
+
+    for (const auto& a : edgePoints) {
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        std::uniform_int_distribution<> distrib(1, 100);
+        file << distrib(gen) << " ";
+    }
+    file.close();
+}
+
 void BorderHandler::printResult() const {
     for (const auto& a : edgePoints) {
         std::cout << "point: " << a.x << " " << a.y << std::endl;

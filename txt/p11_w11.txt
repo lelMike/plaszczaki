@@ -1,0 +1,60 @@
+29
+Sophia 1
+Madison 0
+Avery 0
+Lucas 0
+Ivy 1
+Mia 1
+Owen 1
+Ava 1
+Matthew 1
+Lily 1
+Ryan 0
+Ella 0
+David 1
+Charlie 0
+Oliver 0
+Eve 0
+Christian 1
+Levi 0
+Camila 1
+Zoe 0
+Liam 0
+Noah 1
+Sophia 1
+Olivia 0
+Nora 0
+Bob 1
+Grace 1
+Harper 0
+Alice 1
+Sophia Avery Levi
+Madison Camila Owen Noah Sophia Sophia Grace Harper Oliver Ava Avery Bob Levi Nora Ella Mia Liam
+Avery David Ella Liam Ivy Sophia Eve Christian Levi Lucas Bob Ryan Nora Ava Sophia Madison Matthew Owen Harper Olivia Grace Zoe Lily Mia
+Lucas Bob Sophia Ella Olivia Eve Ava Owen
+Ivy Avery David Bob Eve Lily Sophia Ava Mia Liam Sophia Alice Owen Madison Grace Noah Harper Levi Zoe Lucas Camila Matthew Christian Nora Oliver
+Mia Levi Noah Lily Harper Liam Christian Nora Matthew Ava Sophia David Alice Lucas Sophia Ryan Owen Oliver Olivia Avery Madison Bob Ella Eve Charlie Zoe Grace
+Owen Alice Bob
+Ava Madison Charlie David Sophia Sophia Ella Nora Noah Harper Mia Bob Alice Oliver Olivia Ryan Lucas Owen Christian
+Matthew Harper Charlie Liam Zoe Ava Lucas Avery Ella Olivia Nora Bob Grace Mia Camila Eve Ryan Oliver David Ivy Christian Sophia Lily Sophia Owen Alice Noah Madison Levi
+Lily Madison Matthew Ava David Nora Avery Zoe Sophia Charlie Alice
+Ryan Owen Nora Levi Camila David Ella Mia Ivy Lily Sophia Oliver Bob Harper Charlie Madison Grace Liam Matthew Christian Ava
+Ella Alice Owen Lucas Ryan Lily Harper Grace Ivy Noah Olivia Bob Ava Christian Avery Madison
+David Charlie Levi
+Charlie Noah Harper Avery Matthew Oliver Liam David Zoe Eve Mia Alice Lucas Owen Christian Ella Camila
+Oliver Matthew Sophia Ella Lucas Noah Grace Zoe Mia Avery Harper Olivia Christian Owen Camila Madison Liam Eve Levi Ivy Sophia Nora
+Eve Zoe Camila Lily Liam Sophia Grace Avery Madison Alice Ryan Sophia Mia Charlie Ella Matthew Levi David
+Christian Sophia Mia Olivia Lily Noah Eve Oliver Ryan Ella Avery
+Levi Noah Ivy Charlie Oliver Bob Christian Nora Harper Olivia Matthew Zoe David Ava Lily Mia Sophia Sophia Liam Madison Alice Grace Avery
+Camila Ivy Ella Sophia Avery Eve Liam Harper Madison Olivia Owen Christian Zoe Sophia Charlie Oliver Grace Bob Levi Lily Mia Nora
+Zoe Camila Ava Nora Olivia Levi Harper Ella Ivy Avery Owen
+Liam Grace Alice Lucas Levi Sophia Zoe Ivy Bob Noah Charlie Eve Ryan Owen Sophia Harper Ella Ava Mia Nora Lily Olivia Avery Madison Camila
+Noah Grace Ava Madison Ryan Ivy Zoe Christian Olivia Oliver Lucas Mia Charlie
+Sophia Charlie Nora Christian Harper Alice Owen Lily Zoe Bob Oliver Madison Lucas David Eve Levi Noah Ivy Grace Camila Avery Olivia Ella
+Olivia Camila Levi Harper Zoe Grace Mia David Christian Sophia Lily Eve Ivy Lucas Nora Charlie Sophia Ella Bob Liam Noah Ava Oliver Ryan Avery Alice Owen Madison Matthew
+Nora Oliver Ivy Sophia Levi Madison Ryan Ella Zoe Camila Ava Noah Alice Grace Christian Owen Eve Bob Lucas
+Bob Charlie Mia Nora Ava Christian Owen Levi Ella Madison Lucas Sophia Camila Harper Ivy Noah Grace Ryan Alice Avery David
+Grace Ava Sophia Liam Christian
+Harper Oliver Madison Owen Ava Mia Lucas Christian Zoe Ella Lily Nora
+Alice Charlie Christian Sophia Owen Grace Mia Madison
+0

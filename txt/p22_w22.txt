@@ -1,0 +1,60 @@
+29
+Nora 0
+Carter 1
+Joseph 0
+Victoria 1
+Olivia 0
+Elijah 1
+Ryan 0
+Samuel 1
+Isabella 0
+Charlie 1
+Wyatt 0
+Noah 1
+Mia 1
+Riley 0
+Camila 0
+Mila 0
+Charlotte 0
+Avery 1
+Hazel 1
+James 1
+Alice 0
+Harper 1
+Oliver 1
+Henry 0
+Bob 1
+Hannah 1
+Stella 1
+Isaac 0
+Eve 1
+Nora Stella James Noah Oliver Charlie Avery Harper
+Carter Olivia James Nora Wyatt Camila Victoria Elijah Noah Hannah Henry Charlotte Alice Harper Ryan Charlie Riley Eve Mila Joseph
+Joseph Eve Samuel Elijah Oliver Carter Mila Camila James Bob Charlotte Henry Olivia Stella Avery Hazel Wyatt Isabella Nora Harper Riley Hannah Noah Ryan Mia Charlie
+Victoria Isaac Ryan Nora Isabella Carter
+Olivia Avery Hazel Ryan Wyatt Henry Charlie Elijah Stella Carter Hannah Mila Riley Noah
+Elijah Olivia Stella Harper Riley Ryan Nora Camila Charlie Joseph Charlotte James Victoria Alice Eve Mila
+Ryan Hannah Noah Henry Isabella
+Samuel Henry Isaac Bob Elijah Stella Wyatt Camila Oliver Avery Isabella Hazel Hannah Mia Charlie Carter Charlotte Victoria Eve Harper Riley Ryan
+Isabella Hannah Hazel Joseph Charlie Avery Mila Samuel Bob Camila Carter Victoria Harper Alice Riley Charlotte Henry Isaac Nora James Wyatt Eve
+Charlie Alice Mila Charlotte
+Wyatt Victoria Stella Mila Oliver Charlotte Nora Avery Charlie Henry Carter Joseph Elijah Alice Isabella
+Noah Avery Joseph James Bob Olivia Stella Eve Riley Ryan Wyatt Charlie Harper Carter Isabella Mia Henry Hazel Hannah Victoria Alice Samuel Nora Isaac Oliver
+Mia Charlotte Charlie Alice Ryan Isabella Harper Hazel Joseph Wyatt Olivia Elijah Victoria Eve Avery Samuel Hannah Bob Nora James Henry Oliver Carter Stella Mila Isaac Camila Riley Noah
+Riley Samuel James Ryan Avery Camila Joseph Isabella Oliver Mila Nora
+Camila Harper Eve Bob Olivia Wyatt Noah Ryan James Hazel Isaac Isabella Carter Victoria Stella Henry Oliver Samuel Alice Hannah Riley Mia Charlie Avery Joseph Elijah
+Mila Henry Elijah Victoria Wyatt Hazel Olivia James Charlotte Isabella Charlie Camila Oliver
+Charlotte Elijah Eve Alice
+Avery Hannah Olivia Isaac Mila Nora Wyatt Elijah Alice Ryan Mia Riley Oliver Joseph Stella Henry Victoria Eve Samuel Charlie Isabella Harper Camila Noah
+Hazel Charlotte Ryan Alice Samuel Isabella Noah Eve Nora Harper Carter Mia Avery James Elijah Camila Hannah Charlie Bob Stella Mila
+James Olivia Avery Eve Harper Charlie Riley Mia Stella Henry Carter Camila Ryan Isaac Nora Noah Hazel Samuel Wyatt Charlotte Joseph Oliver Alice Victoria Elijah Hannah
+Alice Joseph Stella Charlotte Mia Carter Isabella Ryan Oliver Isaac Camila Wyatt Eve Bob Riley Avery Nora James Mila
+Harper Charlie Isabella Nora Isaac Mila Riley Olivia Stella Elijah Samuel
+Oliver James Harper Isaac Riley Isabella Alice Samuel Bob Mila Hazel Hannah Eve Avery Carter Nora Noah Stella Joseph Victoria Charlie Olivia Wyatt Mia Elijah Charlotte
+Henry Charlotte Riley Mila Avery James Hazel Isaac Camila Noah Elijah Hannah Joseph Isabella Alice Stella Charlie Wyatt Nora Samuel Olivia Eve Oliver
+Bob Harper Stella Camila Isaac Hazel
+Hannah Stella
+Stella Elijah Olivia Isaac
+Isaac Harper Stella Hazel Alice Samuel Mila Charlie Noah Eve Isabella Elijah Riley Charlotte Bob Wyatt Camila Henry Nora Oliver Carter Victoria Mia Olivia Avery
+Eve Nora Mila Charlotte Samuel Hazel Olivia Ryan Stella Alice Charlie Mia Elijah Noah
+0

@@ -1,0 +1,82 @@
+40
+Hunter 1
+Ellie 1
+Isaac 0
+Stella 1
+Ella 0
+Lily 0
+Christian 0
+Olivia 1
+Grace 0
+Sebastian 0
+Liam 1
+Chloe 1
+Nathan 0
+Penelope 1
+Charlotte 0
+Aria 1
+James 0
+Lucas 1
+Caleb 1
+Daniel 1
+Andrew 0
+Jack 1
+Elijah 1
+Alexander 1
+Nora 0
+Harper 0
+Mason 0
+Samuel 1
+Sophia 0
+David 0
+Bob 1
+Landon 0
+Luke 1
+Layla 1
+Zoe 1
+Amelia 1
+Jacob 0
+Camila 1
+Emma 1
+Victoria 0
+Hunter Lily Grace Camila Victoria Jack Caleb Lucas Chloe Olivia Ella Emma Aria Landon Sebastian Elijah Layla Penelope Sophia Liam Samuel Charlotte Zoe Nathan Alexander Luke David Amelia Bob
+Ellie Christian Sophia Harper Olivia Caleb Liam Elijah Hunter Zoe Lily Nathan Nora Ella Layla Chloe Isaac Jacob Luke Charlotte Lucas Daniel Emma Aria Landon Bob Jack Penelope Amelia Mason
+Isaac Bob Daniel Nora Zoe Chloe Elijah Ellie Caleb Grace Charlotte Lily
+Stella Aria Camila Sebastian Amelia Lucas Isaac
+Ella Camila Samuel Alexander
+Lily Isaac Jack Mason Zoe Penelope Alexander Luke Andrew David James Lucas Caleb Liam Victoria
+Christian Aria Hunter Landon Penelope Harper Mason Emma Samuel Grace Ellie Stella Bob James Nora Olivia Liam Charlotte Victoria Lucas Luke Zoe Amelia Jack Sebastian Chloe Elijah Isaac Camila Alexander Layla Nathan Lily Jacob Daniel Sophia
+Olivia Zoe Emma Hunter Victoria Penelope Nora James Lily Luke Camila Nathan Chloe Elijah Mason Charlotte Jack Ellie Samuel Sebastian Stella Christian Grace Landon Ella Layla Aria Isaac Liam Andrew Lucas Sophia Harper Daniel
+Grace Luke
+Sebastian David Jack Charlotte Liam Grace Nathan James Harper Elijah Aria Daniel Caleb Alexander Victoria Jacob Ellie Chloe Hunter Emma Stella Samuel Lily Landon
+Liam Samuel Landon Aria Charlotte Jack Grace Layla Emma Christian Sebastian Stella Ella Bob Camila Luke Alexander Daniel Lucas James Jacob Andrew Sophia Isaac Penelope
+Chloe Luke Elijah Caleb Christian Sophia James Charlotte Alexander Daniel Bob Olivia Ella Lucas Nora David Grace Jacob Victoria Nathan Liam Zoe Isaac Hunter Amelia Stella Landon Harper Penelope Samuel Ellie Aria Lily Emma Camila Andrew
+Nathan Amelia Charlotte Luke Liam James Stella
+Penelope Zoe Hunter Landon Lucas Olivia Nathan Charlotte Bob Luke Nora Lily Mason David Christian Elijah Emma Victoria Andrew Harper Isaac Ellie Camila Samuel Sebastian Jacob James Aria Liam Alexander Sophia Ella Layla Caleb Jack Chloe Daniel Stella Amelia Grace
+Charlotte James Amelia Daniel Camila Ellie Mason Harper Andrew Luke Aria
+Aria Andrew Lily Alexander Mason Lucas Ellie Emma Daniel Elijah Stella Grace Nora Olivia Sebastian Chloe James David Christian Luke Samuel Amelia
+James Aria Camila Penelope Landon Mason Layla Jack Harper Charlotte Victoria David Daniel Elijah Grace Nathan Alexander Chloe Zoe
+Lucas Landon Olivia Amelia Victoria Alexander Aria Emma Luke Penelope Bob Nathan Zoe
+Caleb Olivia Jacob Camila Layla David Sophia Nora Sebastian Charlotte Luke Aria Landon Andrew Ellie Penelope Christian Harper Isaac Chloe Lucas Jack Grace Samuel Liam Hunter Mason James Elijah Amelia Ella Emma Stella Daniel Zoe Nathan Lily Bob Alexander Victoria
+Daniel Nathan Sebastian Andrew Lucas Hunter Lily Camila Zoe Samuel Harper Grace Ellie Christian Victoria Bob Jack Stella Penelope Ella Layla Alexander Mason Landon Chloe Jacob Olivia Nora Caleb Charlotte Luke Emma
+Andrew Isaac Hunter Bob Ella Landon Jacob Ellie Charlotte Olivia James Luke Lucas Stella Elijah Nathan Grace Harper Emma Samuel Daniel Chloe Jack
+Jack Elijah Olivia Mason Jacob Chloe Charlotte Lily Luke Grace Harper Liam Lucas Aria Daniel Christian Bob Camila Isaac Hunter Caleb James Ella Landon Layla Sophia Emma David Nora Alexander Stella Victoria
+Elijah Ellie Landon Daniel Bob Victoria David Alexander Aria Lily Sebastian Hunter Caleb Grace Zoe Sophia Lucas Jack Amelia Chloe Nathan Luke Isaac Christian Emma Olivia Ella Camila
+Alexander Christian Layla Liam Mason Isaac Emma Victoria Andrew
+Nora Victoria Ellie Lily Hunter Penelope Nathan Isaac Chloe Aria Amelia Mason
+Harper Amelia Sophia Andrew Camila Daniel Penelope Nathan Samuel Grace David Christian Charlotte Caleb James Mason Lily Sebastian Bob Landon Lucas Jacob Liam Victoria Hunter Ella Emma Layla Nora Ellie Alexander Zoe Luke Jack Elijah Chloe Olivia
+Mason Landon Caleb Nathan Liam Ella Layla Jack Bob Luke Nora Samuel Amelia Jacob Charlotte David Isaac Lucas Christian Alexander Sebastian Aria Lily Daniel
+Samuel Victoria Alexander Camila Andrew Charlotte Jack Nora Stella Bob James Harper Layla Nathan Penelope Zoe Elijah Sophia Ellie Hunter Jacob Sebastian Daniel Lily
+Sophia Christian Elijah Aria Alexander Jack Luke Landon Grace Layla Caleb Lucas Stella Sebastian Chloe Ellie Olivia Bob Liam
+David Luke Sebastian Elijah Amelia Liam Ellie Emma Chloe Layla Penelope Nora Isaac Harper Ella Bob Christian Caleb Stella Andrew Aria Olivia Sophia Zoe Mason Alexander
+Bob Amelia Harper Alexander Olivia Andrew Sophia Victoria Lily Jacob Lucas Hunter Samuel Grace David Sebastian Aria Isaac Chloe Charlotte Penelope Ellie Caleb James Ella Nathan
+Landon David Stella Hunter Luke Daniel Ella Elijah Emma Andrew Sophia Ellie Layla Nathan James Aria Olivia Amelia Sebastian Isaac Chloe Jack Christian Alexander Victoria Harper Lily Camila Grace Samuel Nora Jacob Mason Lucas Liam Caleb Zoe Bob Penelope
+Luke Landon
+Layla Samuel Charlotte Nora
+Zoe Sebastian Luke Landon Jack Liam Christian Mason Bob Ellie Daniel Amelia Harper Nathan Grace Hunter Samuel Andrew Olivia Nora Jacob David Camila Ella Stella Charlotte Lucas Chloe Lily Victoria Penelope Layla Aria Sophia
+Amelia Jack Aria Lily Ellie Camila Landon Christian Samuel Luke Daniel Sebastian Andrew Olivia Caleb Jacob Lucas Penelope Liam Harper David Zoe Victoria Layla Chloe Alexander Mason Ella Sophia Isaac Charlotte Grace Stella Nora Hunter
+Jacob Nathan Layla Daniel Olivia Sophia Victoria Samuel Ellie Mason Hunter Lucas Emma Charlotte Liam Nora Grace Sebastian Aria James Alexander Christian Stella Penelope Amelia Luke Chloe Isaac Camila Bob David Ella Caleb Andrew
+Camila Lucas Jacob Victoria Mason Zoe Layla Charlotte Christian Emma Stella Andrew Sebastian Landon Sophia Bob Caleb Liam Olivia Amelia
+Emma David Jack Penelope Jacob Olivia Charlotte Andrew James Layla Liam Amelia Lucas Mason Grace Victoria Sophia Camila Bob Alexander Landon Lily Ella Hunter Aria Sebastian Nathan Caleb Christian Luke Samuel Elijah Daniel Chloe Nora Isaac Harper Ellie
+Victoria Alexander Lucas Aria Daniel Jack Jacob Andrew Sebastian Olivia Amelia Emma Luke Chloe Layla Sophia Mason Ella Christian Bob Isaac David
+0

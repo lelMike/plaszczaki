@@ -1,0 +1,82 @@
+40
+Christian 0
+Harper 1
+Ella 1
+Wyatt 1
+Lucas 0
+Sophia 1
+Joseph 0
+Amelia 1
+Daniel 0
+Zoe 0
+Stella 0
+Liam 0
+Emily 1
+Jackson 0
+Noah 0
+Ava 0
+Emma 0
+Bob 0
+Penelope 0
+Ellie 1
+Luke 0
+Charlotte 0
+Matthew 0
+Jack 1
+Jacob 0
+Dylan 0
+Camila 1
+Nathan 1
+Ivy 0
+Thomas 1
+Isaac 1
+Mia 0
+Samuel 0
+Landon 1
+Carter 0
+Aurora 1
+Riley 1
+Alexander 0
+Owen 1
+Nora 0
+Christian Alexander Emily
+Harper Stella Landon Thomas Owen Luke Nathan Charlotte Ava Emily Aurora Sophia Samuel Bob Zoe Christian Mia Wyatt Ella Penelope Joseph Emma Noah Isaac Riley Alexander Camila Daniel Lucas Nora Amelia Ellie Carter Liam
+Ella Ivy Dylan Riley Emily Stella Sophia Amelia Nathan Alexander Charlotte Ava Mia Jackson Harper Aurora Landon Noah Lucas Joseph Thomas Christian Samuel Nora Emma Camila Luke Jack Ellie Carter Daniel Matthew Isaac Wyatt Zoe Owen
+Wyatt Nora Mia Emily Daniel Aurora Penelope Landon Christian Jacob Alexander Amelia Ellie Owen Sophia Carter Ella Camila Matthew Joseph Harper Lucas Ivy Nathan Ava Liam Isaac Charlotte Jack Samuel
+Lucas Isaac Aurora Mia Landon Ivy Bob Stella Noah Ellie Ava Sophia Emma Riley Joseph Wyatt Jackson Penelope Amelia Carter Christian Liam Nora Nathan Samuel Emily Thomas Luke Alexander
+Sophia Ivy Isaac Emily Bob Harper Riley Nathan Samuel Stella Jack Matthew Carter
+Joseph Thomas Riley Wyatt Zoe Stella Jackson Jack Matthew Harper Alexander Samuel Charlotte Owen Nathan Lucas Carter Ellie Daniel Emma Ava Noah Sophia Dylan Camila Ivy Penelope Jacob Emily Mia
+Amelia Noah Charlotte Mia Liam Nora Luke Ivy Jack Lucas Wyatt Emma Nathan Camila Matthew Christian Dylan Riley Stella Carter Isaac Jacob Emily Harper Daniel Alexander
+Daniel Emma Samuel Emily Jacob Dylan Charlotte Jackson Christian Aurora Zoe Camila Bob Harper Jack Penelope Ellie Nora Thomas Mia Carter Lucas Owen Stella Joseph Riley Alexander Landon Ava Ella Luke Matthew Wyatt Ivy Nathan Amelia
+Zoe Owen Jacob Ellie Luke Nora Amelia Isaac Harper
+Stella Landon Alexander Emma Samuel Charlotte Mia Carter Christian Daniel Camila Thomas Dylan Matthew Aurora Penelope Riley Liam Amelia Jack Ella Ava Owen Nora
+Liam Riley Stella Zoe Wyatt Carter Dylan Harper Nathan Camila Landon Samuel Penelope Joseph Alexander Matthew Lucas Christian Charlotte Daniel Jacob Emily Bob Ella Ava Sophia Emma Jack Isaac Jackson Amelia
+Emily Penelope Zoe Harper Owen
+Jackson Joseph Christian
+Noah Bob Christian Penelope Sophia Isaac Jacob Ivy Ellie Harper Ava
+Ava Penelope Nathan Matthew Samuel Jacob Sophia Ellie Christian Ivy Aurora Bob Isaac Liam Carter Thomas Mia Zoe Riley Stella Lucas Joseph Nora Landon Wyatt Harper Ella Dylan Jackson Charlotte
+Emma Isaac Matthew Emily Stella Daniel Zoe Jacob Camila Jack Samuel Nora Joseph Jackson Bob Carter Ivy Christian
+Bob Samuel Alexander Camila Ivy Penelope Wyatt Nathan Jack Liam Joseph Emily Dylan Lucas
+Penelope Thomas Mia Carter Noah Harper Bob Stella Amelia Matthew Alexander Zoe Joseph Luke Ella Emily Camila Samuel Jacob Liam
+Ellie Charlotte Wyatt Penelope Dylan Jacob Carter Noah Amelia Thomas Daniel Jack Riley Nora Lucas Nathan Joseph Luke Landon Sophia Jackson Alexander Emily Liam Samuel Camila Matthew
+Luke Aurora Carter Charlotte Amelia Harper Noah Zoe Emma Landon Joseph Isaac Ivy Liam Owen Lucas Sophia Dylan Penelope Jackson Jacob Christian Camila Jack Emily Stella
+Charlotte Joseph Sophia Jackson Ellie Camila Christian Aurora Nora Daniel Thomas Amelia Nathan Penelope Bob Lucas Matthew Ava Ella Harper Carter
+Matthew Mia Penelope Noah Carter Emma Sophia Christian Jack Emily Owen Jackson Isaac Stella Bob Wyatt Dylan Jacob Camila Ellie Zoe Luke Aurora Samuel Alexander Ivy Liam Landon Daniel Riley Ava Joseph Thomas Nathan Lucas Nora Ella Harper
+Jack Isaac Riley Ava Nathan Luke Harper Liam Owen Dylan Jackson Stella Sophia Charlotte Landon
+Jacob Dylan Ivy Matthew Jack Carter Christian
+Dylan Landon Harper Ellie Wyatt Liam Christian
+Camila Isaac Owen Nora Harper Jacob Ella Riley Christian Amelia Emily Ellie Noah Joseph Matthew Thomas Stella Liam Daniel Emma Ivy Nathan Aurora Landon Penelope Jackson Sophia
+Nathan Bob Isaac Thomas Joseph Camila Dylan Stella Zoe Luke Wyatt Mia Samuel Nora Carter Riley Jack Liam
+Ivy Noah Emily Stella Camila Penelope Ellie Riley Bob Zoe Dylan Matthew Nora Aurora Amelia Thomas Carter Charlotte Jack Harper Landon Ella Isaac Mia Nathan Luke Alexander Jackson Samuel Liam Wyatt Lucas Daniel Jacob Ava Owen Joseph
+Thomas Matthew Riley
+Isaac Emily Thomas Landon Lucas Zoe Carter Samuel Ava Alexander Joseph Luke Bob Christian Ellie Amelia Nathan
+Mia Amelia Noah Penelope Ella Owen Nora
+Samuel Ellie Thomas Alexander Riley Zoe Charlotte Lucas Joseph Ella Luke Mia Isaac Jacob Ivy Penelope Camila Carter Harper Emily Stella Noah Nora Jackson Matthew Liam Aurora Sophia Nathan Daniel Landon Jack Ava Dylan Christian Wyatt
+Landon Riley Daniel Sophia Thomas Samuel Owen Noah Alexander Liam Camila Stella Isaac Penelope Dylan Harper Ivy Matthew Nora Jack Joseph Carter Amelia Jackson Jacob Charlotte Mia Luke Emily
+Carter Ellie Aurora Charlotte Landon Owen Alexander Thomas Samuel Mia Liam Wyatt Lucas
+Aurora Penelope Lucas Owen Jacob Samuel Ivy Alexander Joseph Riley Liam Noah Amelia Stella Nathan Thomas Jackson Landon Mia Isaac Luke Matthew Ava Christian Jack Carter Emma Nora Ellie Bob Zoe Emily Daniel Wyatt Camila Dylan Ella Sophia
+Riley Ivy Christian Liam Amelia Zoe Landon Owen Charlotte Nathan Jack Noah Matthew
+Alexander Bob Mia Isaac Liam Christian Emily Riley Jacob Penelope Stella Harper Landon Noah Carter Ellie Ella Nora
+Owen Aurora Thomas Luke Sophia Emily Bob Jacob Wyatt Christian Jack Camila Alexander Daniel Stella Harper
+Nora Thomas Carter Aurora Amelia Jack Luke Dylan Harper Noah Ava Sophia Ella Samuel Joseph Ivy Charlotte Nathan Liam
+0

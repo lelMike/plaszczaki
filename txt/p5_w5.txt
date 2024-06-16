@@ -1,0 +1,60 @@
+29
+Nathan 1
+Aurora 1
+Luke 0
+Ryan 0
+Isabella 1
+Victoria 0
+Caleb 1
+Christian 0
+William 0
+Elijah 1
+Jacob 0
+Madison 1
+Hunter 1
+Alice 0
+Jackson 1
+Aaron 1
+James 1
+Ivy 1
+David 1
+Daniel 1
+Camila 1
+Joshua 1
+Charlie 1
+Amelia 1
+Sophia 0
+Owen 1
+Layla 0
+Hannah 0
+Penelope 0
+Nathan Caleb Christian Joshua Owen
+Aurora Penelope Jackson Luke Hunter David James Camila
+Luke Jacob William Joshua
+Ryan Hannah Charlie Ivy Penelope Camila Christian Amelia William Hunter
+Isabella David Aaron Aurora Jacob Victoria Amelia Madison Hunter Jackson Owen Ryan Daniel Sophia Penelope Caleb Layla Joshua Luke Nathan Hannah Camila Christian Charlie Elijah William James
+Victoria Ryan Ivy Jackson Joshua Alice William Aaron Penelope Jacob
+Caleb Sophia Madison Ryan Aaron David Layla Daniel Camila Alice Charlie William Joshua Jackson Aurora Christian Luke Amelia Hunter Owen Ivy Elijah James Hannah
+Christian Owen Jackson Layla Caleb Isabella Jacob Penelope Nathan Amelia Elijah Alice David Daniel Hunter Camila Hannah Aaron Ryan Aurora Luke Joshua Charlie William Victoria
+William Alice Hannah Christian Hunter Sophia Jackson Owen Jacob Layla Ryan Penelope Madison Charlie Daniel Caleb Aaron Elijah Luke James Camila Joshua Amelia Isabella Aurora David Nathan Victoria Ivy
+Elijah Hunter William Alice Aurora Sophia Ryan Ivy Daniel Charlie Nathan Madison Jacob David Isabella Joshua Amelia James
+Jacob Alice Madison Jackson Aaron Christian Penelope Owen James David Hannah Layla Hunter Joshua Amelia Luke Daniel Charlie Elijah Caleb Nathan Isabella Victoria Aurora Ivy
+Madison Daniel Jacob Camila Hannah Aaron Amelia Isabella Alice Nathan Victoria Hunter Sophia Penelope James Ryan Ivy Luke Christian David Owen Joshua Aurora Elijah
+Hunter Hannah William Christian Aaron Alice Luke Ryan Elijah James Isabella Victoria David Amelia Joshua Owen Jacob Penelope Caleb Charlie Ivy Camila Nathan Sophia Daniel
+Alice Joshua Layla Ivy Jackson Penelope James Jacob Elijah Charlie Owen Isabella Camila Amelia William Madison Caleb
+Jackson Madison Penelope Hannah James David Daniel Ryan William Ivy Sophia Luke Layla Victoria Isabella Jacob Aaron Alice Hunter Camila Christian Elijah Amelia Joshua Charlie Nathan
+Aaron David Nathan Layla Alice Hunter Sophia Madison William Luke Elijah Ivy Joshua
+James Sophia Aurora Caleb Charlie Jackson Alice David
+Ivy James Victoria Madison Hunter William Daniel Aurora Charlie Jackson Alice Isabella Hannah Elijah Amelia Ryan Aaron Joshua Owen Penelope Sophia
+David Elijah Daniel Hannah
+Daniel Aaron Amelia James Sophia Layla
+Camila James Layla Hannah Aurora Charlie Jackson Aaron William Joshua
+Joshua Hannah Charlie Daniel Caleb Camila Aurora Aaron Penelope David Nathan Jackson Elijah Ivy Amelia
+Charlie James David Jacob Camila Christian Amelia Sophia Caleb Joshua Owen Hunter Ivy Madison Victoria Aaron Layla
+Amelia Victoria Ivy Elijah Caleb Luke Joshua Daniel Jackson Layla Hunter Nathan Alice Aaron Owen Sophia Ryan
+Sophia Alice Ryan Jacob Joshua
+Owen Sophia Madison Jackson Penelope Elijah Aurora Victoria Aaron Daniel Caleb William Hunter Ivy Joshua
+Layla Aaron Christian
+Hannah Owen Jacob Joshua Ivy Nathan Madison James Jackson William Hunter Amelia Aaron Ryan Layla Penelope Caleb David Charlie
+Penelope Joshua Isabella Luke Owen Madison Caleb Aaron Sophia Aurora Ryan Hunter
+0

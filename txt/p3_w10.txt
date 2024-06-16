@@ -1,0 +1,82 @@
+40
+Charlotte 1
+Ryan 1
+Henry 1
+Dylan 1
+Camila 1
+Emma 0
+Grace 1
+Hazel 0
+Jacob 1
+Stella 1
+Alice 1
+Elijah 1
+Olivia 1
+Amelia 1
+Hannah 1
+Chloe 0
+Mason 1
+Nora 0
+Ella 0
+Madison 0
+Penelope 0
+Luke 1
+Carter 1
+Emily 0
+Gabriel 0
+Aaron 1
+Landon 1
+Victoria 0
+Zoe 0
+William 0
+Samuel 1
+Harper 1
+Thomas 1
+Layla 0
+Luna 1
+Isabella 1
+Nathan 0
+Jackson 1
+Sophia 1
+Aria 0
+Charlotte William Ryan Landon Chloe Madison Victoria Aaron Penelope Jacob Grace Layla Luke Camila Emma Elijah Stella Nora Henry
+Ryan Luna Aaron Sophia Madison Ella Gabriel Emma Jackson Carter Henry Landon Charlotte Harper Camila Zoe Dylan Luke Thomas Olivia Emily Jacob Stella William Layla Alice Grace Hannah
+Henry Camila Nora Dylan Carter Luna Alice Amelia Luke Stella Zoe Chloe Sophia Samuel Aria Gabriel Emily Charlotte Emma Elijah Nathan Mason Harper Isabella Ella Ryan Grace Victoria Aaron William Jackson Penelope Layla Jacob Landon Olivia Thomas Hannah Hazel
+Dylan Chloe Emily Camila Layla Zoe Jacob Amelia Thomas Nora Aaron Samuel Mason Sophia Olivia
+Camila Aria William Alice Landon Zoe Aaron Victoria Chloe Penelope Hannah Layla Harper Dylan Elijah Samuel Jacob Nathan Jackson Thomas Isabella Emily Hazel Mason Carter Henry Nora Emma Ryan Olivia Amelia
+Emma Hannah Gabriel Camila Layla William Nora Alice Chloe Thomas Mason Jackson Sophia Victoria Luke Zoe Carter
+Grace Olivia Penelope Ryan Thomas Jacob Dylan Zoe Gabriel Camila Emma Hazel Samuel Chloe William Landon Aria Sophia Luna Stella Amelia Mason Isabella Nora Ella Carter Emily Elijah Charlotte Harper Luke Alice
+Hazel Aaron Stella Jacob Chloe Isabella Luke Grace Camila Landon William Nora
+Jacob Layla Charlotte Madison Jackson Ella Carter Hazel Emma Luke Luna Hannah Alice Penelope Thomas Landon Dylan Emily Camila Victoria Henry William
+Stella Nathan Hannah Samuel Victoria Alice Gabriel Grace William
+Alice Elijah Ryan Nathan Luna Amelia Harper Zoe Jackson Emily
+Elijah Thomas
+Olivia Elijah Carter Camila Aaron Sophia Ryan Landon Hannah Amelia Henry Grace Harper Hazel Layla Gabriel Victoria William Chloe Samuel Luke Luna Alice Zoe Emily Charlotte Aria
+Amelia Nathan Olivia Emma Madison Luke Hannah Landon Layla Alice Camila Ella Sophia Jackson Thomas Mason Gabriel Samuel Penelope Charlotte Nora Isabella Henry Carter Stella Ryan Dylan Aaron Emily Aria Chloe Victoria William Zoe Luna Grace
+Hannah Elijah Nathan Layla Madison Ryan Zoe Luke Gabriel Ella Isabella Dylan Samuel Aaron Grace Amelia Hazel Mason Nora Emma Stella Henry Thomas Alice Aria Olivia
+Chloe Landon Victoria Emily Gabriel
+Mason Elijah Harper Alice Ryan Hannah Layla Jacob Henry Dylan Luke Chloe Ella Emma Olivia Zoe Nora Carter Thomas Victoria Amelia Nathan Penelope Stella Isabella Sophia Hazel Samuel Grace Camila Emily Aria Landon Charlotte Jackson William Gabriel Luna
+Nora Madison Hazel Emma Elijah Olivia Alice Isabella Thomas William Emily Chloe Grace Layla Aaron Luke
+Ella William Elijah
+Madison Penelope Alice Ella Elijah Victoria Mason Isabella Hazel Dylan Emma Aria Jackson Amelia Layla Chloe Gabriel Hannah Henry Nora Thomas Nathan
+Penelope Aria Stella Luke Samuel
+Luke Gabriel Jacob Aaron Henry Sophia Thomas Landon Stella Alice Amelia Madison Elijah Ella Nora Mason Hannah Charlotte Dylan Samuel Layla William Grace Chloe Zoe Isabella Emma Carter Jackson Aria Emily Olivia Ryan Harper Penelope Victoria Hazel
+Carter Olivia Ryan Aria Nora Jackson Hannah Chloe Layla Emma Charlotte Madison Stella William Aaron Zoe Ella Luke Victoria Mason
+Emily Thomas Charlotte Hannah William Ella Carter Henry Isabella Nora Victoria Alice Layla Penelope Aaron Emma Camila Amelia Ryan Grace Landon Olivia Jacob Mason Aria Elijah Jackson Chloe Gabriel Harper Sophia Madison Luke Zoe Hazel
+Gabriel Nora Hannah Layla Aria
+Aaron Grace Mason Hannah Sophia Camila Hazel Gabriel Nathan Isabella Samuel Elijah Charlotte Thomas Penelope
+Landon Jacob Layla Ella Isabella Amelia Carter Samuel Stella Luna Thomas Victoria Aaron Henry Harper Nora Camila Alice Grace
+Victoria Dylan Mason Jacob Landon Charlotte Samuel Hannah Nora Luke Sophia Olivia Alice Aria Luna Carter Emily Layla Thomas Madison Zoe Camila
+Zoe Madison Grace Elijah Hannah Charlotte Mason William Henry Sophia Thomas Aaron Hazel Carter Layla Chloe Stella Dylan Landon Isabella Ryan Victoria Luke Emma Nathan Olivia Samuel Jackson Amelia Ella Camila Nora Luna Penelope Harper Alice Emily Gabriel
+William Luke Hannah Harper Luna Landon Layla Alice Zoe Aria Dylan Nathan Hazel Thomas Victoria Charlotte Emma Carter Madison Aaron Samuel Olivia
+Samuel Sophia Landon Thomas Olivia Chloe Zoe Dylan
+Harper Stella Chloe William Nora Amelia Landon Henry Charlotte Isabella Camila Emily Samuel Elijah Alice Grace Zoe Victoria Hazel Nathan Aria Jacob Gabriel Hannah Olivia Carter Penelope Layla Mason Madison
+Thomas Grace Dylan Zoe Jacob Mason Hazel Hannah Gabriel Stella Luke William Landon Madison Aaron Camila Nora Aria Chloe Harper Olivia Henry Samuel Ella Victoria Emma Sophia Amelia Penelope Isabella Layla Ryan Emily Luna
+Layla Camila Samuel Ella Ryan Amelia Isabella
+Luna Victoria Layla Aaron Zoe Stella Charlotte Harper Jacob Madison Hazel Samuel Ella Olivia Camila Emily Sophia
+Isabella Thomas Elijah Nathan Henry Madison Victoria Luke Jacob Emma Olivia Alice Gabriel William Ryan Grace Zoe Ella Emily Hazel Landon Aaron Stella Amelia Penelope Carter Aria Camila Chloe Sophia Layla Luna Jackson Nora Dylan Harper Charlotte Mason
+Nathan Luna Henry Chloe Jackson Aaron Hazel Penelope Grace Carter Madison Dylan Nora Emily Isabella Luke Sophia Zoe Stella William Aria Landon Alice Camila Emma Mason Samuel Amelia Ryan Hannah Layla Jacob Olivia
+Jackson Isabella Sophia Dylan Samuel Nathan Amelia Hannah Penelope Landon Elijah Alice Thomas Madison Henry Olivia Grace Emily Jacob Victoria Chloe Hazel Aria Ella Harper Ryan Emma Camila Luna Zoe
+Sophia Victoria Layla Jackson Thomas Isabella Zoe Aaron Penelope Harper Nathan Alice Elijah Chloe William Olivia Camila Emma Hazel Carter Charlotte Landon Ryan Amelia Emily Henry Gabriel Madison Grace Hannah Ella Jacob Mason
+Aria Harper Luke Emily Gabriel Luna Landon Hazel Jackson Carter Isabella Mason Zoe Dylan Nora Nathan Victoria Layla Thomas Ella Hannah William Penelope Stella Chloe Aaron Olivia Madison Amelia Sophia Grace
+0

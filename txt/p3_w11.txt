@@ -1,0 +1,82 @@
+40
+Ella 0
+Nora 0
+Sophia 0
+Matthew 0
+Charlie 0
+Zoe 1
+Andrew 0
+Penelope 0
+Ellie 0
+Lucas 1
+Landon 0
+Zoe 1
+Amelia 0
+Jacob 1
+Noah 1
+Jack 0
+Caleb 1
+William 0
+Eve 0
+Victoria 0
+Harper 1
+Thomas 0
+Mila 0
+Nathan 0
+Hunter 1
+Sophia 1
+Hazel 0
+Henry 1
+Aaron 0
+Aria 1
+Oliver 0
+James 1
+Mia 1
+Chloe 0
+Bob 0
+Aurora 1
+Benjamin 0
+Dylan 1
+Aiden 0
+Luke 0
+Ella Aiden Caleb Amelia Zoe Jacob Ellie Thomas William Aurora Matthew Mila Chloe Victoria Jack Andrew Harper Nathan Penelope James Benjamin
+Nora Eve Mia Hazel Lucas Harper Oliver Charlie Henry Sophia Benjamin Matthew Aiden Sophia Zoe Ella Aurora Nathan Aaron Jacob
+Sophia Harper Landon Oliver Nora Penelope Amelia Victoria Nathan Henry Jacob Aiden Jack Ellie Aurora William Hunter Caleb Charlie Bob Matthew Zoe Chloe James Mia Aria Aaron Hazel Noah
+Matthew Andrew Chloe Zoe Henry Hunter Oliver Charlie Luke Landon Aurora Hazel
+Charlie Oliver Bob Lucas Eve Andrew Thomas Aurora Sophia Zoe Ellie Caleb Dylan Matthew William Noah Jacob Aaron Henry Harper Nora Landon Mia Sophia Luke Hazel Amelia
+Zoe Aaron Harper Aiden Oliver Bob Amelia Hazel Noah Nathan Lucas Aria
+Andrew Ellie Chloe Sophia Hunter Eve Thomas Matthew Luke James William Aria Landon Aurora Jack Mia Caleb
+Penelope Noah Eve Lucas Harper Zoe Mila
+Ellie William Nathan Harper Mila Dylan Sophia Amelia Oliver Ella Henry Chloe Thomas Aurora Nora Benjamin
+Lucas Matthew Hunter Benjamin Dylan Sophia Nathan Chloe Victoria Ellie Zoe James Henry Luke Nora Sophia Zoe Mila Caleb Thomas Aiden Jacob Jack Charlie Mia Hazel Penelope Bob Landon Amelia William
+Landon Luke Sophia Nora Lucas Noah Hunter Benjamin Matthew Ella Andrew Harper Nathan Aurora Chloe Aria Mia
+Zoe Aria Harper Andrew Mila Lucas Amelia Nathan Eve Victoria Henry Ella Aiden Jacob Landon Noah Aurora William Hazel James Dylan Hunter Penelope Charlie Thomas Ellie
+Amelia Matthew Sophia Victoria Nora William Dylan Aaron Benjamin Hunter Eve Aiden Lucas Landon Mila Nathan Henry Zoe Sophia Hazel Ellie Ella Noah Bob Jack Chloe Penelope Mia Thomas Aurora Luke Charlie Jacob James Harper Andrew Caleb Oliver Zoe Aria
+Jacob Luke Henry Hunter Aria Nathan Aurora Victoria Eve Amelia Noah Zoe Bob Sophia Zoe Sophia Landon Chloe Jack Andrew Aiden Ellie Caleb Matthew Aaron Penelope James Harper Dylan Oliver Lucas Benjamin
+Noah Bob Charlie
+Jack Oliver Zoe Hunter Matthew Andrew Landon
+Caleb Matthew Noah Aurora Chloe
+William Mila Lucas Ella Dylan Henry Matthew Hunter Andrew Noah Chloe Benjamin Jack Nora Victoria James Nathan Amelia Hazel Luke
+Eve Zoe Sophia Ella Hunter Bob Aiden Hazel Luke Penelope Thomas Lucas Sophia
+Victoria Zoe Oliver Sophia Benjamin Zoe Eve Hazel Nora Penelope Matthew Mila Ellie James William Landon Aurora Bob Aaron Harper Luke Amelia Jack Aria Noah Jacob Henry Thomas Nathan Chloe
+Harper Chloe Andrew Aria Matthew Sophia Charlie William Henry
+Thomas Aiden Eve Nathan James Matthew Harper Caleb Aaron Ella Benjamin William Bob Ellie Zoe Noah Penelope Sophia Mia Dylan Amelia Aurora Victoria Andrew Luke Sophia Mila Henry Chloe Oliver Aria Hunter Jack Hazel Landon Lucas Charlie Nora Jacob Zoe
+Mila Nora William Aiden Harper Ellie Aria Aaron Aurora Ella Chloe Landon Charlie Jack Nathan Andrew Matthew Oliver James Lucas Thomas Bob Zoe Hazel
+Nathan Landon Mila Hazel Henry Nora Mia Ella Aria Ellie Zoe Zoe James Chloe Sophia Luke Victoria Amelia Lucas Matthew Sophia Dylan Penelope Harper Noah Jacob Eve Charlie Aiden Aaron Aurora Benjamin Jack William Caleb Bob Hunter Andrew
+Hunter Noah Zoe Amelia Charlie William Bob Aiden Penelope Luke Caleb Aria James Nathan Oliver Ella Harper Benjamin Henry Aurora Sophia Victoria Chloe Ellie Nora Thomas Dylan Jacob Landon Lucas Mia Andrew Mila Eve Jack Hazel
+Sophia Benjamin Zoe Thomas Aria Matthew Noah Chloe Mia Aiden
+Hazel Sophia Dylan Benjamin Noah Victoria Amelia Lucas Oliver
+Henry Aaron Jack Chloe Nora Landon Ella Penelope Aurora Sophia Mila James Caleb Thomas
+Aaron Jack Oliver Amelia Lucas Aria Chloe Bob Noah Aiden Charlie Zoe Nathan Mila Eve Hunter William Mia Benjamin Ellie Matthew Nora Landon Caleb Aurora Luke Hazel James Victoria
+Aria Matthew Chloe Victoria Zoe Mila Sophia Luke Henry Aiden Andrew Harper Sophia Thomas Mia James Ellie Landon Nathan Benjamin Aurora Dylan Zoe Oliver Lucas Bob William
+Oliver Aiden Jacob Landon Dylan Caleb Mila Andrew Zoe Charlie Benjamin Nathan Henry Bob Chloe Penelope Mia Harper Eve Noah Matthew Amelia Hunter Ella
+James Eve Zoe Bob Mila Hunter Aria Zoe Matthew Andrew Caleb Aaron Luke Oliver Landon Penelope Victoria Lucas Thomas Ellie Benjamin Nathan Amelia Charlie Sophia Sophia Noah Jack William Jacob Mia Harper
+Mia Hazel Ellie Aria Matthew Sophia Landon Ella Luke Bob Dylan Jacob Noah Sophia Aaron Jack Andrew Harper Aurora Benjamin Lucas Amelia Mila Aiden Eve Oliver Nora William Nathan Henry Hunter Chloe Charlie Penelope Zoe Victoria Thomas
+Chloe Hunter Eve Hazel Dylan Nathan Sophia Luke Ellie Lucas Jack Caleb Henry Oliver Aaron James Mila Ella Zoe Sophia William Benjamin Noah Thomas Victoria Landon Nora Zoe Matthew Jacob
+Bob Caleb Matthew Zoe Andrew Chloe Mila Henry Noah James Nora Victoria Mia Oliver Nathan Amelia Aiden
+Aurora Caleb Amelia Hunter William Aaron Penelope Matthew Eve Thomas Landon Bob Charlie Aria Jack Hazel Oliver James Benjamin Noah Dylan Jacob Nora Ella Henry Nathan Lucas Zoe Victoria Andrew Mia Mila Zoe Ellie Sophia Luke Harper Sophia Chloe
+Benjamin Chloe Hunter William Dylan
+Dylan Aria Thomas Mila Zoe Jacob Aurora Sophia Bob Eve Chloe Ellie Henry
+Aiden Aurora Jacob Amelia Noah Eve Oliver Jack Henry
+Luke Penelope Noah Benjamin Oliver Jacob Landon Aurora Ella Hazel Nora Sophia William Bob Mila Aaron Aria Zoe Thomas Charlie Amelia Hunter Nathan Lucas Caleb Andrew Chloe Aiden Sophia Victoria Eve Jack Zoe James Ellie Mia Dylan Henry Matthew
+0

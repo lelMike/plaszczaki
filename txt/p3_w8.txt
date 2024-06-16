@@ -1,0 +1,82 @@
+40
+Alexander 1
+Hannah 1
+Zoe 1
+Madison 1
+David 0
+Isaac 1
+Aurora 1
+Samuel 1
+Grace 0
+Thomas 0
+Owen 1
+Bob 0
+Alice 1
+Dylan 1
+Andrew 0
+Amelia 0
+Harper 0
+Sebastian 1
+Henry 1
+Sophia 1
+Layla 0
+Jack 1
+Stella 0
+Aaron 1
+Scarlett 1
+Isabella 0
+Elijah 0
+Ryan 1
+Wyatt 0
+Mila 0
+Hunter 0
+Hannah 0
+Ivy 1
+Ava 1
+Charlotte 1
+Lucas 1
+Zoe 1
+Ella 1
+Caleb 0
+Emily 1
+Alexander Caleb Hunter Zoe Isabella Mila Amelia Jack Samuel Elijah Lucas David Zoe Sebastian Madison Aurora Stella Scarlett
+Hannah Emily Andrew Stella Aurora Alice Hunter Owen Charlotte Ivy Aaron Sophia Henry Harper Elijah Samuel David Mila
+Zoe Wyatt Grace Ava Ryan Hannah Andrew Amelia Elijah Aaron Aurora Hunter Charlotte Sebastian
+Madison Amelia Grace Scarlett Ella Henry Alice Sebastian Bob Isaac Emily Mila Isabella Alexander
+David Samuel Aaron Sophia Charlotte Madison Scarlett Andrew Dylan Isaac Owen Stella Hunter Hannah Amelia Alexander Mila Zoe Hannah Ryan Ava Sebastian Harper Lucas Isabella Elijah Aurora
+Isaac Charlotte Ava Mila Grace Isabella David Dylan Aaron Lucas Jack Alice Madison Owen Hannah Zoe Sebastian Ella Emily Sophia Elijah Amelia Hannah Ryan Alexander
+Aurora Alexander Layla Isabella Scarlett Emily Harper Caleb Madison Elijah Henry Thomas Amelia Stella Ella Zoe Lucas Ivy Owen Bob Zoe Ava Samuel Sebastian Andrew Wyatt Jack Charlotte Hannah Sophia Mila Dylan Grace Hannah Ryan Hunter Aaron Alice Isaac
+Samuel Isabella Hunter Ella Layla Henry Charlotte Isaac Bob Ivy Lucas Aaron Hannah Alexander Sebastian
+Grace Isabella Lucas Samuel Henry Dylan Stella Caleb Andrew Hannah Ava Isaac Amelia Jack
+Thomas Alice Ella Stella Emily Andrew
+Owen Hunter Alice Jack Elijah Isabella Isaac Ava Alexander Thomas Charlotte Madison Wyatt Aurora Bob Emily Henry Ella Zoe Hannah Sebastian Aaron Ivy Harper Zoe Sophia Hannah Dylan Grace Amelia Caleb Stella Samuel
+Bob Layla Isabella
+Alice Hannah Layla Aaron Aurora Samuel Zoe Sophia Hannah Ella Alexander Dylan Scarlett Mila Sebastian Emily Henry Ava Madison Jack Isaac Zoe Stella Isabella David Charlotte Lucas Wyatt Bob Andrew Ivy Harper Owen Ryan Caleb Elijah
+Dylan Isaac Mila Scarlett Sebastian
+Andrew Sebastian Ella Alexander Aurora
+Amelia Charlotte Andrew Stella David Isabella Jack Ivy Caleb Dylan Aaron Zoe Owen Sophia Sebastian Thomas Zoe Hannah Grace Samuel Scarlett Ryan Lucas Aurora Elijah Layla Ella Madison Ava Harper Bob Mila Hannah Hunter Wyatt Henry
+Harper Elijah Alice Ivy Ella Stella Thomas Hannah Zoe Ryan Sebastian Lucas Zoe Amelia Madison Charlotte Grace Isabella Scarlett Alexander Layla Hunter Emily Ava Owen Wyatt Bob Dylan Mila Samuel David
+Sebastian Layla Thomas Harper Ivy Madison Alexander Wyatt Samuel Dylan Mila Aaron Lucas Ryan Bob Grace Ella Isaac Charlotte
+Henry Caleb Mila Hunter Harper Charlotte Isabella Thomas Stella Scarlett
+Sophia Layla Ava Andrew Lucas Scarlett Elijah Hannah Thomas Ella Sebastian Henry Bob Harper Charlotte Samuel Aaron Madison Isaac Aurora Jack
+Layla David Lucas Charlotte Amelia Zoe Alice Ella Hannah Hannah
+Jack Bob Charlotte Zoe Andrew Owen Alice Dylan Ella Ava
+Stella Amelia Sebastian Layla Owen Caleb Aaron Grace
+Aaron Andrew Grace Emily Henry Ryan Ava Alexander Hannah Amelia Jack Samuel Sophia Madison Ivy Scarlett
+Scarlett Alice Lucas Jack Madison Caleb Sebastian Hannah Alexander
+Isabella Henry Jack Lucas Aaron Charlotte Bob Hannah Alexander Grace Alice Zoe Layla Elijah Amelia Sebastian Wyatt Aurora
+Elijah Alice Owen Ella Grace Aaron Andrew Hannah Alexander Mila Isaac Bob Hannah Zoe Stella Sebastian Isabella Wyatt Dylan Zoe Harper Amelia Emily Ava Aurora Madison Lucas Samuel Scarlett Sophia Jack Charlotte Ryan
+Ryan Amelia Hunter Jack Mila Stella Andrew Thomas Charlotte Elijah Samuel Ivy Bob Hannah Ava Wyatt Madison Aurora Scarlett Ella David Alice Isaac Sebastian Henry Zoe Sophia Zoe Layla Aaron Caleb Owen Isabella Dylan Hannah Emily Grace Alexander Lucas
+Wyatt Stella Isaac Ryan Ivy Sophia
+Mila Grace Ella Samuel
+Hunter Wyatt Sebastian Aurora Lucas Alice Mila Samuel Charlotte Sophia Stella Henry Layla Emily Ryan Owen Aaron
+Hannah Scarlett Caleb Dylan David Owen Elijah Lucas Grace Ryan Alexander Thomas Madison Aurora Ella Ava Zoe Charlotte Samuel Mila Zoe Aaron Isaac Sebastian Jack Andrew Isabella Harper
+Ivy Wyatt Bob Henry Harper Amelia Jack Hannah Alice Aurora Samuel Alexander Dylan Hunter Aaron Zoe Caleb Layla Lucas Sebastian Sophia Ella Ava Stella Madison Ryan Andrew Isabella Charlotte Emily Scarlett Grace Isaac Owen Elijah Thomas David Hannah
+Ava Wyatt Madison Caleb Sophia Zoe Isaac Harper David Ivy Layla Owen Sebastian Stella Amelia Ella Alice Dylan Thomas Elijah Samuel Aaron Lucas Andrew Mila Ryan Zoe Bob Hannah Charlotte Emily Aurora Alexander Henry Grace Hunter Jack
+Charlotte Stella Ella Amelia Grace Zoe Owen Mila Andrew Thomas Scarlett Samuel Isaac Sebastian Dylan Emily Alice Madison Elijah Sophia David Ava Ivy Wyatt
+Lucas Charlotte Wyatt Hannah Elijah Hunter Hannah Bob Scarlett Isabella Alice Layla Samuel Andrew Ryan Owen Aaron Amelia Jack Thomas Madison Sophia Grace Isaac Mila Zoe
+Zoe Mila Henry Jack Grace Caleb Aaron Scarlett Elijah Dylan Ryan Owen Samuel Lucas Ella Isaac Aurora Madison Ava
+Ella Elijah Scarlett Henry Aurora Hannah Isabella Alice Harper Dylan Andrew Grace Emily Layla
+Caleb Grace Hannah Charlotte Zoe Ava Hannah Jack David Samuel
+Emily Zoe Caleb Andrew Henry Alice Lucas Jack Dylan Charlotte Ava Owen Aaron Zoe Sebastian Ivy Isabella Scarlett Layla Bob Wyatt Thomas Ella
+0

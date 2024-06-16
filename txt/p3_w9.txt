@@ -1,0 +1,82 @@
+40
+Carter 1
+Thomas 0
+Henry 0
+Aaron 1
+Harper 0
+Ellie 1
+Alexander 0
+Amelia 1
+Grace 1
+Penelope 1
+Bob 1
+Mia 0
+Mia 0
+Aria 0
+Zoe 1
+Jacob 1
+Gabriel 0
+Mason 0
+Emma 1
+Caleb 1
+Daniel 1
+Andrew 0
+Olivia 0
+Aurora 1
+Madison 1
+Oliver 1
+William 0
+Sophia 0
+Elijah 1
+Isaac 0
+Scarlett 0
+Hannah 1
+Jack 0
+Avery 0
+Dylan 0
+Hunter 1
+Charlotte 1
+Levi 0
+Joshua 0
+James 0
+Carter Isaac Bob Oliver Daniel Olivia Avery Thomas Caleb Emma Hunter
+Thomas Aurora Emma Charlotte Caleb Ellie Penelope Avery Gabriel Dylan Alexander Scarlett Grace Andrew Bob Henry Olivia Hunter Elijah Daniel Mia Amelia James Madison Sophia Mason Harper
+Henry Jacob Mason Levi Aurora Harper Charlotte Ellie Amelia Olivia Joshua Gabriel Oliver Mia Aaron Carter Thomas Isaac Mia Penelope Bob Dylan Caleb Scarlett
+Aaron Penelope Amelia Hannah Hunter Zoe William Jack Sophia Bob Elijah Aria Mia Emma Caleb Joshua Scarlett Carter Andrew Gabriel Alexander Oliver
+Harper Daniel Isaac Avery Caleb Grace Amelia Mason Olivia Jack Scarlett Aaron Dylan Levi Jacob Aurora Andrew Mia Aria Sophia Thomas Gabriel Joshua Mia Hunter Ellie Penelope Charlotte Alexander Elijah Emma Bob Madison Carter Henry William
+Ellie Mia Elijah Henry Carter William Mason Alexander Gabriel Jack Levi Dylan Charlotte Amelia Aaron Mia Scarlett Olivia Hannah Caleb Harper Penelope Jacob Emma Aurora Aria Bob Oliver Zoe Joshua Avery Thomas Isaac Madison Andrew Grace Hunter James Daniel
+Alexander Amelia Elijah Madison Jacob Hunter Bob Aaron Oliver Zoe Levi Charlotte Mason William Avery Mia Scarlett Jack Isaac Gabriel Joshua Harper Grace Daniel Thomas Aurora Sophia
+Amelia Zoe Daniel Madison Mia Grace William Jack Aurora Harper Mason Isaac Dylan Caleb Emma
+Grace Harper Mia Charlotte Mason Gabriel Daniel Bob Amelia Madison Jacob Aria Joshua Mia Isaac Elijah Emma William Aurora Zoe Ellie Levi Caleb Scarlett Dylan Carter Aaron Sophia Thomas James Jack Henry Alexander Avery Hunter Penelope Hannah Andrew Oliver
+Penelope Dylan Mia Harper Scarlett Madison Aurora Caleb Charlotte Oliver Levi
+Bob Olivia Isaac Madison Caleb Charlotte Carter Mia Avery Aaron Daniel Amelia
+Mia Mason Grace Henry Amelia Thomas Charlotte Joshua Zoe Alexander Andrew Madison Olivia Hunter Gabriel Aurora Isaac Aria Jack Dylan Emma William Carter Harper Elijah Avery Daniel Penelope Ellie James Oliver Bob Sophia Jacob Levi
+Mia Penelope Zoe Sophia Amelia Oliver Bob Aurora Andrew Henry Gabriel Avery Daniel Jack Olivia Ellie Thomas Dylan Jacob Charlotte Joshua Aaron Hannah Grace James Isaac Aria William Carter Mason Madison Harper
+Aria Elijah Henry Aurora Andrew William
+Zoe Elijah Ellie Olivia Caleb Isaac Aria Oliver Jack Hannah
+Jacob Madison Daniel Mia Harper Isaac Aaron Olivia Amelia Dylan Scarlett Andrew Penelope Sophia Joshua Levi Thomas William Zoe Caleb Alexander Aurora Hunter Hannah Emma Gabriel James Elijah Aria
+Gabriel Jacob Carter Alexander Hunter Levi Jack Andrew Aurora Madison Daniel Ellie Mason Sophia Amelia Caleb Bob Scarlett Avery Isaac Mia Grace Mia Dylan Oliver Thomas Aaron Charlotte William Henry Harper Olivia Joshua James Elijah Emma Penelope Hannah
+Mason Charlotte Amelia Bob Avery Alexander Jacob Henry Thomas Aria William Aurora James Joshua
+Emma Scarlett Henry Jacob Hunter Daniel William
+Caleb Aria Jack Olivia Andrew Harper James Emma Aurora Gabriel Mia Charlotte Daniel William Sophia Joshua Mia Elijah Henry Scarlett Zoe Grace
+Daniel Mason Joshua Thomas Sophia Harper William Emma Jack Olivia Oliver Bob Henry Charlotte Penelope Mia Gabriel Carter Amelia Ellie Levi Aria Hannah Aaron Avery Jacob Mia Isaac Alexander Scarlett Elijah Madison Andrew Dylan Aurora Zoe Caleb James Grace Hunter
+Andrew Mia Charlotte Olivia Bob Amelia Grace William Mia James Jack Hannah Penelope Gabriel Scarlett Aaron Thomas Zoe Daniel Ellie Isaac Aurora Levi Mason Jacob Caleb Aria
+Olivia Mia Grace Elijah Oliver Hunter Hannah Dylan Avery Emma Sophia Jack Jacob Thomas Henry Alexander Andrew
+Aurora Sophia Carter Hannah Aria Jacob Grace Bob Harper
+Madison Aria Mason Aaron Hunter Emma Scarlett Sophia Bob Thomas
+Oliver Grace Zoe Scarlett Jack Elijah Harper Aaron Aria Levi Alexander Gabriel Caleb Bob Hannah Mason Isaac Dylan Jacob Amelia Carter Charlotte Emma Henry
+William Aurora Carter Isaac Hannah James Aaron Henry Aria
+Sophia Zoe Mia Hunter Scarlett Grace Oliver Mason Amelia Henry Ellie Penelope James Olivia Emma Gabriel Caleb Dylan Levi Bob Thomas William Daniel Carter Harper Madison Andrew Mia Jack Isaac Alexander Aaron Elijah Jacob Aurora Aria
+Elijah Aria Hunter Isaac Harper Aurora Thomas Jack Madison Aaron William Andrew Gabriel
+Isaac Scarlett Jack Aaron Zoe James Sophia Henry Avery Charlotte Oliver Ellie Hannah Alexander Olivia Daniel Andrew Dylan Penelope Harper Hunter Grace Aria Joshua Elijah Mia Madison Jacob Caleb Levi Bob Gabriel
+Scarlett Dylan Aurora Mason Daniel Gabriel Mia Elijah Hunter Caleb Oliver Mia Zoe Harper Amelia Emma Carter Thomas Bob Jack James Olivia Andrew Madison Penelope Sophia Isaac
+Hannah Oliver Isaac Ellie Charlotte Joshua Daniel Aria Amelia Gabriel Scarlett Madison Levi Zoe Elijah Aurora Jacob Hunter William Dylan Thomas Caleb Mia Grace Mason Mia Henry Carter Emma
+Jack Levi Aaron Grace Madison Hannah Olivia James Andrew Aurora Amelia Jacob Penelope Daniel Zoe Carter Thomas Gabriel Henry Mason Elijah Harper Caleb Mia Hunter Emma William Aria Scarlett Alexander
+Avery Hunter Scarlett Madison Caleb Alexander Aria Amelia Charlotte Bob Penelope Mia Dylan Oliver James Henry William Jacob Olivia Daniel Emma Carter Gabriel Grace Aurora Elijah Joshua Isaac Mason Harper Hannah Mia Zoe Jack Sophia
+Dylan Mia Amelia Levi Harper Caleb Scarlett Olivia Mason Hannah Elijah Thomas Andrew Isaac Aria Gabriel Ellie Sophia Madison Alexander Aaron Bob Penelope Mia Charlotte Carter Henry Aurora Oliver Jack Hunter Grace Emma William Zoe James Jacob Joshua Daniel Avery
+Hunter Levi William Bob Jack Mia Avery Thomas Elijah Scarlett Charlotte Ellie
+Charlotte Aria Caleb Dylan Emma Penelope Olivia Zoe Mia Bob Madison Alexander Joshua Mason
+Levi Mia Hunter Amelia Gabriel Olivia Hannah Aaron Penelope
+Joshua Aurora Oliver Mason Charlotte Alexander Henry Mia William Sophia Jack Levi Scarlett Emma Elijah Olivia Harper Zoe Daniel Isaac Caleb Bob Dylan Hunter Madison Hannah Carter Thomas Amelia Ellie James Mia Andrew Aria Penelope Gabriel Grace
+James Levi Oliver Caleb Andrew
+0

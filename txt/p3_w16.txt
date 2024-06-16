@@ -1,0 +1,82 @@
+40
+Sophia 1
+Andrew 1
+Harper 1
+Olivia 1
+Noah 0
+David 1
+Hunter 1
+Hannah 1
+Layla 1
+Mia 1
+Owen 1
+Riley 0
+Mila 1
+Avery 1
+Jack 0
+Gabriel 1
+Amelia 0
+Wyatt 0
+Henry 0
+Daniel 1
+Hazel 1
+Chloe 1
+James 1
+Grace 1
+Mason 1
+Scarlett 1
+Aria 0
+Nora 0
+Joshua 1
+Levi 1
+Isaac 0
+Joseph 1
+Dylan 1
+Ryan 1
+William 1
+Madison 1
+Stella 1
+Elijah 0
+Oliver 0
+Liam 1
+Sophia Mia Dylan Hunter Henry Harper Liam Hazel Jack Ryan Madison Daniel Wyatt Isaac Amelia Joseph Scarlett Riley David Andrew Hannah Gabriel
+Andrew Isaac Daniel Hazel Hunter Elijah Nora Oliver Madison Mia Levi Riley Gabriel
+Harper Mia Avery
+Olivia Avery Mason William Oliver Layla Elijah Aria Sophia Wyatt Liam Amelia Levi
+Noah Daniel Sophia Elijah Grace Nora Madison Mila William
+David Aria Elijah Mila Hunter Andrew James Riley Mason Henry Liam Grace Amelia Daniel Ryan William Olivia Layla Jack Mia Hazel Sophia Joseph Stella Noah
+Hunter Daniel Jack Mason Wyatt Madison Elijah Joseph Grace Joshua Andrew Oliver
+Hannah Noah Owen James Joseph Riley Layla Hazel Harper Henry Scarlett Liam Mila Avery Oliver Isaac Mia Wyatt David Jack Ryan Chloe Aria Daniel Elijah Hunter Grace Nora Sophia Olivia Mason Dylan Levi Gabriel Madison Amelia Stella Andrew
+Layla Amelia Madison Stella
+Mia David Sophia James Aria Noah Mila Joseph Andrew Amelia William Avery Dylan Isaac Wyatt Nora Joshua Harper Hannah Hazel Ryan Elijah
+Owen Hunter Daniel Mason Hannah Liam Noah Ryan Nora Chloe Avery James Wyatt Sophia Grace Harper Madison Oliver Andrew Riley Scarlett Layla Hazel Elijah Stella William Dylan Isaac Jack David Joshua Gabriel Aria Mila Joseph Levi
+Riley Scarlett Wyatt Harper Hazel Joseph Isaac Hannah Grace Oliver Layla Sophia Dylan Aria Madison Levi David William Liam Hunter James Gabriel Joshua Olivia
+Mila Noah Wyatt Nora Levi Chloe James Dylan Harper Olivia Mia Amelia Gabriel
+Avery Harper Joshua Ryan Sophia Hazel Noah Madison Gabriel Isaac Daniel Aria Scarlett Joseph Chloe Oliver James Levi Elijah David Mila William Dylan Andrew
+Jack Elijah Noah Chloe Aria David Amelia Andrew Dylan Mason Liam William Mila Isaac Joseph Grace Stella Hannah Daniel Scarlett Mia Olivia Hazel Sophia Madison Harper Ryan Nora Layla Wyatt Owen James Hunter Riley Oliver Levi Henry
+Gabriel Ryan Chloe Riley Elijah Joseph
+Amelia Scarlett Oliver Levi Elijah Aria Grace Joseph Chloe Hannah Owen James Jack Layla Mia Daniel William Sophia Madison Mason Hunter David Noah Dylan Nora Joshua
+Wyatt Olivia Daniel Henry Riley Mia James Avery Joshua Elijah Hazel David Andrew William
+Henry Owen Harper Hannah Daniel Levi Grace Hazel Mila Elijah Aria Avery Gabriel William James Olivia
+Daniel Mia Joseph Scarlett Liam Layla Olivia
+Hazel Madison Mia Sophia Stella Oliver Chloe Levi Jack Liam Henry Gabriel Elijah Aria Owen Hunter William Scarlett Andrew Olivia Ryan James Joshua Joseph Avery Grace Mason Noah Isaac Daniel Wyatt David Amelia Riley Dylan Hannah
+Chloe Henry Isaac Mason Madison Avery Dylan Wyatt Andrew Joshua Hazel Scarlett Nora David Layla Riley Mila Oliver Olivia William Mia Owen Harper Ryan Sophia Gabriel Aria Amelia Jack James Liam Elijah Levi Daniel Hunter Hannah Stella Grace Joseph Noah
+James Gabriel Dylan Jack Layla Noah Stella Nora Amelia Hazel Wyatt Owen Hunter Levi Chloe Ryan William Elijah Avery Liam Henry Harper Olivia Joshua David Sophia Aria Isaac Andrew Daniel Mason Joseph Grace
+Grace Madison Joshua James Dylan Layla Riley Jack Wyatt Avery
+Mason Jack Oliver Scarlett Andrew Levi Harper Dylan David Stella Joseph Hannah Amelia Nora Madison Owen Hunter James Avery Ryan Olivia Liam Riley Layla Aria Hazel Mia Noah Gabriel Grace William Henry Mila Elijah Isaac Joshua Daniel Chloe
+Scarlett Andrew David Amelia Mia Henry Joseph Owen William Stella Hunter Madison Aria Layla Riley Avery Levi Ryan
+Aria Liam Mia Oliver Olivia Harper Grace Isaac Levi Mason Dylan
+Nora Hunter Stella James Dylan Joseph Henry Madison Harper
+Joshua Hannah Noah Joseph Hazel David Henry Mason Olivia Levi Mila Oliver Isaac Avery Madison Mia Andrew Dylan Gabriel Layla Jack James Amelia Nora Owen Daniel William Grace Hunter Scarlett Riley Sophia Stella Harper Elijah Liam Wyatt Chloe
+Levi Joseph James Hazel Mia Amelia Hannah Owen Mason Isaac Daniel Noah Oliver Harper Aria Stella Andrew Wyatt Elijah Mila
+Isaac Sophia Levi Noah Dylan Avery William Harper Stella Layla Scarlett Chloe Nora Joshua Owen Oliver Mila Jack Aria Henry Grace Mason Wyatt Riley James Andrew Madison Liam Ryan Olivia Joseph Gabriel Hazel Hannah David Hunter Elijah
+Joseph Wyatt Scarlett Harper Noah Andrew Nora Daniel Henry Ryan Gabriel David Madison Isaac Elijah Jack Levi William Hunter
+Dylan Liam Levi Riley Stella Amelia Avery Mia Henry Olivia Aria Oliver Noah Harper Ryan Isaac Mila Elijah David Joseph Madison Jack Hunter Hazel Gabriel Grace Daniel
+Ryan Layla Avery Hazel Henry Amelia Jack Olivia Grace
+William Sophia Harper Oliver Stella Scarlett Chloe David Hunter
+Madison Andrew Oliver Layla Scarlett Harper Mia Olivia Chloe
+Stella Hunter Aria Avery Ryan Isaac Liam Oliver Joshua Scarlett Grace Wyatt
+Elijah Oliver Hazel Riley Layla Avery William Joseph Grace Olivia Hannah Hunter Joshua James Dylan Mila Wyatt Andrew Chloe Jack Harper Mason Sophia Liam Daniel Owen Amelia Isaac Nora Ryan Noah Aria Henry Scarlett David Levi Madison Stella Gabriel Mia
+Oliver Isaac Chloe Owen Aria Olivia Layla Noah David Hazel Nora Grace Joseph Joshua Gabriel Stella Andrew Daniel Scarlett Levi Riley Harper Elijah Mason Sophia
+Liam Chloe Grace Aria Jack Amelia Olivia Wyatt David Madison Elijah Mila Mason Noah Nora Riley Scarlett William
+0

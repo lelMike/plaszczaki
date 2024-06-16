@@ -1,0 +1,60 @@
+29
+Aria 1
+Riley 1
+Ryan 0
+Andrew 1
+Amelia 0
+Sophia 0
+Christian 0
+Aaron 1
+Liam 0
+Elijah 1
+Chloe 0
+Nathan 0
+Mia 1
+Henry 0
+Ivy 1
+Thomas 1
+Luke 1
+Bob 1
+Aiden 0
+Carter 1
+Ava 0
+William 1
+Victoria 0
+Emma 1
+Gabriel 1
+Alice 1
+Charlie 1
+Caleb 0
+Oliver 1
+Aria Victoria Christian Bob Aaron Ryan Mia Thomas Luke Carter Ava Nathan Aiden Chloe Riley Sophia William Henry
+Riley Bob Ivy Ava Aaron Victoria Amelia Gabriel Chloe Charlie Liam Carter Ryan Caleb Mia William Andrew Aiden Elijah Nathan Aria Henry Emma Luke Christian Oliver Alice Thomas Sophia
+Ryan Christian Bob
+Andrew Aria Chloe Ava Gabriel William Aaron Elijah Amelia Emma Riley Luke Aiden Alice Ryan Bob Sophia Ivy Charlie Henry Oliver Mia Caleb Thomas Christian Nathan Liam Victoria
+Amelia Aaron Alice Emma Gabriel Mia Ivy Bob Victoria Riley Thomas Caleb Nathan Luke Henry Ryan Elijah Aiden Sophia Ava Carter Andrew Christian Chloe Charlie Oliver Aria
+Sophia Ryan Emma Aiden Gabriel William Riley Christian Amelia Luke Elijah Carter Oliver Ivy Caleb Nathan Chloe Aaron Alice Ava Andrew Aria Liam Victoria Charlie Mia Bob Thomas Henry
+Christian Bob Henry Emma Riley Oliver Andrew Chloe Victoria Liam Alice Ryan Aiden Thomas Charlie Caleb Elijah
+Aaron Charlie
+Liam Ava Carter Andrew Chloe William Emma Gabriel Oliver Luke Riley Elijah Aiden Sophia Thomas Charlie Bob Ivy Caleb Aria Mia Aaron Henry
+Elijah Gabriel Oliver Aria Amelia Victoria Henry Chloe
+Chloe Elijah Carter Luke Henry Emma Aaron Thomas Aiden Victoria Andrew Caleb Aria Nathan Ryan Riley Christian Mia Amelia Alice Gabriel Liam
+Nathan Chloe Andrew William Emma Aaron Riley Bob Henry Elijah Ava Thomas Charlie Ivy Victoria Gabriel Sophia Christian Aiden
+Mia Elijah Oliver Victoria Ivy Bob Caleb Liam Christian Aiden Amelia Carter Charlie Aaron Ryan Ava Nathan Henry Sophia Luke Alice Aria
+Henry Bob Aaron Carter Gabriel Elijah Sophia William Ivy Emma Charlie Riley Nathan Alice Ava Andrew Oliver
+Ivy Nathan Oliver Victoria Sophia Gabriel Andrew Ryan Bob Aaron Alice Amelia William Luke Mia Riley Christian Liam Ava Emma Chloe Elijah Carter Aiden Henry Aria Caleb Charlie Thomas
+Thomas Aria Amelia Caleb
+Luke Henry Christian Aaron Chloe Oliver Bob Charlie Ryan Ava Thomas Liam Carter Andrew Aiden Aria Emma Victoria Caleb Nathan Elijah Ivy Mia Sophia Amelia Gabriel Alice Riley
+Bob Alice Carter Sophia Emma Charlie Christian Aria Caleb Thomas Riley Chloe Victoria Nathan Gabriel
+Aiden Andrew Charlie Bob Amelia William Riley Ava Emma Luke Nathan Mia Henry Christian Thomas Ivy Gabriel Carter Chloe Aria Elijah Caleb Alice
+Carter Bob Amelia Thomas Elijah William Alice
+Ava Gabriel Bob Andrew
+William Ryan Sophia Aiden Henry Andrew Christian Caleb Amelia Victoria Luke Nathan Elijah Aria Aaron
+Victoria Alice Caleb Luke Henry Oliver Ava Carter Emma Aaron Charlie Christian Thomas Ivy Bob Andrew Chloe Sophia Aiden Ryan William
+Emma Elijah Ava Gabriel Caleb Henry Luke Liam Riley Sophia Chloe Andrew Bob Victoria Ryan Alice Aiden Charlie William Nathan Amelia Ivy
+Gabriel Bob Oliver Amelia
+Alice Ivy Aaron Henry Riley Andrew Elijah Charlie Ava Mia Emma Aria Nathan Bob Gabriel Christian Chloe Sophia Liam Oliver Caleb Thomas Ryan Victoria Amelia Carter Luke
+Charlie Elijah Nathan Bob Luke Henry Emma Aiden Gabriel Caleb Chloe Thomas Ava Christian Mia William Liam Oliver Andrew Carter Ryan
+Caleb Thomas Mia Ivy Nathan Andrew Gabriel Emma Christian Elijah Aaron Aria Chloe Ryan Henry William Charlie Carter Sophia Amelia Liam Oliver Ava Alice Riley Bob Victoria Luke
+Oliver Alice Amelia Ivy Andrew Caleb Liam Henry Aiden Bob Nathan Ryan Victoria Thomas Ava
+0

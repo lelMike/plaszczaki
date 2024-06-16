@@ -1,0 +1,60 @@
+29
+Emma 0
+David 1
+Levi 1
+Samuel 0
+Aaron 0
+Henry 0
+Penelope 0
+Luke 0
+Scarlett 0
+Emily 0
+Wyatt 0
+Oliver 1
+Chloe 0
+Zoe 1
+Mason 1
+Luna 1
+Owen 0
+William 1
+Ellie 1
+Riley 0
+Aria 1
+Eve 1
+Joshua 0
+Bob 1
+Carter 0
+Matthew 0
+Nathan 1
+Hannah 0
+Sophia 1
+Emma Oliver Eve Zoe Luke Sophia Aaron Wyatt Joshua William Luna Ellie Carter Chloe Riley Matthew Aria Nathan Hannah Levi
+David Zoe Eve Sophia Matthew Carter Aaron Penelope Levi Riley Emily Henry Luke Samuel Chloe Owen Ellie Hannah Scarlett Wyatt William Oliver Bob Luna
+Levi Emily Hannah Zoe Joshua Wyatt Bob Luna Scarlett William
+Samuel David Wyatt William Matthew
+Aaron Oliver Henry Joshua
+Henry Aria Nathan Aaron Mason Luke Levi Joshua Riley Carter David
+Penelope David Carter Bob Aaron Nathan Emily Zoe Wyatt Joshua Oliver Scarlett Emma Aria Mason Luke Samuel Chloe Levi Henry William Luna Owen Matthew Sophia Hannah Riley
+Luke Oliver Mason Carter Joshua Henry Riley David Samuel Bob Emily William Eve Wyatt Luna Sophia Nathan Emma Matthew Scarlett Aria Ellie Penelope Hannah Owen Zoe Chloe Levi Aaron
+Scarlett Mason Chloe Eve Matthew Owen Nathan Riley Joshua Penelope Luke Emma David Carter Wyatt William Samuel Ellie Oliver Aria Bob Luna Emily Zoe Aaron Hannah Henry Levi
+Emily Sophia Hannah William Nathan Aria Luna Aaron Carter Henry
+Wyatt David Carter Chloe Levi Samuel Ellie Owen Luke William Henry Eve Oliver Luna
+Oliver Penelope Luke Scarlett Hannah Samuel Bob Levi Sophia Wyatt Matthew Eve William Emma Mason Riley Aaron
+Chloe Mason Owen Wyatt Emma Eve Luke Ellie Sophia Aaron
+Zoe Emma Aria Mason Joshua Aaron Luna Owen Emily Riley Scarlett Chloe Luke Matthew Samuel Nathan Penelope David Henry Sophia Carter Oliver Levi Hannah William Ellie Wyatt
+Mason Wyatt Aaron Emma Levi Owen Bob
+Luna Luke Bob Carter Sophia Penelope Aria Oliver Eve Chloe Ellie Owen Samuel Wyatt Emily Emma Joshua Riley
+Owen Henry Emily David Penelope Eve William Levi Ellie Scarlett Matthew Emma Hannah Aaron Nathan Aria Riley Wyatt Luna Sophia Mason Samuel Zoe
+William Henry Chloe Emma
+Ellie Scarlett Nathan Owen Samuel Aaron
+Riley Eve Chloe Luna Matthew Joshua
+Aria Zoe Oliver Mason Sophia Levi Penelope Carter Aaron Ellie Riley Eve Scarlett Wyatt
+Eve Luke Emily Mason Emma Luna Owen Sophia Chloe Wyatt William Bob Penelope Matthew
+Joshua Wyatt Bob Oliver Emma Emily Luke Zoe Sophia Nathan Mason Aria Matthew Scarlett David Owen Aaron Levi Ellie Riley Penelope Eve Hannah Luna William Samuel Henry Carter
+Bob Riley Ellie Samuel Aaron Luna Mason Owen Emma Emily William Zoe
+Carter Aaron Hannah Sophia
+Matthew Ellie Zoe Emily Joshua Chloe Emma Nathan Aaron Henry Oliver Hannah Aria Penelope David Sophia William Carter Samuel Luna Bob Riley Eve Owen Wyatt Luke Scarlett Levi
+Nathan Hannah Sophia Owen Riley
+Hannah Zoe Owen Mason Matthew Aria Samuel William Emily Sophia Scarlett David
+Sophia Zoe Aaron David Nathan Henry Mason Emma William Eve Joshua Riley Bob Samuel Wyatt Levi Aria
+0

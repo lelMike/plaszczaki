@@ -1,0 +1,82 @@
+40
+Camila 0
+Caleb 1
+Zoe 1
+Ella 1
+Grace 0
+Dylan 0
+Hazel 1
+Chloe 0
+Aaron 0
+Mila 1
+Layla 1
+Bob 1
+Carter 1
+Mia 1
+Luna 0
+Gabriel 0
+James 1
+Ivy 1
+Lily 0
+Sophia 1
+Aiden 0
+Daniel 1
+Olivia 1
+Madison 0
+Jack 1
+Landon 0
+Matthew 1
+Hunter 1
+Benjamin 0
+Elijah 1
+Thomas 0
+Luke 0
+Alice 1
+Ava 1
+Zoe 1
+Hannah 1
+Charlie 0
+Penelope 1
+Jackson 1
+Joshua 1
+Camila Hannah Matthew Hunter James Mila Joshua Sophia Layla Alice Lily Hazel Ella Luna Aaron Bob Ava Daniel Thomas Penelope Ivy Aiden Dylan Carter Luke Chloe Landon Benjamin Elijah Grace Mia Olivia Charlie Zoe Caleb Jackson Gabriel Jack
+Caleb Hunter Lily Zoe Elijah Jack Mia Madison Gabriel Bob Charlie Sophia Chloe Luna Hannah Carter Alice
+Zoe Landon Ivy James Joshua Carter
+Ella Benjamin Joshua
+Grace Alice Thomas Gabriel Daniel Elijah Camila Joshua Lily Chloe Hazel Aiden Jack Benjamin Mila Charlie Hannah Olivia Zoe Luke Mia Ella Aaron Landon Layla Ava Carter James Hunter Matthew Zoe Ivy Madison Caleb Jackson Bob Penelope Luna Sophia Dylan
+Dylan Caleb Mia Sophia Aiden Bob Luke Grace Jack Penelope Hannah Layla
+Hazel Alice Jackson Luna Luke Camila Benjamin Hannah Joshua Lily Carter Landon Jack Ivy James Bob Charlie Grace Madison Elijah Zoe Hunter Olivia Sophia Aaron Mia Caleb Daniel
+Chloe Gabriel Jackson Luke Olivia Landon Penelope Layla Thomas Grace James Aiden Benjamin Jack Alice Elijah
+Aaron Jack Thomas Matthew Bob Mila Mia Camila Charlie Benjamin Hazel Luke Dylan Chloe Zoe Alice
+Mila Penelope James
+Layla Bob Carter Madison Hannah Daniel Zoe Benjamin Grace Thomas Gabriel Landon Caleb Matthew Ella Hunter Elijah Jackson Mila Lily Ivy Jack Camila Joshua Hazel Sophia Mia Luke Ava Alice Penelope
+Bob Jackson Thomas Zoe Luke Landon Hazel Aiden Ava Caleb Gabriel Camila Joshua Benjamin Grace Matthew Dylan Hunter Ivy
+Carter Hazel Joshua Jack Ava Aaron Thomas Madison Hannah Caleb Hunter Jackson Penelope Benjamin Bob Lily Elijah Luke Mia Daniel Zoe
+Mia Elijah Dylan Jack Aaron
+Luna Ava Zoe Layla Aaron Charlie Mia Gabriel Dylan Caleb Mila Camila Ivy Daniel Zoe Bob Elijah Grace Carter Jackson Sophia Alice Joshua Lily
+Gabriel Joshua Mia Luke Landon Elijah Ava Caleb Zoe Daniel Lily Madison Hannah Zoe Aiden Olivia Bob Penelope Jack Hazel Layla Aaron Carter Benjamin Sophia Ivy Luna Mila Jackson Camila Ella Thomas Chloe Matthew Grace Hunter James Alice
+James Ava
+Ivy Thomas Charlie Ella Hannah Daniel Grace Jack Layla Gabriel Madison James
+Lily Madison Layla Luna Landon Hunter Jackson Luke Daniel Bob Hazel Ivy Zoe Carter Jack Hannah Benjamin Dylan Chloe Joshua Grace Aaron Ava James Elijah Zoe Matthew Penelope Gabriel Caleb Mila Mia Aiden Alice Olivia Camila Charlie Thomas
+Sophia Hazel Luke Gabriel Mila Lily Zoe Thomas Daniel Joshua Camila Benjamin Bob Alice Dylan Luna Aiden Penelope Caleb Ivy Aaron Charlie Layla Hunter Ava Hannah Elijah Madison Olivia James Landon Grace Mia Zoe Chloe
+Aiden Mia Elijah Jackson Hannah Thomas Penelope Olivia Mila Luke Benjamin Grace Madison Sophia Zoe Chloe Caleb Layla Matthew Ella James Zoe Luna Landon
+Daniel Dylan Sophia Luke Landon Bob Olivia Hazel Elijah Lily Luna
+Olivia Camila Aaron Layla Charlie Aiden James Alice Carter Grace Zoe Mia Sophia Hazel Jack Mila Benjamin Zoe Gabriel Luna Ella Hunter Chloe Elijah Dylan Daniel Landon Lily Ivy Ava Caleb Luke Thomas Bob Hannah Madison Matthew Jackson Joshua Penelope
+Madison Zoe Daniel Hannah Luke Mila Zoe Mia Jack Gabriel Layla Sophia Lily Dylan Caleb Hazel Elijah Matthew Aaron Ella Carter Luna Joshua Ava Benjamin Hunter Grace Bob Camila Jackson Thomas Penelope Alice Ivy
+Jack James Mia
+Landon Zoe Olivia Benjamin Camila Thomas Gabriel Mila Matthew Daniel Penelope Grace Jack Aiden Layla Bob Hunter Madison Hazel Dylan Elijah Sophia Lily Alice Carter Hannah Caleb Aaron Ella Luke Ava Chloe Zoe Joshua Jackson Ivy Mia
+Matthew Madison Penelope Mia Thomas Olivia Joshua Bob
+Hunter Bob James Grace Caleb Thomas Carter Gabriel Charlie Penelope Ella Landon Hannah Matthew Dylan Jack Luna Hazel Chloe Camila Ivy Lily Jackson Madison Zoe Mia
+Benjamin Bob Madison Landon Caleb Zoe Layla Aaron Matthew Ivy Dylan Hazel Mila Carter Mia Gabriel Luke Charlie Thomas Luna Zoe Ava Daniel Joshua Olivia James Penelope Ella Aiden Grace Elijah Alice Lily Chloe
+Elijah Zoe Ava Ella Daniel Gabriel Luna Bob Dylan Aaron Lily Ivy Carter
+Thomas Alice Landon Grace Carter Daniel Caleb Aaron Joshua Hazel Mila Matthew Elijah Chloe Luke Zoe Hannah Luna Bob Madison Ivy Sophia Penelope Ava Layla Gabriel James Olivia
+Luke Ella Landon Carter Madison Gabriel Hazel Zoe Olivia Thomas James Lily Grace Mia Mila
+Alice Matthew Luna Aiden Olivia Zoe Ella Benjamin Thomas Charlie Jack Grace Zoe Camila Layla Ava Chloe Aaron Penelope Landon Dylan Carter Mia Jackson Lily Daniel James Bob Hunter Sophia Elijah Ivy Joshua Caleb Gabriel Mila
+Ava Luna Layla Charlie Grace Aiden Mila Camila Elijah Ivy Bob Joshua Caleb Matthew Penelope Chloe Dylan Sophia Alice Gabriel Luke
+Zoe Hazel Penelope Hunter Mia
+Hannah Camila Jackson Hunter Grace Benjamin Ava Dylan Thomas Luke Alice Aaron Madison Charlie Landon Ella Ivy Aiden Zoe Gabriel Jack James Joshua Matthew Penelope Sophia Bob Lily Caleb Carter Daniel Chloe Mia Olivia Layla
+Charlie Zoe Camila Hannah James Grace Lily Ella Zoe Dylan Hunter Luke Chloe Jack Ivy Hazel Aiden Daniel Matthew Gabriel Caleb Ava Carter Thomas Penelope Layla Olivia Aaron Bob Joshua Landon Alice Luna
+Penelope Ava Madison Layla Thomas Chloe Alice Ella Mila Camila Elijah Aaron Bob Landon Zoe Sophia Mia Carter Aiden Charlie Zoe Hannah Ivy Caleb Benjamin Luke Daniel Dylan Luna Jack Hunter James Jackson Gabriel
+Jackson Benjamin Bob
+Joshua Mila Alice Madison Elijah Chloe Zoe Jackson Mia Grace Landon Luke Hannah Layla Ivy Luna Camila Olivia Sophia Lily Bob Hunter Dylan Penelope Zoe James Ella Gabriel Aaron Ava Daniel Benjamin Carter Charlie Aiden Jack Hazel
+0

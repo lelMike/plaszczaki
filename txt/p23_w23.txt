@@ -1,0 +1,60 @@
+29
+Charlie 0
+Henry 1
+Aria 0
+Emily 0
+David 1
+Scarlett 1
+Madison 1
+Oliver 0
+Joseph 0
+Zoe 0
+Ryan 0
+Camila 0
+Mia 1
+Hannah 1
+Mia 1
+Bob 0
+Landon 1
+Andrew 0
+Mila 1
+Ella 1
+Riley 0
+Zoe 0
+Isabella 0
+Carter 1
+Elijah 1
+Nathan 1
+Dylan 1
+Nora 0
+Benjamin 0
+Charlie Nathan Ella Hannah Elijah Madison Camila David Henry Andrew Riley Joseph Carter Nora Oliver Zoe Zoe Mia Ryan Benjamin
+Henry Elijah Zoe Mia Madison Landon Ella Riley Charlie Aria Joseph Carter Nora Andrew Mia Ryan Zoe Camila Benjamin Isabella Oliver Mila Scarlett Nathan Hannah David
+Aria Isabella Madison Nora Mia Carter David Scarlett Henry Mila Emily Mia Riley Bob Camila Charlie Oliver Dylan Zoe Zoe Nathan Andrew
+Emily Isabella Mia Mia Joseph Charlie Ryan Madison Nathan Zoe Andrew Scarlett Mila Nora Zoe Carter Bob David Camila Elijah Riley Benjamin Landon Henry Dylan
+David Henry Zoe Elijah Camila Bob Joseph Riley Zoe Isabella Nathan Scarlett Mila Mia Madison Dylan Oliver
+Scarlett David Bob Mia
+Madison Andrew Oliver Zoe Isabella Dylan Emily Scarlett Zoe Landon Hannah Carter Aria Elijah David Mia Mila Charlie Riley
+Oliver Nathan Isabella David Zoe Riley Elijah Mia Ryan Camila Madison Scarlett Emily
+Joseph Camila Andrew Emily Mia Zoe Dylan Charlie Nora Ella Henry Ryan Zoe Madison Landon Nathan Mia Mila
+Zoe Bob Mia Ryan Camila Oliver Madison Mila Dylan Charlie Hannah Nathan Henry Riley Aria Isabella Landon Emily Joseph Mia Ella Andrew Carter Elijah Nora David Benjamin
+Ryan Charlie Madison Andrew Zoe Benjamin
+Camila Henry Ryan Carter Zoe Mia Emily Zoe Dylan Landon Isabella Madison Nora Oliver Hannah Joseph Aria Bob Scarlett Riley Mia David Benjamin
+Mia David
+Hannah Andrew Charlie Nora Ella Zoe Oliver Nathan Zoe Mila David Henry Benjamin Bob Mia Scarlett Isabella Elijah Carter Madison Aria Dylan Landon Joseph Ryan Emily
+Mia Nathan Ryan Henry Riley Isabella Madison Aria Zoe Oliver
+Bob Dylan Nathan Nora Aria Emily
+Landon Carter Mila Camila Nora Ella Nathan Emily Joseph Zoe Riley Dylan Henry Ryan Mia Madison Zoe Benjamin Scarlett Aria Bob David Isabella Mia Hannah Andrew Oliver Elijah Charlie
+Andrew Zoe Riley Camila Nora Carter Oliver Mila Mia Henry Dylan Bob Elijah Hannah Madison Mia Isabella Benjamin Scarlett Ryan Landon Emily Nathan Ella David Charlie Joseph Aria
+Mila Mia Isabella Ryan Henry David Riley Emily Madison Zoe Hannah Zoe Carter Benjamin Scarlett
+Ella Hannah Zoe Landon Madison Ryan Joseph Mila Mia Isabella
+Riley Charlie Mia Ryan Henry Nathan Oliver Nora Mila Zoe Emily Andrew Camila Dylan Bob Ella Scarlett
+Zoe Andrew Oliver Mia Landon Dylan Madison Scarlett Mila Elijah Aria Emily Nathan Camila Benjamin Ryan Isabella Henry Riley Charlie David Hannah Ella Bob Joseph Carter Mia
+Isabella Nora Charlie Emily Camila Bob Oliver Aria Henry David Andrew Ryan Dylan Elijah Landon Hannah Joseph Mila Zoe Mia Mia Riley Ella Benjamin
+Carter Riley Madison Elijah Dylan Ella
+Elijah Carter Madison Andrew Henry David Benjamin Camila Aria
+Nathan Ella Nora Andrew
+Dylan Zoe Nathan David Landon Camila Andrew Oliver Mia Madison Hannah Mila Riley Charlie Mia Joseph Elijah
+Nora Bob Ella Mila Elijah Madison Carter Mia
+Benjamin Aria Ryan Landon Ella Carter Nora Zoe Mia Oliver Riley Madison Scarlett Zoe Mia Elijah Dylan Camila Hannah Isabella Bob
+0

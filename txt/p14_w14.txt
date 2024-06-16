@@ -1,0 +1,60 @@
+29
+Charlotte 0
+Caleb 0
+Ava 1
+Landon 0
+Aria 1
+Zoe 1
+Victoria 1
+Emma 1
+Matthew 1
+Chloe 0
+Christian 0
+Ryan 0
+Emily 0
+Bob 0
+Daniel 0
+Nathan 1
+Madison 1
+Mia 1
+Luna 1
+Levi 0
+Joseph 0
+Owen 0
+Olivia 0
+Hannah 1
+Mia 1
+Jack 0
+Alexander 0
+Aurora 0
+Charlie 0
+Charlotte Chloe Alexander Owen
+Caleb Aria Daniel Chloe Aurora Alexander Charlie
+Ava Charlie Owen Olivia Aria Aurora Charlotte Mia Levi Ryan Zoe Chloe Madison Bob Jack Caleb Matthew Emma
+Landon Levi Charlie Victoria Caleb Matthew Aria Joseph Hannah Madison Alexander Olivia Owen Emily Ava Charlotte Chloe Mia Emma Luna Mia Christian Daniel Zoe
+Aria Daniel Luna Emma Ryan Owen Bob Charlie Zoe Mia Victoria
+Zoe Madison Ava Mia Luna Hannah Joseph Bob Levi Charlie
+Victoria Levi Owen Aurora Hannah Matthew Ava Olivia Zoe Luna Nathan Caleb Daniel Chloe Emily Ryan Bob Charlie
+Emma Charlie Madison Owen Joseph Chloe Hannah Ava Landon Bob Aria Jack Zoe Mia Aurora Luna
+Matthew Owen Ryan Madison Olivia Bob Landon Chloe Christian
+Chloe Bob Caleb Zoe Nathan Olivia Owen Joseph Aurora Charlotte Hannah Matthew Mia Levi Emma Daniel Madison
+Christian Aurora Mia
+Ryan Victoria Owen
+Emily Ava Levi Emma Bob Matthew Hannah Christian Aurora Landon Madison Aria Mia Chloe Charlie Charlotte Joseph Caleb Luna Owen Jack Nathan Zoe Alexander Ryan Daniel
+Bob Ava Joseph Caleb Zoe Charlotte Chloe Olivia Alexander Nathan Emily
+Daniel Bob Madison Alexander Charlie Luna Aria Aurora Mia Emily Emma Joseph Hannah Matthew Christian Ava Zoe Olivia Jack Ryan Victoria
+Nathan Zoe Madison Caleb Hannah Emma Ryan Emily
+Madison Charlie Jack Nathan Ryan Luna Charlotte Emily Matthew Zoe Emma Aria Owen Bob Aurora Caleb
+Mia Victoria Zoe
+Luna Caleb Mia Levi Christian Landon Emily Matthew Madison Alexander Mia Victoria Charlotte Daniel Chloe Owen
+Levi Victoria Charlotte Madison Joseph Charlie Chloe Christian Aurora Mia Emma Matthew Hannah Nathan Ryan Alexander Emily Luna Ava Bob Jack Zoe
+Joseph Alexander Chloe
+Owen Nathan Joseph Levi Daniel Christian Caleb Luna Ava Bob Landon
+Olivia Matthew Christian Luna Jack Emily Emma Aurora Ryan Bob Caleb Hannah Zoe Madison
+Hannah Levi Luna Caleb Mia Aurora Emma Zoe Joseph Emily Nathan Ryan Victoria Alexander Charlotte Ava Christian Aria Chloe Landon Owen Jack Olivia
+Mia Madison Hannah Olivia Aurora Christian Emily Ava Matthew Victoria Ryan Charlotte Caleb Emma Luna Zoe
+Jack Emma
+Alexander Aurora Jack Matthew Ava Hannah Bob Emily Nathan Emma Caleb
+Aurora Levi Emma Charlotte Hannah Emily Chloe Ryan
+Charlie Joseph Mia Alexander Olivia Owen Caleb Levi Mia Madison Chloe Bob Christian Aurora Zoe Landon Daniel Aria
+0

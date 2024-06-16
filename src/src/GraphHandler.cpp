@@ -49,6 +49,7 @@ bool GraphHandler::readInput(const std::string& filename) {
 
 void GraphHandler::calculateBorder() {
     borderHandler.calculateBorder();
+    borderHandler.exportBorder();
 }
 
 void GraphHandler::printBorder() const {

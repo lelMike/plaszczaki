@@ -1,0 +1,82 @@
+40
+Olivia 1
+Amelia 0
+Camila 0
+Henry 1
+Dylan 1
+Mia 0
+Joseph 0
+Nathan 1
+Hunter 1
+Penelope 0
+Emma 1
+Levi 1
+Carter 1
+Luna 1
+Daniel 0
+Alice 0
+Emily 0
+Jacob 0
+Ellie 1
+Ava 1
+Mason 0
+Hannah 0
+Isaac 0
+Stella 0
+Elijah 0
+Landon 1
+Gabriel 1
+Sophia 0
+Thomas 0
+Zoe 0
+Harper 0
+Layla 0
+Sophia 1
+Luke 0
+Benjamin 0
+Grace 1
+Riley 0
+Samuel 0
+Avery 0
+Noah 1
+Olivia Riley Avery Joseph Sophia Carter Ellie Mason Landon Penelope Hunter Grace Dylan Alice Layla Noah Amelia Luke Jacob Harper Stella Levi
+Amelia Joseph
+Camila Grace Mason Carter Benjamin
+Henry Sophia Landon Mason Mia Luke Ellie Zoe Luna Sophia Levi Noah Samuel Isaac Ava
+Dylan Emily Thomas Hannah Ellie Luke Harper Daniel Isaac Penelope Gabriel Stella Alice Camila Olivia Mason Avery Ava Carter Nathan Mia Sophia Levi Sophia Elijah Zoe Joseph Luna Hunter Amelia Henry Benjamin Layla Noah Riley Grace Emma Landon Samuel
+Mia Luna Amelia Emma Isaac Elijah Gabriel
+Joseph Alice Luke Elijah Mason Zoe Ellie Sophia Amelia Stella Daniel Olivia Penelope Emily Luna Mia Ava Henry Riley Carter Camila Samuel Layla Harper Noah Gabriel Landon
+Nathan Benjamin Thomas Landon Harper Gabriel Mason Isaac
+Hunter Stella Mason Daniel Zoe Isaac Benjamin Harper Sophia Sophia Jacob Luna
+Penelope Thomas Dylan Harper Benjamin Ava Henry Carter Emma Luna Camila Gabriel Layla Mia Isaac Elijah Grace Zoe Samuel Hannah Ellie Joseph Riley Luke Landon Emily
+Emma Elijah Nathan Benjamin Hunter Riley Sophia Hannah Ava Penelope Isaac
+Levi Sophia Hunter Mia Henry Riley Carter Daniel Ellie Samuel Ava Stella Emma Landon Elijah Olivia Hannah Benjamin Isaac Grace Avery Noah Emily Alice Harper Zoe Amelia Mason Thomas Gabriel Dylan Joseph Luna Nathan Penelope Camila Sophia
+Carter Mia Benjamin Penelope Henry Gabriel Harper Camila Daniel Isaac Luna Olivia Hannah Levi Riley Noah Ava Avery
+Luna Emily
+Daniel Luke Luna Dylan Carter Elijah Landon Zoe
+Alice Carter Thomas Landon Emma Sophia Dylan Hannah
+Emily Alice Isaac Hunter Ava Dylan Luke
+Jacob Henry Mason Elijah Isaac Hannah Sophia Noah Hunter Gabriel Amelia Alice Riley Samuel Mia Olivia Sophia Harper Landon Avery Emily Luna Luke
+Ellie Grace Joseph Layla Sophia Levi Samuel Zoe
+Ava Joseph Sophia Gabriel Riley Levi Camila Jacob Landon Dylan Isaac Sophia Elijah Zoe Hunter Ellie Stella Hannah Mia Henry Penelope Emily Thomas Daniel Mason Carter Noah Amelia Harper Benjamin Avery Layla Alice
+Mason Penelope Layla Daniel Zoe Samuel Stella Dylan Noah Mia Nathan Sophia Alice Henry Isaac Thomas Camila Olivia Ava Luke Landon Amelia Riley Hannah Carter Sophia Levi Avery Hunter Luna Grace Joseph Jacob Elijah Harper Emma
+Hannah Zoe Henry
+Isaac Thomas Emma Layla Carter Penelope Hunter Luke Benjamin Samuel Stella Gabriel Avery Noah Ava Mason Riley Amelia Luna Dylan Levi Henry Sophia
+Stella Henry Zoe Samuel Hunter Levi Isaac Nathan Layla Carter Sophia Gabriel Camila Mia Avery Luke Landon Luna Penelope Alice Emma Benjamin Amelia Riley Jacob Joseph Daniel Noah Sophia Thomas
+Elijah Harper Nathan Levi Mason Daniel Henry Carter Camila Dylan Joseph Grace Benjamin Amelia Ava Emily Olivia Alice Noah Penelope Hunter Hannah Landon Stella Gabriel Isaac Emma Sophia Zoe Mia Ellie
+Landon Alice Elijah Avery Ellie Benjamin Carter Samuel Layla Stella Emily Mason Emma Levi
+Gabriel Benjamin Noah Jacob Stella Thomas Samuel Luna Hannah Grace Sophia Mia Alice Hunter Elijah Joseph Riley Emma Harper Nathan
+Sophia Ellie Gabriel Ava Layla Samuel Emma Mason Alice Emily Thomas Hannah Landon Elijah Carter Noah Grace Zoe Levi Penelope Camila Avery Dylan Olivia Stella Amelia Harper Luke Joseph Luna Daniel Nathan Isaac Jacob Benjamin Mia Hunter
+Thomas Sophia Samuel Avery Henry Dylan Joseph Daniel Hunter Emma Layla Mia Carter Jacob Mason Elijah Ava Harper Penelope Ellie Nathan Sophia Emily
+Zoe Elijah Hunter Mia Landon Carter Luna Emma Penelope Mason Samuel Thomas Layla Gabriel Grace Jacob Levi Noah Camila Olivia Emily Avery Henry Hannah Riley Amelia Alice Sophia Ava Daniel Dylan Luke Ellie
+Harper Luna Joseph Elijah Dylan Daniel Levi Camila Benjamin Emma Amelia Carter Emily Jacob Noah Sophia Ellie Layla
+Layla Benjamin Mason Zoe Emma Grace Samuel Thomas Mia Penelope Alice Landon Emily Dylan Hannah Nathan Levi Olivia Ava Gabriel Joseph
+Sophia Noah Luke Carter Landon Amelia Luna Stella Elijah Olivia Penelope Hannah Levi Layla Ava Nathan Mason Hunter Grace Mia Henry Samuel Ellie
+Luke Stella Levi Penelope Nathan Isaac Emma Mia Gabriel Hannah Carter Thomas Grace Mason Olivia
+Benjamin Luke Landon Samuel Penelope Mason Ava Stella Olivia Avery Riley Levi Grace Isaac Henry Gabriel Noah Emma Mia
+Grace Luke Joseph Stella Olivia Zoe Isaac Noah
+Riley Emily Stella Mia Henry Jacob Daniel Luke Hunter Gabriel Camila Penelope Harper Olivia Benjamin Emma Thomas Samuel Ellie Isaac Grace Dylan Carter Amelia Mason Nathan Avery
+Samuel Joseph Hunter Gabriel Alice Avery Emma Elijah Thomas Grace Noah Riley Stella Dylan Isaac Luna Olivia Daniel
+Avery Ellie Hunter Penelope Henry Emily Jacob Landon Sophia Stella Grace Gabriel Samuel Isaac Zoe Riley Amelia Camila Mason Dylan Emma Sophia Hannah Noah
+Noah Isaac Benjamin Dylan Zoe Elijah Emma Hunter Thomas Layla Avery Riley Luna Mason Hannah
+0

@@ -1,0 +1,60 @@
+29
+Sophia 1
+Aria 1
+Nora 1
+James 1
+Ava 1
+Daniel 0
+Stella 0
+David 1
+Joseph 0
+Madison 0
+Charlie 0
+Thomas 1
+Benjamin 0
+Isaac 1
+Layla 1
+Wyatt 1
+Alexander 1
+Sebastian 1
+Elijah 0
+Emily 0
+Landon 1
+Victoria 1
+Riley 1
+Andrew 1
+Matthew 0
+Hazel 0
+Isabella 0
+Mila 0
+Eve 0
+Sophia Isabella Andrew Daniel Wyatt Madison Nora Benjamin Mila Isaac David Emily Layla Alexander Elijah James Ava Eve Matthew Sebastian Joseph Victoria Landon
+Aria Nora Andrew Victoria Joseph Emily Eve Landon Matthew David Mila Isabella Daniel Charlie Isaac
+Nora Layla Madison Charlie
+James Stella Victoria Eve Thomas Isabella Matthew Elijah Madison David Sebastian Joseph Nora Andrew Landon Sophia Riley Daniel Layla Wyatt Emily Charlie Alexander Benjamin Aria Isaac
+Ava Madison Mila Alexander Charlie Matthew David Isabella James
+Daniel Stella James Isabella Benjamin Landon Isaac Mila Hazel Andrew Elijah Emily Victoria Sophia Aria Alexander Sebastian Wyatt Ava
+Stella Elijah Aria Benjamin
+David Andrew Wyatt Isaac Madison Layla Hazel Victoria Daniel Sophia Riley James Emily Nora
+Joseph Mila Emily Eve Isabella Andrew
+Madison Mila David Daniel Layla James Emily Benjamin Wyatt Elijah Eve Sophia Riley Hazel Joseph Andrew
+Charlie James Layla Madison Mila Thomas Sophia Hazel Stella Wyatt Elijah Andrew Alexander Sebastian David
+Thomas Isaac Victoria Mila Matthew Madison Andrew
+Benjamin Hazel Isabella Sebastian Daniel Ava Andrew Mila Emily Alexander Joseph Layla Landon Wyatt Elijah Victoria Eve
+Isaac Sebastian Emily Andrew Nora
+Layla Victoria Alexander Mila Riley Matthew Ava Thomas Sophia Hazel Sebastian Madison Elijah Stella Aria Eve Joseph Benjamin James David Landon Andrew Charlie
+Wyatt Eve James Andrew Ava Victoria Alexander Layla Madison Elijah Riley Daniel Isabella Nora Matthew Landon Charlie Hazel Joseph Emily Mila Sophia Stella Thomas Benjamin Isaac Aria Sebastian David
+Alexander Hazel Daniel Thomas Nora David Eve Andrew Isaac Sophia James Emily Wyatt Joseph Mila
+Sebastian Ava David Isaac Nora
+Elijah Riley Mila Ava Charlie Layla Aria Madison Andrew Nora Eve Isaac Emily Matthew
+Emily Madison Matthew Aria Stella
+Landon Isabella Alexander Emily Benjamin Aria Eve Charlie David Ava Isaac Stella Madison Sophia Joseph Riley Daniel Mila Elijah Hazel Thomas Sebastian Andrew Layla Matthew James
+Victoria Joseph Stella Elijah David Matthew Sebastian Riley Emily Isaac Benjamin James Andrew Hazel Mila Alexander Nora Layla Daniel Ava Sophia
+Riley Mila Ava Andrew Charlie Sophia Benjamin Layla Elijah Thomas Sebastian Emily Matthew Eve Isaac Victoria David Nora Alexander Hazel
+Andrew Hazel Elijah Benjamin Landon Nora Victoria Madison
+Matthew Layla Landon
+Hazel Riley Benjamin Aria Victoria Isaac Landon Matthew Thomas James Charlie Elijah Sophia Isabella Layla Alexander Joseph Andrew Emily Mila Eve Daniel Nora
+Isabella James Emily Thomas David Riley Alexander Landon Benjamin Isaac Daniel Charlie Matthew Aria Nora Ava Andrew Madison
+Mila Daniel Elijah Benjamin Wyatt Hazel Nora Eve James Isabella Charlie David Isaac Thomas Layla Andrew Matthew Sophia Alexander Stella Madison Riley Sebastian
+Eve Layla Sebastian Benjamin Isaac Madison Elijah Victoria
+0

@@ -1,16 +1,60 @@
-7
-Alice 0
-Bob 0
-Charlie 0
+29
+Benjamin 1
+Harper 0
+Sophia 0
+Carter 0
+Mason 0
+Emma 1
+Aiden 1
+Avery 0
+Charlotte 0
+Lily 0
+Hazel 0
+James 0
+Christian 0
+Luna 1
 David 0
+Scarlett 1
+Caleb 1
+Sebastian 1
+Emily 0
+Ryan 1
+Aurora 1
+Charlie 0
+Thomas 0
 Eve 0
-Luke 0
-Zoe 0
-Alice Bob Charlie David
-Bob Alice Charlie David
-Charlie Alice Bob David
-David Alice Bob Charlie
-Eve Luke Zoe
-Luke Eve Zoe
-Zoe Eve Luke
+Chloe 1
+Oliver 0
+Mila 0
+Hannah 0
+Hunter 0
+Benjamin Hunter Hannah Eve Luna Charlie Emma Caleb David Thomas
+Harper Emily Caleb Benjamin Hazel Thomas Christian Hannah James Charlie Charlotte Mila
+Sophia David Mila Thomas Lily Avery Scarlett Hunter Eve Carter Luna Oliver Aiden Ryan Christian Aurora Hazel Chloe James Harper Emily Caleb Benjamin
+Carter Lily Aurora Ryan Charlotte Avery Emma Harper Caleb Hazel Oliver Emily Hannah Hunter Luna
+Mason Mila Harper Hunter Aiden Oliver
+Emma Aurora Aiden Scarlett Mason Mila Caleb Chloe Thomas Avery Oliver Lily Charlotte Harper Luna Benjamin Hunter David Emily Christian Sophia Charlie Hannah
+Aiden Hunter Mila Emma Benjamin Caleb Christian Oliver Avery Ryan Scarlett Sophia Eve Mason Hazel
+Avery Harper Hazel Charlie Mila Aurora Oliver James Ryan Carter Emily Christian Charlotte Sophia Chloe Aiden David Luna Eve Sebastian Mason Lily Benjamin
+Charlotte Benjamin David Caleb Oliver Carter Mila Charlie Hannah Eve Sebastian Ryan James Scarlett Thomas Mason Emma Emily Harper Hazel Hunter Sophia Luna Avery Aiden Lily Chloe
+Lily Aurora James Caleb Mila Chloe Avery Charlie Emily Luna Sebastian Harper Christian Hazel Thomas Mason Aiden Charlotte Ryan Eve Carter David
+Hazel Aiden Avery Scarlett Mila Hannah Oliver Lily Mason James Charlotte Ryan Emma Benjamin
+James Avery Caleb Mason Sebastian Emma Harper Chloe Hannah Sophia Benjamin Christian Aurora Mila Luna Charlotte David Scarlett Emily
+Christian Emma Sophia Caleb Charlotte Ryan Sebastian Eve Scarlett Mila Oliver Benjamin Chloe David
+Luna Chloe
+David Avery Aiden Mila Emily Hazel Aurora Mason Sophia Lily Luna Oliver Hannah Scarlett Carter Ryan Chloe
+Scarlett David Aurora Charlotte Hannah Lily Avery Oliver Hazel Charlie
+Caleb Mason Emma Aurora Benjamin Mila Oliver Harper Hannah Thomas Charlotte Emily Eve James Lily Christian Avery Carter Scarlett Chloe Aiden Sebastian Hunter Sophia Ryan Luna Charlie Hazel
+Sebastian Avery Lily Luna Christian Hunter Charlotte Eve Mason Emma Aurora Aiden Thomas Scarlett Oliver Hannah Sophia Chloe Charlie Emily Caleb Ryan Benjamin James Carter Hazel
+Emily Benjamin Caleb Carter Hannah Emma Scarlett Hazel
+Ryan Charlotte Aurora Sebastian Aiden Hannah Thomas Carter Eve Benjamin Mila Avery Mason David Chloe Lily Christian Oliver Emily James Sophia Caleb Harper Emma Hazel Charlie Hunter Scarlett
+Aurora Carter Scarlett Lily Luna David Emma James Hannah Eve Sophia Thomas Avery Hunter Christian Charlie Emily Ryan Harper Hazel Aiden Mila Oliver Sebastian Caleb Charlotte Chloe Mason Benjamin
+Charlie Aiden Avery Hannah Lily Hunter James Emily Aurora Mila Emma Hazel Benjamin Ryan Oliver
+Thomas Sophia Emma Scarlett Sebastian Hazel Harper Caleb Luna Lily Hunter Benjamin Mila Chloe Aurora Avery Hannah Eve
+Eve Christian Luna Mila Avery Emma Aurora Ryan Charlie Harper Oliver Benjamin Charlotte Hazel Thomas Mason Hannah
+Chloe Thomas
+Oliver Emma Chloe David Christian Avery James Charlotte Charlie Harper Lily Aurora Thomas Hazel Carter Emily Caleb Hannah Ryan Sophia Mila Aiden Mason Eve Hunter Scarlett Luna Sebastian Benjamin
+Mila Charlie Thomas Aiden Aurora Scarlett Hazel Lily Ryan Hannah Chloe Sophia Oliver Charlotte Harper James Mason Eve
+Hannah Ryan Avery Hunter Scarlett Carter Thomas Christian James Emily Emma Luna Sophia Charlie Hazel Sebastian Chloe Charlotte Harper Aurora Caleb David Mason
+Hunter Thomas
 0

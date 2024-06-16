@@ -1,0 +1,60 @@
+29
+Wyatt 0
+Aaron 0
+Hannah 1
+Dylan 0
+Bob 1
+William 0
+Scarlett 0
+Hunter 1
+Jack 0
+Liam 1
+Isaac 0
+Nora 0
+Lily 1
+Jacob 1
+Olivia 0
+Levi 1
+Mia 1
+Carter 1
+Alexander 1
+Hannah 0
+Matthew 0
+James 1
+Stella 1
+Sophia 0
+Luke 0
+Madison 0
+Thomas 1
+Sophia 1
+Owen 0
+Wyatt Owen Mia James Carter Jacob Olivia Jack Alexander
+Aaron Thomas Matthew Jack Carter Wyatt Dylan William
+Hannah Dylan Sophia Jack Sophia Wyatt Thomas James
+Dylan Sophia Owen Mia Matthew Carter Hannah Bob Wyatt Thomas Hannah Jack Olivia Luke Isaac Lily Alexander Aaron Scarlett Liam Jacob Levi Stella Nora Hunter
+Bob Liam Madison Thomas Stella William Matthew Owen Scarlett Jacob Carter Olivia Hunter Isaac Hannah James Sophia Dylan
+William Nora Owen Matthew Wyatt Alexander Sophia Scarlett Hannah Sophia Liam Carter Thomas Mia Hannah Olivia James
+Scarlett Bob
+Hunter Liam James Jacob Jack Thomas Mia Sophia Levi Aaron
+Jack Mia Aaron Liam
+Liam Aaron Stella Matthew Levi Alexander Jacob Luke Nora Wyatt Hunter
+Isaac Mia Owen Wyatt Sophia Jacob Olivia Scarlett Carter Alexander Sophia Hannah Thomas Matthew Hunter Nora Bob Hannah Liam Lily Dylan
+Nora Olivia Matthew Lily Madison Hannah Scarlett Carter Sophia Wyatt James Jack William Stella Luke Jacob
+Lily Hunter
+Jacob Alexander Hunter James Stella Wyatt Jack Olivia Luke Nora Aaron Sophia William Isaac Mia Scarlett Hannah Hannah Matthew Owen Liam
+Olivia Lily Hannah Isaac Dylan Jacob Aaron Sophia Alexander Luke Thomas Levi Hunter Carter Owen Mia Hannah Jack William Sophia Stella Nora Bob Liam James Wyatt Matthew
+Levi Thomas Bob Madison Mia Matthew Olivia Sophia Alexander Sophia James Stella Aaron Owen Liam Hannah Hunter Nora Luke
+Mia Owen James Scarlett Bob Hannah Thomas William Aaron Matthew Nora Lily Levi Jacob Madison Sophia Luke Stella Jack Carter Liam
+Carter Wyatt
+Alexander Liam Nora Jack Stella James Sophia Olivia Hannah Madison William
+Hannah Liam Levi Owen James Dylan Thomas Sophia Lily Bob Nora Isaac Jack Alexander Scarlett Mia Wyatt Sophia
+Matthew Luke Hannah Wyatt Levi Mia Alexander Jacob Madison Sophia
+James Lily Luke Carter Owen Sophia Aaron Hunter William Mia Alexander Stella Hannah Matthew Wyatt Sophia
+Stella Bob Luke William Scarlett Sophia Liam Madison Sophia
+Sophia Dylan Scarlett Olivia Jacob Madison Levi Jack Owen Mia Liam James Lily Nora
+Luke Dylan Olivia Isaac Jacob Liam Thomas Sophia Carter Matthew Aaron Alexander Jack Levi William Sophia Owen Hannah Lily Hannah Nora Stella Wyatt James Scarlett
+Madison Nora Liam Hunter Olivia Bob William Matthew Hannah Stella Carter Wyatt Jacob Scarlett Aaron Hannah Luke Thomas Sophia Dylan James Mia Alexander
+Thomas Owen Levi William Mia Hunter
+Sophia Luke Bob Hunter Owen Dylan Carter Olivia Nora Madison Jacob Hannah Lily Hannah Wyatt Aaron Stella Jack
+Owen Olivia Matthew
+0
