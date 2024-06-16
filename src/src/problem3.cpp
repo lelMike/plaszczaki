@@ -1,4 +1,5 @@
-#include <iostream>
+
+/*
 #include <fstream>
 #include <vector>
 #include <unordered_map>
@@ -7,8 +8,8 @@
 #include <cstdlib>
 #include <cstring>
 #include <filesystem>
-#include "route.h"
-#include "guards.h"
+#include "../include/route.h"
+#include "../include/guards.h"
 
 
 int main() {
@@ -93,3 +94,4 @@ int main() {
     }
     return 0;
 }
+*/

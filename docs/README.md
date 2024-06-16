@@ -15,10 +15,12 @@ This project is written in C++ and involves solving 3 sub-problems of the 'Płas
 3. Run and compile the code (Windows):
 ```bash
 .\build1.bat [|debug|test]
+.\build2.bat [song.txt] [words.txt]
 ```
 4. Run and compile the code (Linux/MacOS):
 ```bash
 ./build1.sh [|debug|test]
+./build2.sh [song.txt] [words.txt]
 ```
 
 ## Documentation

@@ -1,50 +1,100 @@
-// #include <iostream>
-// #include <vector>
-// #include <cstdlib>
-// #include <ctime>
-// #include "../include/guards.h"
-// #include "../include/patrol.h"
-//
-// using namespace std;
-//
-// int main() {
-//     int n, m, k, max_steps; // n goes for number of points, m goes for number of guards, k goes for number of days
-//     cin >> n >> m >> k >> max_steps;
-//
-//     vector<int> brightness(n);   // reading brightness of the points
-//     for (int i = 0; i < n; ++i) {
-//         cin >> brightness[i];
-//     }
-//     srand(time(nullptr)); // initialisation of random energy
-//
-//     vector<Guard> guards(m); // checking guards' availability and energy
-//     for (int i = 0; i < m; ++i) {
-//         guards[i].energy = rand() % 11;
-//         cin >> guards[i].availability;
-//         guards[i].index = i + 1;
-//     }
-//
-//     vector<bool> available(m, true); // tracking the availability
-//     vector<int> lastPatrol(m, -1);
-//
-//     for (int day = 0; day < k; ++day) { //assigning guards for work
-//         for (int i = 0; i < m; ++i) {
-//             if (lastPatrol[i] != -1 && day - lastPatrol[i] < 7) {
-//                 available[i] = false; // because guard must rest for a week after patrolling
-//             } else {
-//                 available[i] = true;
-//             }
-//         }
-//
-//         Guard guard = selectGuard(guards, available);  // selecting the guard with the highest energy who is available
-//         cout << "Day " << day + 1 << ": Guard " << guard.index << " with energy " << guard.energy << endl;
-//
-//         int restPoints = calculateMinRestPoints(brightness, max_steps); // this step is to calculate the minimum number of rest points for the selected guard
-//         cout << "Minimum rest points: " << restPoints << endl;
-//
-//         lastPatrol[guard.index - 1] = day; //updating the last patrol day for the selected guard
-//     }
-//
-//     return 0;
-// }
-// //computational complexity: O(k⋅(m+n))
+//Natan Warelich
+#include <iostream>
+#include "../include/KMP.h"
+#include "../include/huffman.h"
+#include "../include/filtering.h"
+#include <vector>
+#include <fstream>
+#include <string>
+
+void checkingFile(std::ifstream &file, std::string name){
+    if(!file.is_open()){
+        std::cerr << "Unable to open " << name << std::endl;
+        exit(-1);
+    }
+
+    //tellg i seekg to ai
+    file.seekg(0, std::ios::end);
+    if (file.tellg() == 0) {
+        std::cerr << "The file " << name << " is empty." << std::endl;
+        exit(-1);
+    }
+    file.seekg(0, std::ios::beg);
+}
+int main(int argc, char* argv[]) {
+    if(argc != 3){
+        std::cerr << "Usage: .\\problem2.exe [song file] [word file]" << std::endl;
+        exit(-1);
+    }
+
+    Filtering filtering = *new Filtering();
+    std::ifstream songfile("txt/" + std::string(argv[1]));
+    checkingFile(songfile,  "songfile");
+
+    std::string line;
+    std::string song = Filtering::songfiletostring(songfile);
+    songfile.close();
+
+    std::ifstream wordfile("txt/" + std::string(argv[2]));
+    checkingFile(wordfile, "wordfile");
+    //--------------KMP---------------------------------
+    int n = 0;
+    std::vector<std::pair<std::string, std::string>> words = Filtering::wordsFileToString(wordfile, n);
+    KMP kmp = *new KMP();
+    int i;
+    Filtering::sortByLength(words);
+    for(i = 0; i < n; i++){
+        kmp.pattern(song, words[i].first, words[i].second);
+    }
+
+    Filtering::sortByReplacement(words);
+    for(i = 0; i < n; i++){
+        kmp.pattern(song, words[i].first, words[i].second);
+    }
+
+    Filtering::sortByReplacement2(words);
+    for(i = 0; i < n; i++){
+        kmp.pattern(song, words[i].first, words[i].second);
+    }
+    wordfile.close();
+    //---------------------huffman---------------------
+    Huffman huffman = *new Huffman();
+    std::map<char, std::string> codes;
+    std::string empty;
+    Node* node = huffman.creatingTree(song);
+    huffman.prepareForEncryption(node, empty, codes);
+
+    for(auto& a : codes){
+        std::cout << a.first << ": " << a.second << std::endl;
+    }
+
+
+    std::string compressedSong = huffman.compression(codes, song);
+
+    //--------------------------Reszta---------------------
+    std::cout << "Alright mr Heretic, we have sucessfully made compression, what do we do now?" << std::endl;
+    while(true) {
+        std::cout << "type \"1\" if you want to see what did you do." << std::endl;
+        std::cout << "type \"2\" if you want to decrypt code." << std::endl;
+        std::cout << "type \"3\" if you want to use 2d printer to save results. (it ends program and input results into file)" << std::endl;
+
+        int decision;
+        std::cin >> decision;
+        if(decision == 1){
+            std::cout << compressedSong << std::endl;
+        }
+        if(decision == 2){
+                //tworzymy kopie gdyż będziemy pracować na referencji aby nie zuużywać, aż tyle zasobów, bo w końcu rekurencja i te sprawy
+             const std::string& copy = compressedSong;
+             std::cout << huffman.decompression(node, copy) << std::endl;
+
+        }
+        if(decision == 3){
+            filtering.saveTheSong(compressedSong);
+            break;
+        }
+
+    }
+    huffman.savememoryforlater(node); //zwolnienie pamięci
+    return 0;
+}
