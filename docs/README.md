@@ -22,7 +22,7 @@ This project is written in C++ and involves solving 3 sub-problems of the 'Płas
 ```
 
 ## Documentation
-[Documentation link](google.com)
+[Documentation link]([google.com](https://lelmike.github.io/plaszczaki/))
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
