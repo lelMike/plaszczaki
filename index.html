@@ -6,82 +6,233 @@
     <title>Project Documentation</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
             background-color: #121212;
             color: #e0e0e0;
         }
+
         .container {
             width: 80%;
-            margin: auto;
-            overflow: hidden;
+            margin: 2% auto;
             padding: 20px;
             background: #1e1e1e;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
         }
+
         h1, h2 {
-            color: #e0e0e0;
+            color: #61dafb;
         }
+
         h1 {
-            border-bottom: 2px solid #e0e0e0;
+            border-bottom: 2px solid #61dafb;
             padding-bottom: 10px;
+            margin-bottom: 20px;
         }
+
         .accordion {
             margin-bottom: 40px;
         }
+
         .accordion h2 {
             background-color: #333;
-            padding: 10px;
+            padding: 15px;
             cursor: pointer;
             border: none;
             text-align: left;
             outline: none;
             transition: background-color 0.3s ease;
+            margin: 0;
+            border-radius: 5px;
+            position: sticky;
+            top: 0;
+            z-index: 1;
         }
+
         .accordion h2:hover {
             background-color: #444;
         }
+
         .panel {
             padding: 0 18px;
             background-color: #1e1e1e;
             display: none;
             overflow: hidden;
             border-top: 1px solid #444;
+            border-radius: 0 0 5px 5px;
+            transition: max-height 0.3s ease-out;
         }
+
         h3 {
             color: #e0e0e0;
+        }
+
+        .panel p code {
+            background-color: #333;
+            color: #61dafb;
+            padding: 2px 6px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+
+        .panel p {
+            margin: 10px 0;
+        }
+
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+        }
+
+        .footer a {
+            color: #61dafb;
+            text-decoration: none;
+        }
+
+        .back-to-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: #61dafb;
+            color: #121212;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            display: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .back-to-top:hover {
+            background-color: #4fa3d5;
+        }
+
+        .search-bar {
+            width: calc(100% - 36px);
+            padding: 10px;
+            margin: 20px 18px;
+            background-color: #333;
+            border: none;
+            border-radius: 5px;
+            color: #e0e0e0;
+        }
+
+        .dark-mode-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #61dafb;
+            color: #121212;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .dark-mode-toggle:hover {
+            background-color: #4fa3d5;
+        }
+
+        .light-mode {
+            background-color: #f0f0f0;
+            color: #121212;
+        }
+
+        .light-mode .container {
+            background: #ffffff;
+        }
+
+        .light-mode .accordion h2 {
+            background-color: #ccc;
+        }
+
+        .light-mode .accordion h2:hover {
+            background-color: #bbb;
+        }
+
+        .light-mode .panel {
+            background-color: #f9f9f9;
+            border-top: 1px solid #ccc;
+        }
+
+        .light-mode .back-to-top,
+        .light-mode .dark-mode-toggle {
+            background-color: #333;
+            color: #f0f0f0;
+        }
+
+        .light-mode .back-to-top:hover,
+        .light-mode .dark-mode-toggle:hover {
+            background-color: #444;
+        }
+
+        mark {
+            background-color: #ff0;
+            color: #000;
         }
     </style>
 </head>
 <body>
 <div class="container">
     <h1>Płaszczaki Project Documentation</h1>
+    <input type="text" class="search-bar" id="searchBar" placeholder="Search...">
 
     <div class="accordion">
         <h2>Problem 1</h2>
         <div class="panel">
             <h3>Problem description</h3>
-            <p><!-- Problem 1 description goes here --></p>
+            <p>Panic reigned. It was decided that some intruders from outside the Land must have replaced the letter b in the word "hurts" with a p. In order to protect the beautiful story-melody written on the Site, it was decided to build a fence around it. to p. In order to protect the beautiful story-melody written on the Page, it was decided to build a fence around the Land using the landmarks. Land, using landmarks. The fence will be built from sections of length 1 (they can be cut). The sections will be carried by porters. There are two types of porters among the stingrays: those with their hands at the back and those with their hands in front. In a two-dimensional world, it is impossible to move the hands (from front to back and vice versa). In order to move a section you need a porter with his hands at the back and another with his hands at the front. Not all porters like each other and do not always want to work together. It is necessary to carefully select porters into pairs. Figure 2: On the left friendly porters carrying the section correctly, on the right quarrelsome porters, on the right, contentious porters who do not want to cooperate Figure 3: Friendly porters who cannot carry a section because their hands are on the same side The sections are produced in the factory and then carried by a network of narrow roads to the collection points. Problem. Determine how the sections are transported from the factory to the fence site. Build the fence as quickly and cheaply as possible</p>
 
             <h3>Our interpretation</h3>
-            <p><!-- Our interpretation of problem 1 goes here --></p>
+            <p>This problem could be seen as 2 sub-problems. The first problem, is given some set of workers, and certain conditions and relations, the goal is to calculate the maximum amount of possible pairs. The second problem is generating a border around a set of points, and constructing a flow network between them all, based on some edge criteria. The calculation needed, is the amount of days it would take to build the wall around the border, if worker pairs were able to stash wall pieces around every border point.</p>
+
+            <h3>Run instructions</h3>
+            <p>This program operates in 3 modes.</p>
+
+            <p>
+                The first mode lets the user pick what .txt files he uses from console, and prints the answer in the console:<br>
+                <code>.\build1.bat</code>
+            </p>
+
+            <p>
+                The second mode is an extension of the first, as it additionally outputs debugging information in the console:<br>
+                <code>.\build1.bat debug</code>
+            </p>
+
+            <p>
+                The third mode is a testing mode, to be able to conduct a series of tests without needing to enter each .txt file name individually:<br>
+                <code>.\build1.bat test</code>
+
+                Each mode has a GUI interface, for showing the constructed graph, built in SFML.
+            </p>
 
             <h3>Files</h3>
-            <p><!-- List of files related to problem 1 --></p>
+            <p>This problem solution is made up of:<br>
+                <code>problem1.cpp</code>
+                <code>WorkerRelations.cpp</code><code>WorkerRelations.h</code><code>BorderHandler.cpp</code>
+                <code>BorderHandler.h</code>
+                <code>GraphHandler.cpp</code><code>GraphHandler.h</code>
+            </p>
 
             <h3>Input data</h3>
-            <p><!-- Input data for problem 1 --></p>
+            <p>In every test case, there are 2 .txt files needed. The first file, indicates the worker details, and their relations (p[x]_w[x].txt). The second file contains all the points and their coordinates, as well as the edges specified with a certain flow value (p[x]_c[x].txt)</p>
 
             <h3>Output data</h3>
-            <p><!-- Output data for problem 1 --></p>
+            <p>After every calculation of the border, the border points count, as well as randomly generated 1-100 brightness values for each of them, are stored in a p3_path[x].txt file to be used in problem 3.</p>
 
             <h3>Tests</h3>
-            <p><!-- Tests for problem 1 --></p>
+            <p>The series of tests conducted are visible in the /txt folder. Most were generated using the GenerateTests.py python script, with some additional tests manually constructed to test edge cases. Some examples are: No worker pairs, Less than 4 points tests, factory part of the border test, float value-sensitive tests (for possible floating point errors), odd border tests.</p>
 
             <h3>Complexity and proof</h3>
-            <p><!-- Complexity and proof for problem 1 --></p>
+            <p>The algorithms used are as following:<br>
+                - Jarvis algorithm (border calculation, with Natans help); O(N*H) complexity, where N is the total number of points, and H is the total number of points that lie in the convex hull (border),<br>
+                - Customised Ford-Fulkerson algorithm (for the flow network and augmenting path); Customised, because I add a virtual sink node, to handle multiple sinks in the algorithm. The complexity still remains the base O(E*|F|), where E is the number of edges and |F| is the maximum flow, as the additional operations related to handling the virtual sink are manageable within this complexity framework,<br>
+                - Hopcroft-Karp algorithm (Finding the maximum matching in the pairs data structure); O(E*sqrt(V)) complexity, where E is the number of edges in the bipartite graph, and V is the number of vertices,<br>
+                - Custom pair filtering algorithm; O(n) complexity, where n is the size of the likes vector passed to the function. This analysis assumes average-case performance of hash map operations, which are typically O(1) for lookup and insertion. This algorithm is guaranteed to stop, as the finite set of pairs is divided up to 2 unsorted maps depending on their hand direction, and then put together to pairs based on the relation, and if they are found in opposing maps. If we assume that it doesn't have a stop condition, then the list of workers would have to be infinite, as that is the only possibility. If no workers can be matched, then there is an empty set of workers returned. </p>
         </div>
 
         <h2>Problem 2</h2>
@@ -93,75 +244,108 @@
             <p><!-- Our interpretation of problem 2 goes here --></p>
 
             <h3>Files</h3>
-            <p><!-- List of files related to problem 2 --></p>
+            <p><!-- Files for problem 2 go here --></p>
 
             <h3>Input data</h3>
             <p><!-- Input data for problem 2 --></p>
 
             <h3>Output data</h3>
-            <p><!-- Output data for problem 2 --></p>
+            <p><!-- Output data for problem 2 goes here --></p>
 
             <h3>Tests</h3>
-            <p><!-- Tests for problem 2 --></p>
+            <p><!-- Tests for problem 2 go here --></p>
 
             <h3>Complexity and proof</h3>
-            <p><!-- Complexity and proof for problem 2 --></p>
+            <p><!-- Complexity and proof for problem 2 goes here --></p>
         </div>
 
         <h2>Problem 3</h2>
         <div class="panel">
             <h3>Our interpretation</h3>
-            <p>Problem trzeci w mojej interpretacji wyglądał następująco:
-Wybudowanego w pierwszym zadaniu płotu należy pilnować. Takie zadanie mają płaszczaki, które pełnią funkcję strażnika. Każdy z nich ma losowo dobraną energię (od 1-10). Na jej podstawie wybierany jest grafik - im strażnik ma większą energię, tym pierwszy jest w kolejce do grafiku. Należy też przestrzegać paru ważnych zasad:
-⦁	strażnicy mogą mieć urlopy,
-⦁	po pilnowaniu muszą odbyć 7 dni odpoczynku, aby móc ponownie patrolować płot.
- Każdy punkt płotu ma swoją jasność w skali 1-100 (współrzędne w mojej interpretacji nie mają znaczenia). W inpucie dostajemy dodatkową ilośc kroków strażników, po których muszą sie zatrzymać i rozejrzeć. Jeśli ta ilość równa się trzy, płaszczak może się zatrzymać po jednym, dwóch i trzech krokach, najważniejsze jest, aby punkt na którym się zatrzyma, był ciemniejszy od poprzedniego. 
-Dla punktów 3 18 2 najkorzystniejsze jest przejście z punktu z jasnością 3 do punktu z jasnością 2, ponieważ 2 ma mniejszą jasność niż 18.
-Jest to ważne w kontekście zadania, ponieważ gdy w sytuacji gdy mamy punkty 30 31 32 zatrzymując się i na punkcie z jasnością 31, i na punkcie z jasnością 32 trafiamy na punkty jaśniejsze, przez którą strażnicy muszą przesłuchać melodię, a słuchanie jej często bardzo nudzi płaszczaków. W takiej sytuacji lepiej przejść do punktu 32, wtedy ilość przesłuchań melodii jest mniejsza.
-W programie dążę do ustalenia grafiku strażnikow z uwzględnieniem ich losowo wygenerowanej energii, urlopów oraz 7 dni odpoczynku oraz do ustalenia ścieżki, gdzie liczba przesłuchań melodii jest najmniejsza.
-</p>
-
+            <p>Problem trzeci w mojej interpretacji wyglądał następująco: Wybudowanego w pierwszym zadaniu płotu należy pilnować. Takie zadanie mają płaszczaki, które pełnią funkcję strażnika. Każdy z nich ma losowo dobraną energię (od 1-10). Na jej podstawie wybierany jest grafik - im strażnik ma większą energię, tym pierwszy jest w kolejce do grafiku. Należy też przestrzegać paru ważnych zasad: ⦁ strażnicy mogą mieć urlopy, ⦁ po pilnowaniu muszą odbyć 7 dni odpoczynku, aby móc ponownie patrolować płot. Każdy punkt płotu ma swoją jasność w skali 1-100 (współrzędne w mojej interpretacji nie mają znaczenia). W inpucie dostajemy dodatkową ilośc kroków strażników, po których muszą sie zatrzymać i rozejrzeć. Jeśli ta ilość równa się trzy, płaszczak może się zatrzymać po jednym, dwóch i trzech krokach, najważniejsze jest, aby punkt na którym się zatrzyma, był ciemniejszy od poprzedniego. Dla punktów 3 18 2 najkorzystniejsze jest przejście z punktu z jasnością 3 do punktu z jasnością 2, ponieważ 2 ma mniejszą jasność niż 18. Jest to ważne w kontekście zadania, ponieważ gdy w sytuacji gdy mamy punkty 30 31 32 zatrzymując się i na punkcie z jasnością 31, i na punkcie z jasnością 32 trafiamy na punkty jaśniejsze, przez którą strażnicy muszą przesłuchać melodię, a słuchanie jej często bardzo nudzi płaszczaków. W takiej sytuacji lepiej przejść do punktu 32, wtedy ilość przesłuchań melodii jest mniejsza. W programie dążę do ustalenia grafiku strażnikow z uwzględnieniem ich losowo wygenerowanej energii, urlopów oraz 7 dni odpoczynku oraz do ustalenia ścieżki, gdzie liczba przesłuchań melodii jest najmniejsza.</p>
 
             <h3>Files</h3>
-            <p>Pliki nagłówkowe: route.h, guards.h
-Pliki główne: problem3.cpp (main), guards.cpp, route.cpp
-ANALIZY PLIKÓW
-problem3.cpp
-To jest funkcja główna. Łączy ona wszystkie 5 plików ze sobą.
-W środku znajduje się automatyczne wczytywanie testów, wczytywanie informacji z dwóch plików, losowanie energii strażnikow, inicjalizacja map analizujących urlopy i energie, sprawdzanie najkorzystniejszej ilości przesłuchań melodii oraz wypisanie wyniku na terminal.
-guards.cpp
-Połączona jest z plikiem nagłówkowym guards.h
-Ten plik ma za zadanie stworzenie grafiku strażników na podstawie energii, dni urlopowych i wymaganych 7 dni odpoczynku. Jest to analizowane na podstawie map nieposortowanych oraz kolejki priorytetowej
-route.cpp
-W tym pliku wybieramy najkorzystniejszą ścieżkę, aby ilość przesłuchań melodii była jak najmniejsza. W tej funkcji wraz z Natanem i Mikołajem uwzględniliśmy zatrzymywanie się na każdym punkcie i analizowaniu, czy jest jaśniejszy/ciemniejszy od poprzedniego. Jeśli żaden z punktów nie był ciemniejszy, zatrzymuje się na kroku o wartości max_steps (maksymalna ilość kroków) nalicza nam jedno wysłuchanie melodii i jeden krok. W programie uwzględniłam wypisanie ilości zatrzymań, które zrobił strażnik, aby łatwiej było przeanalizować poprawność kroków strażnika. Program uwzględnia ruch do punktu ostatniego i analizowanie przesłuchań i jasności - wtedy strażnik wybiera się na odpoczynek.
-</p>
+            <p>Pliki nagłówkowe: route.h, guards.h Pliki główne: problem3.cpp (main), guards.cpp, route.cpp ANALIZY PLIKÓW problem3.cpp To jest funkcja główna. Łączy ona wszystkie 5 plików ze sobą. W środku znajduje się automatyczne wczytywanie testów, wczytywanie informacji z dwóch plików, losowanie energii strażnikow, inicjalizacja map analizujących urlopy i energie, sprawdzanie najkorzystniejszej ilości przesłuchań melodii oraz wypisanie wyniku na terminal. guards.cpp Połączona jest z plikiem nagłówkowym guards.h Ten plik ma za zadanie stworzenie grafiku strażników na podstawie energii, dni urlopowych i wymaganych 7 dni odpoczynku. Jest to analizowane na podstawie map nieposortowanych oraz kolejki priorytetowej route.cpp W tym pliku wybieramy najkorzystniejszą ścieżkę, aby ilość przesłuchań melodii była jak najmniejsza. W tej funkcji wraz z Natanem i Mikołajem uwzględniliśmy zatrzymywanie się na każdym punkcie i analizowaniu, czy jest jaśniejszy/ciemniejszy od poprzedniego. Jeśli żaden z punktów nie był ciemniejszy, zatrzymuje się na kroku o wartości max_steps (maksymalna ilość kroków) nalicza nam jedno wysłuchanie melodii i jeden krok. W programie uwzględniłam wypisanie ilości zatrzymań, które zrobił strażnik, aby łatwiej było przeanalizować poprawność kroków strażnika. Program uwzględnia ruch do punktu ostatniego i analizowanie przesłuchań i jasności - wtedy strażnik wybiera się na odpoczynek.</p>
 
             <h3>Input data</h3>
-            <p>Input w moim rozwiązaniu polega na dwóch plikach:
-⦁	problem3.vacationx (x - numer testu) - odpowiadający za ilość analizowanych dni, kroków oraz dni wolnych strażników
-⦁	problem3.pathx - odpowiadający za ilość punktów i poziomu jasności punktów
-</p>
+            <p>Input w moim rozwiązaniu polega na dwóch plikach: ⦁ problem3.vacationx (x - numer testu) - odpowiadający za ilość analizowanych dni, kroków oraz dni wolnych strażników ⦁ problem3.pathx - odpowiadający za ilość punktów i poziomu jasności punktów</p>
 
             <h3>Output data</h3>
             <p>W outpucie mamy numer testu, poszczególne energie każdego strażnika, a następnie grafik oraz liczba przesłuchań melodii</p>
 
             <h3>Tests</h3>
-            <p>Testy przeprowadzałam na wielu przypadkach w tym mowa o tych skrajnych:
-np:
-⦁	wszyscy strażnicy mają urlop 1-ego dnia
-⦁	jeden strażnik ma urlop każdego dnia
-⦁	każde kolejne punkty są od siebie większe
-⦁	uwzględnione 14 dni zamiast 7
-</p>
+            <p>Testy przeprowadzałam na wielu przypadkach w tym mowa o tych skrajnych: np: ⦁ wszyscy strażnicy mają urlop 1-ego dnia ⦁ jeden strażnik ma urlop każdego dnia ⦁ każde kolejne punkty są od siebie większe ⦁ uwzględnione 14 dni zamiast 7</p>
         </div>
     </div>
+
+    <div class="footer">
+        <p id="datetime"></p>
+        <p><a href="https://github.com/lelMike/plaszczaki/tree/master?tab=readme-ov-file" target="_blank">Back to GitHub Repository</a></p>
+    </div>
 </div>
+
+<button class="back-to-top" onclick="scrollToTop()">Back to Top</button>
+<button class="dark-mode-toggle" onclick="toggleDarkMode()">Toggle Dark/Light Mode</button>
 
 <script>
     document.querySelectorAll('.accordion h2').forEach(button => {
         button.addEventListener('click', () => {
             const panel = button.nextElementSibling;
-            panel.style.display = panel.style.display === 'block' ? 'none' : 'block';
+            if (panel.style.display === "block") {
+                panel.style.display = "none";
+            } else {
+                document.querySelectorAll('.panel').forEach(p => p.style.display = 'none');
+                panel.style.display = "block";
+                window.scrollTo({
+                    top: button.offsetTop,
+                    behavior: 'smooth'
+                });
+            }
+        });
+    });
+
+    function scrollToTop() {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    }
+
+    window.addEventListener('scroll', () => {
+        const backToTopButton = document.querySelector('.back-to-top');
+        if (window.scrollY > 100) {
+            backToTopButton.style.display = 'block';
+        } else {
+            backToTopButton.style.display = 'none';
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const datetimeElement = document.getElementById('datetime');
+        const now = new Date();
+        const formattedDateTime = now.toLocaleString();
+        datetimeElement.textContent = `Date and Time: ${formattedDateTime}`;
+    });
+
+    function toggleDarkMode() {
+        document.body.classList.toggle('light-mode');
+    }
+
+    const searchBar = document.getElementById('searchBar');
+    searchBar.addEventListener('input', function() {
+        const searchText = searchBar.value.toLowerCase();
+        document.querySelectorAll('.accordion h2').forEach(header => {
+            const panel = header.nextElementSibling;
+            const html = panel.innerHTML;
+            const text = panel.textContent.toLowerCase();
+            const regex = new RegExp(searchText, 'gi');
+            const newHtml = html.replace(/(<mark class="highlight">|<\/mark>)/gim, "").replace(regex, (match) => `<mark class="highlight">${match}</mark>`);
+            panel.innerHTML = newHtml;
+
+            if (text.includes(searchText)) {
+                header.style.display = '';
+                panel.style.display = 'block';
+            } else {
+                header.style.display = 'none';
+                panel.style.display = 'none';
+            }
         });
     });
 </script>
