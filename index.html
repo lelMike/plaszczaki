@@ -10,107 +10,137 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #121212;
+            color: #e0e0e0;
         }
         .container {
             width: 80%;
             margin: auto;
             overflow: hidden;
             padding: 20px;
-            background: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background: #1e1e1e;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         }
         h1, h2 {
-            color: #333;
+            color: #e0e0e0;
         }
         h1 {
-            border-bottom: 2px solid #333;
+            border-bottom: 2px solid #e0e0e0;
             padding-bottom: 10px;
         }
-        h2 {
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-        .section {
+        .accordion {
             margin-bottom: 40px;
+        }
+        .accordion h2 {
+            background-color: #333;
+            padding: 10px;
+            cursor: pointer;
+            border: none;
+            text-align: left;
+            outline: none;
+            transition: background-color 0.3s ease;
+        }
+        .accordion h2:hover {
+            background-color: #444;
+        }
+        .panel {
+            padding: 0 18px;
+            background-color: #1e1e1e;
+            display: none;
+            overflow: hidden;
+            border-top: 1px solid #444;
+        }
+        h3 {
+            color: #e0e0e0;
         }
     </style>
 </head>
 <body>
 <div class="container">
-    <h1>Project Documentation</h1>
+    <h1>Płaszczaki Project Documentation</h1>
 
-    <div class="section">
+    <div class="accordion">
         <h2>Problem 1</h2>
-        <h3>Problem description</h3>
-        <p><!-- Problem 1 description goes here --></p>
+        <div class="panel">
+            <h3>Problem description</h3>
+            <p><!-- Problem 1 description goes here --></p>
 
-        <h3>Our interpretation</h3>
-        <p><!-- Our interpretation of problem 1 goes here --></p>
+            <h3>Our interpretation</h3>
+            <p><!-- Our interpretation of problem 1 goes here --></p>
 
-        <h3>Files</h3>
-        <p><!-- List of files related to problem 1 --></p>
+            <h3>Files</h3>
+            <p><!-- List of files related to problem 1 --></p>
 
-        <h3>Input data</h3>
-        <p><!-- Input data for problem 1 --></p>
+            <h3>Input data</h3>
+            <p><!-- Input data for problem 1 --></p>
 
-        <h3>Output data</h3>
-        <p><!-- Output data for problem 1 --></p>
+            <h3>Output data</h3>
+            <p><!-- Output data for problem 1 --></p>
 
-        <h3>Tests</h3>
-        <p><!-- Tests for problem 1 --></p>
+            <h3>Tests</h3>
+            <p><!-- Tests for problem 1 --></p>
 
-        <h3>Complexity and proof</h3>
-        <p><!-- Complexity and proof for problem 1 --></p>
-    </div>
+            <h3>Complexity and proof</h3>
+            <p><!-- Complexity and proof for problem 1 --></p>
+        </div>
 
-    <div class="section">
         <h2>Problem 2</h2>
-        <h3>Problem description</h3>
-        <p><!-- Problem 2 description goes here --></p>
+        <div class="panel">
+            <h3>Problem description</h3>
+            <p><!-- Problem 2 description goes here --></p>
 
-        <h3>Our interpretation</h3>
-        <p><!-- Our interpretation of problem 2 goes here --></p>
+            <h3>Our interpretation</h3>
+            <p><!-- Our interpretation of problem 2 goes here --></p>
 
-        <h3>Files</h3>
-        <p><!-- List of files related to problem 2 --></p>
+            <h3>Files</h3>
+            <p><!-- List of files related to problem 2 --></p>
 
-        <h3>Input data</h3>
-        <p><!-- Input data for problem 2 --></p>
+            <h3>Input data</h3>
+            <p><!-- Input data for problem 2 --></p>
 
-        <h3>Output data</h3>
-        <p><!-- Output data for problem 2 --></p>
+            <h3>Output data</h3>
+            <p><!-- Output data for problem 2 --></p>
 
-        <h3>Tests</h3>
-        <p><!-- Tests for problem 2 --></p>
+            <h3>Tests</h3>
+            <p><!-- Tests for problem 2 --></p>
 
-        <h3>Complexity and proof</h3>
-        <p><!-- Complexity and proof for problem 2 --></p>
-    </div>
+            <h3>Complexity and proof</h3>
+            <p><!-- Complexity and proof for problem 2 --></p>
+        </div>
 
-    <div class="section">
         <h2>Problem 3</h2>
-        <h3>Problem description</h3>
-        <p><!-- Problem 3 description goes here --></p>
+        <div class="panel">
+            <h3>Problem description</h3>
+            <p><!-- Problem 3 description goes here --></p>
 
-        <h3>Our interpretation</h3>
-        <p><!-- Our interpretation of problem 3 goes here --></p>
+            <h3>Our interpretation</h3>
+            <p><!-- Our interpretation of problem 3 goes here --></p>
 
-        <h3>Files</h3>
-        <p><!-- List of files related to problem 3 --></p>
+            <h3>Files</h3>
+            <p><!-- List of files related to problem 3 --></p>
 
-        <h3>Input data</h3>
-        <p><!-- Input data for problem 3 --></p>
+            <h3>Input data</h3>
+            <p><!-- Input data for problem 3 --></p>
 
-        <h3>Output data</h3>
-        <p><!-- Output data for problem 3 --></p>
+            <h3>Output data</h3>
+            <p><!-- Output data for problem 3 --></p>
 
-        <h3>Tests</h3>
-        <p><!-- Tests for problem 3 --></p>
+            <h3>Tests</h3>
+            <p><!-- Tests for problem 3 --></p>
 
-        <h3>Complexity and proof</h3>
-        <p><!-- Complexity and proof for problem 3 --></p>
+            <h3>Complexity and proof</h3>
+            <p><!-- Complexity and proof for problem 3 --></p>
+        </div>
     </div>
 </div>
+
+<script>
+    document.querySelectorAll('.accordion h2').forEach(button => {
+        button.addEventListener('click', () => {
+            const panel = button.nextElementSibling;
+            panel.style.display = panel.style.display === 'block' ? 'none' : 'block';
+        });
+    });
+</script>
 </body>
 </html>
