@@ -111,7 +111,7 @@
         <h2>Problem 3</h2>
         <div class="panel">
             <h3>Our interpretation</h3>
-            <p><Problem trzeci w mojej interpretacji wyglądał następująco:
+            <p>Problem trzeci w mojej interpretacji wyglądał następująco:
 Wybudowanego w pierwszym zadaniu płotu należy pilnować. Takie zadanie mają płaszczaki, które pełnią funkcję strażnika. Każdy z nich ma losowo dobraną energię (od 1-10). Na jej podstawie wybierany jest grafik - im strażnik ma większą energię, tym pierwszy jest w kolejce do grafiku. Należy też przestrzegać paru ważnych zasad:
 ⦁	strażnicy mogą mieć urlopy,
 ⦁	po pilnowaniu muszą odbyć 7 dni odpoczynku, aby móc ponownie patrolować płot.
@@ -119,11 +119,11 @@ Wybudowanego w pierwszym zadaniu płotu należy pilnować. Takie zadanie mają p
 Dla punktów 3 18 2 najkorzystniejsze jest przejście z punktu z jasnością 3 do punktu z jasnością 2, ponieważ 2 ma mniejszą jasność niż 18.
 Jest to ważne w kontekście zadania, ponieważ gdy w sytuacji gdy mamy punkty 30 31 32 zatrzymując się i na punkcie z jasnością 31, i na punkcie z jasnością 32 trafiamy na punkty jaśniejsze, przez którą strażnicy muszą przesłuchać melodię, a słuchanie jej często bardzo nudzi płaszczaków. W takiej sytuacji lepiej przejść do punktu 32, wtedy ilość przesłuchań melodii jest mniejsza.
 W programie dążę do ustalenia grafiku strażnikow z uwzględnieniem ich losowo wygenerowanej energii, urlopów oraz 7 dni odpoczynku oraz do ustalenia ścieżki, gdzie liczba przesłuchań melodii jest najmniejsza.
-></p>
+</p>
 
 
             <h3>Files</h3>
-            <p><Pliki nagłówkowe: route.h, guards.h
+            <p>Pliki nagłówkowe: route.h, guards.h
 Pliki główne: problem3.cpp (main), guards.cpp, route.cpp
 ANALIZY PLIKÓW
 problem3.cpp
@@ -134,25 +134,25 @@ Połączona jest z plikiem nagłówkowym guards.h
 Ten plik ma za zadanie stworzenie grafiku strażników na podstawie energii, dni urlopowych i wymaganych 7 dni odpoczynku. Jest to analizowane na podstawie map nieposortowanych oraz kolejki priorytetowej
 route.cpp
 W tym pliku wybieramy najkorzystniejszą ścieżkę, aby ilość przesłuchań melodii była jak najmniejsza. W tej funkcji wraz z Natanem i Mikołajem uwzględniliśmy zatrzymywanie się na każdym punkcie i analizowaniu, czy jest jaśniejszy/ciemniejszy od poprzedniego. Jeśli żaden z punktów nie był ciemniejszy, zatrzymuje się na kroku o wartości max_steps (maksymalna ilość kroków) nalicza nam jedno wysłuchanie melodii i jeden krok. W programie uwzględniłam wypisanie ilości zatrzymań, które zrobił strażnik, aby łatwiej było przeanalizować poprawność kroków strażnika. Program uwzględnia ruch do punktu ostatniego i analizowanie przesłuchań i jasności - wtedy strażnik wybiera się na odpoczynek.
-></p>
+</p>
 
             <h3>Input data</h3>
-            <p><Input w moim rozwiązaniu polega na dwóch plikach:
+            <p>Input w moim rozwiązaniu polega na dwóch plikach:
 ⦁	problem3.vacationx (x - numer testu) - odpowiadający za ilość analizowanych dni, kroków oraz dni wolnych strażników
 ⦁	problem3.pathx - odpowiadający za ilość punktów i poziomu jasności punktów
-></p>
+</p>
 
             <h3>Output data</h3>
-            <p><W outpucie mamy numer testu, poszczególne energie każdego strażnika, a następnie grafik oraz liczba przesłuchań melodii></p>
+            <p>W outpucie mamy numer testu, poszczególne energie każdego strażnika, a następnie grafik oraz liczba przesłuchań melodii</p>
 
             <h3>Tests</h3>
-            <p><Testy przeprowadzałam na wielu przypadkach w tym mowa o tych skrajnych:
+            <p>Testy przeprowadzałam na wielu przypadkach w tym mowa o tych skrajnych:
 np:
 ⦁	wszyscy strażnicy mają urlop 1-ego dnia
 ⦁	jeden strażnik ma urlop każdego dnia
 ⦁	każde kolejne punkty są od siebie większe
 ⦁	uwzględnione 14 dni zamiast 7
-></p>
+</p>
         </div>
     </div>
 </div>
