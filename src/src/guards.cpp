@@ -1,4 +1,4 @@
-#include "guards.h"
+#include "../include/guards.h"
 #include <algorithm>
 
 Guards::Guards(const std::unordered_map<int, int>& initialEnergies, const std::unordered_map<int, std::vector<int>>& vacations) //making priority queue that helps to pick guards with highest energy to out timetable

@@ -16,11 +16,13 @@ This project is written in C++ and involves solving 3 sub-problems of the 'Płas
 ```bash
 .\build1.bat [|debug|test]
 .\build2.bat [song.txt] [words.txt]
+.\build3.bat
 ```
 4. Run and compile the code (Linux/MacOS):
 ```bash
 ./build1.sh [|debug|test]
 ./build2.sh [song.txt] [words.txt]
+./build3.sh
 ```
 
 ## Documentation
