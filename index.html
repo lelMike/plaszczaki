@@ -333,17 +333,24 @@
         const searchText = searchBar.value.toLowerCase();
         document.querySelectorAll('.accordion h2').forEach(header => {
             const panel = header.nextElementSibling;
-            const html = panel.innerHTML;
             const text = panel.textContent.toLowerCase();
             const regex = new RegExp(searchText, 'gi');
-            const newHtml = html.replace(/(<mark class="highlight">|<\/mark>)/gim, "").replace(regex, (match) => `<mark class="highlight">${match}</mark>`);
-            panel.innerHTML = newHtml;
+
+            panel.innerHTML = panel.innerHTML.replace(/(<mark class="highlight">|<\/mark>)/gim, "");
+            const html = panel.innerHTML;
 
             if (text.includes(searchText)) {
                 header.style.display = '';
+                panel.innerHTML = html.replace(regex, (match) => `<mark class="highlight">${match}</mark>`);
                 panel.style.display = 'block';
             } else {
                 header.style.display = 'none';
+                panel.style.display = 'none';
+            }
+
+            if (searchText === "") {
+                header.style.display = '';
+                panel.innerHTML = html.replace(/(<mark class="highlight">|<\/mark>)/gim, "");
                 panel.style.display = 'none';
             }
         });
