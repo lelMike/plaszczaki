@@ -238,6 +238,7 @@
         <h2>Problem 2</h2>
         <div class="panel">
             <h3>Problem description</h3>
+<<<<<<< HEAD
             <p><!-- Problem 2 description goes here --></p>
 
             <h3>Our interpretation</h3>
@@ -257,6 +258,105 @@
 
             <h3>Complexity and proof</h3>
             <p><!-- Complexity and proof for problem 2 goes here --></p>
+=======
+            <p>Problem. Zapisać opowieść-melodię w maszynie Informatyka, zamieniając wcześniej „poli” na
+                „boli” oraz próbując oszczędzić wykorzystane miejsce. Znaleźć rozwiązanie problemu ewentualnej
+                zamiany innych fragmentów opowieści-melodii, który niepokoi Heretyka oraz Informatyka.
+            </p>
+
+            <h3>Our interpretation</h3>
+            <p>
+                Musimy wyszkiwać wzorzec, podmienić go, a następnie całą pieść poddać kompresji.
+                W tym celu wykorzystamy algorytm Knutha-Morissa-Pratta oraz algorytm Huffmana.
+            </p>
+
+            <h3>Files</h3>
+            <p>
+                plik główny: problem2.cpp
+                plik pomocniczy z funkcjami niezwiązanymi z algorytmem KMP/Huffmana: filtering.h
+                wyszukiwanie wzorca: KMP.h
+                kompresja: huffman.h
+            </p>
+
+            <h3>Input data</h3>
+            <p>wejście: nasza pieśń która będzie plikiem tekstowym (z przerobionymi wyrazami), oraz plik z parami wyrazów pierwszy niepoprawny (ten w piosence) a drugi poprawny (heretyk przy użyciu swoich kontaktów z siłami nadprzyrodzonymi wie które są przerobione), wyrazy są ustawione w następujący sposób
+                poprawny zły
+                poprawny zły
+                itd
+            </p>
+
+            <h3>Output data</h3>
+            <p>wyjście: plik z pieśnią do której mają dostęp informatyk oraz heretyk, która została poddana obróbce zgodnie z tym co należy przerobić według heretyka oraz zakodowana i skompresowana zgodnie z algorytmem Huffmana </p>
+
+            <h3>Tests</h3>
+            <p>
+                Łatwo idzie zauważyć, że program ten działa. Wystarczy wpisać dowolny tekst z podmienionymi paroma wyrazami, oraz uzupełnić plik tekstowy na słowa i otrzymamy naszą pieśń skompresowaną zgodnie z algorytmem Huffmana. Zastępowanie liter/wyrazów funkcjonuje bez najmniejszych problemów pragnę więc skupić się na specyficznych przypadkach:
+
+                1. wejście puste:
+                W przypadku gdy jedno z wejść jest puste program nas poinformuje o zakończeniu działania.
+                2. nasz wyraz będzie dłuższy od tekstu/równy lub wzorzec == wyraz do podmiany
+                W takim przypadku funkcja errorChecking w KMP.h zajmie się sprawdzeniem tych przypadków i odpowiednią reakcją na nie
+                3. wejście to pojedynczy znak
+                Program ten jest przystosowany do takiej ewentualności jednakże będzie również przyjmował znak nowej linii.
+
+            </p>
+
+            <h3>Complexity and proof</h3>
+            <p>
+                Przed próbą dowiedzenia poprawności pragnę zauważyć, że istnieje szansa na powstanie konfliktu w kolejności podmiany np:
+
+                rower podmieniamy na kajak
+                kaj podmieniamy na maj
+
+                wynikiem końcowym powinien być wyraz majak jednakże rozważmy następującą sytuację:
+
+                kaj -> maj
+                rower -> kajak
+
+                Łatwo idzie zauważyć, że bez odpowiedniej reakcji wynikiem końcowym będzie wyraz kajak, albowiem nie znajdziemy na początku dopasowania dla kaj. W związku z czym musimy nasz zbiór wyrazów posortować względem liczby znaków, a dokładniej rzecz ujmując malejąco.
+
+
+                Pomimo posortowania malejąco dalej możemy natrafić na konflikt, weźmy pod uwagę następującą sytuację:
+                a -> b
+                c -> d
+                b -> c
+
+                Posortowane pod względem rozmiaru ewidentnie to jest, jednakże nadal występuje konflikt, albowiem dla wejścia:
+                aaa
+                otrzymamy:
+                ccc
+
+                Powodem tego jest to, iż nie posortowaliśmy naszego wejścia (wyrazów do podmiany) leksykograficznie, po takim działaniu będziemy mieli następującą kolejność:
+                a -> b
+                b -> c
+                c -> d
+
+                Czyli dla naszego wejścia aaa wyjściem będzie ddd.
+
+                Możemy starać się z całego serca zredukować konflikt jednakże to jeszcze nie jest koniec, bo co w sytuacji gdy:
+
+                a -> z
+                c -> a
+                z -> b
+
+                Długość wyrazów ta sama? Jest. Wyraz do podmiany posortowany leksykograficznie? Również jest. To dlaczego dalej mamy konflikt?
+                W celu otrzymania pełnej poprawność musimy jeszcze wyrazy zastępujące również posortować leksykograficznie.
+                Przykład we/wy może być analogiczny do poprzedniego więc pozostawię go wyobraźni.
+
+                Reszta kodu to jest algorytm Knutha Morrisa Pratta oraz algorytm Huffamana które zostały już dawno dowiedzione przez ludzi z znacznie większą wiedza ode mnie więc zaufam im na słowo.
+
+                Ogólna złożoność czasowa:
+                Złożoność KMP: O(k⋅(n+m), gdzie k to liczba wywołań pattern, n to długość tekstu, a m to długość wzorca.
+                Złożoność Huffmana: O(n logn) dla tworzenia drzewa, O(n) dla kompresji i dekompresji.
+                Ogólna uproszczona złożoność: O(k * (n + m) + n * log n)
+
+                Złożoność przestrzenna:
+                Odczyt plików: O(n), gdzie n to liczba znaków w pliku.
+                Algorytm KMP: O(n) dla przechowywania wzorców i tekstu.
+                Algorytm Huffmana: O(n) dla przechowywania drzewa i skompresowanego tekstu.
+
+            </p>
+>>>>>>> 1f6d3e6 (dodanie dokumentacji problemu2, dodanie potencjalnej zamiany poli na boli w problemie2)
         </div>
 
         <h2>Problem 3</h2>
