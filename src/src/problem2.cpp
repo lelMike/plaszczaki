@@ -44,7 +44,7 @@ int main(int argc, char* argv[]) {
     int i;
     Filtering::sortByLength(words);
 
-    kmp.pattern(song, poli, boli);
+    kmp.pattern(song, "poli", "boli");
 
     for(i = 0; i < n; i++){
         kmp.pattern(song, words[i].first, words[i].second);
