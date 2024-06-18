@@ -5,6 +5,9 @@ void BorderHandler::setPoints(const std::unordered_map<int, Point>& pts) {
 }
 
 void BorderHandler::calculateBorder() {
+    //Time complexity O(n^2): The function iterates over all points to find the leftmost point and then iteratively calculates the convex hull
+    //using a method which involves examining every other point.
+    //Memory complexity O(n): The function uses additional space proportional to the number of points n for storing edge points and other variables.
     if (!points || points->empty()) return;
 
     auto leftPoint = points->begin()->second;
@@ -38,6 +41,8 @@ void BorderHandler::calculateBorder() {
 }
 
 void BorderHandler::exportBorder() const {
+    //Time complexity O(n): The function iterates over the size of edgePoints to assign a random brightness value.
+    //Memory complexity O(1): The function does not use additional memory proportional to the number of points n, apart from the space for the edgePoints vector.
     int i = 0;
     std::string filePath = "txt/p3_path1.txt";
     while(std::filesystem::exists(filePath)) {

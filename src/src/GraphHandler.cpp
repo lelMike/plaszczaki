@@ -48,6 +48,7 @@ bool GraphHandler::readInput(const std::string& filename) {
 }
 
 void GraphHandler::calculateBorder() {
+    //Time complexity O(n^2), space complexity O(n), explained in BorderHandler.cpp
     borderHandler.calculateBorder();
     borderHandler.exportBorder();
 }
@@ -57,6 +58,8 @@ void GraphHandler::printBorder() const {
 }
 
 void GraphHandler::printGraph(bool GUI) const {
+    // Time complexity: O(V + E), as it iterates through all vertices and edges to visualize the graph, which takes linear time relative to the size of the graph.
+    // Space complexity: O(1), as it does not use any additional memory proportional to the number of points n.
     if (GUI) {
         sf::RenderWindow window(sf::VideoMode(800, 600), "Graph Visualization");
 
@@ -198,6 +201,9 @@ void GraphHandler::printGraph(bool GUI) const {
 }
 
 float GraphHandler::calculateMaxFlow(int workers, bool debug) {
+    //Time complexity O(V*E^2), the function uses the Edmonds-Karp algorithm (a specific implementation of the Ford-Fulkerson method using BFS)
+    //to find the maximum flow in a flow network.
+    //Space complexity O(V + E), the function uses additional space proportional to the number of vertices and edges in the graph.
     if (startPoint == -1 || borderHandler.getEdgePoints().empty()) return 0;
 
     float totalMaxFlow = 0;

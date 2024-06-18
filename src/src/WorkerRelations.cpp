@@ -139,6 +139,8 @@ bool dfs(const Worker& u, std::unordered_map<Worker, Worker>& pairU, std::unorde
 }
 
 std::vector<std::pair<Worker, Worker>> WorkerRelations::hopcroftKarp() {
+    //Time complexity O(E*sqrt(V)): This function implements the Hopcroft-Karp algorithm for finding maximum bipartite matching.
+    //It involves a BFS phase (for distance computation) followed by several DFS iterations (for finding augmenting paths).)
     std::unordered_map<Worker, std::vector<Worker>> adj;
     std::vector<Worker> leftWorkers, rightWorkers;
 
