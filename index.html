@@ -12,6 +12,7 @@
             padding: 0;
             background-color: #121212;
             color: #e0e0e0;
+            overflow-x: hidden;
         }
 
         .container {
@@ -25,16 +26,13 @@
 
         h1, h2 {
             color: #61dafb;
+            transition: color 0.3s ease;
         }
 
         h1 {
             border-bottom: 2px solid #61dafb;
             padding-bottom: 10px;
             margin-bottom: 20px;
-        }
-
-        .accordion {
-            margin-bottom: 40px;
         }
 
         .accordion h2 {
@@ -63,7 +61,7 @@
             overflow: hidden;
             border-top: 1px solid #444;
             border-radius: 0 0 5px 5px;
-            transition: max-height 0.3s ease-out;
+            transition: max-height 0.3s ease-out, opacity 0.3s ease;
         }
 
         h3 {
@@ -90,6 +88,11 @@
         .footer a {
             color: #61dafb;
             text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer a:hover {
+            color: #4fa3d5;
         }
 
         .back-to-top {
@@ -185,6 +188,56 @@
             background-color: #ff0;
             color: #000;
         }
+
+        .team-section {
+            margin: 40px 0;
+            text-align: center;
+        }
+
+        .team-member {
+            display: inline-block;
+            width: 200px;
+            margin: 20px;
+            text-align: center;
+        }
+
+        .team-member img {
+            width: 100%;
+            border-radius: 50%;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .team-member img:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+        }
+
+        .team-member h3 {
+            margin: 10px 0 5px;
+        }
+
+        .team-member p {
+            font-size: 0.9em;
+            color: #bbb;
+        }
+
+        .presentation-link {
+            margin: 40px 0;
+            text-align: center;
+        }
+
+        .presentation-link a {
+            background-color: #61dafb;
+            color: #121212;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .presentation-link a:hover {
+            background-color: #4fa3d5;
+        }
     </style>
 </head>
 <body>
@@ -253,15 +306,15 @@
 
             <h3>Pliki</h3>
             <p>plik główny: problem2.cpp</p>
-                <p>plik pomocniczy z funkcjami niezwiązanymi z algorytmem KMP/Huffmana: filtering.h</p>
-                <p>wyszukiwanie wzorca: KMP.h</p>
-                <p>kompresja: huffman.h</p>
+            <p>plik pomocniczy z funkcjami niezwiązanymi z algorytmem KMP/Huffmana: filtering.h</p>
+            <p>wyszukiwanie wzorca: KMP.h</p>
+            <p>kompresja: huffman.h</p>
 
             <h3>Dane wejściowe</h3>
             <p>wejście: nasza pieśń która będzie plikiem tekstowym (z przerobionymi wyrazami), oraz plik z parami wyrazów pierwszy niepoprawny (ten w piosence) a drugi poprawny (heretyk przy użyciu swoich kontaktów z siłami nadprzyrodzonymi wie które są przerobione), wyrazy są ustawione w następujący sposób</p>
-                <p>poprawny zły</p>
-                <p>poprawny zły</p>
-                <p>itd</p>
+            <p>poprawny zły</p>
+            <p>poprawny zły</p>
+            <p>itd</p>
 
             <h3>Dane wyjściowe</h3>
             <p>wyjście: plik z pieśnią do której mają dostęp informatyk oraz heretyk, która została poddana obróbce zgodnie z tym co należy przerobić według heretyka oraz zakodowana i skompresowana zgodnie z algorytmem Huffmana</p>
@@ -269,39 +322,39 @@
             <h3>Testy</h3>
             <p>Łatwo idzie zauważyć, że program ten działa. Wystarczy wpisać dowolny tekst z podmienionymi paroma wyrazami, oraz uzupełnić plik tekstowy na słowa i otrzymamy naszą pieśń skompresowaną zgodnie z algorytmem Huffmana. Zastępowanie liter/wyrazów funkcjonuje bez najmniejszych problemów pragnę więc skupić się na specyficznych przypadkach:</p>
 
-                <p>1. wejście puste:</p>
+            <p>1. wejście puste:</p>
             <p>W przypadku gdy jedno z wejść jest puste program nas poinformuje o zakończeniu działania.</p>
-                <p>2. nasz wyraz będzie dłuższy od tekstu/równy lub wzorzec == wyraz do podmiany</p>
-                <p>W takim przypadku funkcja errorChecking w KMP.h zajmie się sprawdzeniem tych przypadków i odpowiednią reakcją na nie</p>
+            <p>2. nasz wyraz będzie dłuższy od tekstu/równy lub wzorzec == wyraz do podmiany</p>
+            <p>W takim przypadku funkcja errorChecking w KMP.h zajmie się sprawdzeniem tych przypadków i odpowiednią reakcją na nie</p>
             <p>3. wejście to pojedynczy znak</p>
-                <p>Program ten jest przystosowany do takiej ewentualności jednakże będzie również przyjmował znak nowej linii.</p>
+            <p>Program ten jest przystosowany do takiej ewentualności jednakże będzie również przyjmował znak nowej linii.</p>
 
             <h3>Złożoność i dowód</h3>
             <p>Przed próbą dowiedzenia poprawności pragnę zauważyć, że istnieje szansa na powstanie konfliktu w kolejności podmiany np:</p>
 
-                <p>rower podmieniamy na kajak</p>
-                <p>kaj podmieniamy na maj</p>
+            <p>rower podmieniamy na kajak</p>
+            <p>kaj podmieniamy na maj</p>
 
-                <p>wynikiem końcowym powinien być wyraz majak jednakże rozważmy następującą sytuację:</p>
+            <p>wynikiem końcowym powinien być wyraz majak jednakże rozważmy następującą sytuację:</p>
 
             <p>kaj -> maj</p>
-                <p>rower -> kajak</p>
+            <p>rower -> kajak</p>
 
-                <p>Łatwo idzie zauważyć, że bez odpowiedniej reakcji wynikiem końcowym będzie wyraz kajak, albowiem nie znajdziemy na początku dopasowania dla kaj. W związku z czym musimy nasz zbiór wyrazów posortować względem liczby znaków, a dokładniej rzecz ujmując malejąco.</p>
+            <p>Łatwo idzie zauważyć, że bez odpowiedniej reakcji wynikiem końcowym będzie wyraz kajak, albowiem nie znajdziemy na początku dopasowania dla kaj. W związku z czym musimy nasz zbiór wyrazów posortować względem liczby znaków, a dokładniej rzecz ujmując malejąco.</p>
 
 
-                <p>Pomimo posortowania malejąco dalej możemy natrafić na konflikt, weźmy pod uwagę następującą sytuację:</p>
+            <p>Pomimo posortowania malejąco dalej możemy natrafić na konflikt, weźmy pod uwagę następującą sytuację:</p>
             <p>a -> b</p>
             <p>c -> d</p>
-                <p>b -> c</p>
+            <p>b -> c</p>
 
-                <p>Posortowane pod względem rozmiaru ewidentnie to jest, jednakże nadal występuje konflikt, albowiem dla wejścia:</p>
-                <p>aaa</p>
-                <p>otrzymamy:</p>
-                <p>ccc</p>
+            <p>Posortowane pod względem rozmiaru ewidentnie to jest, jednakże nadal występuje konflikt, albowiem dla wejścia:</p>
+            <p>aaa</p>
+            <p>otrzymamy:</p>
+            <p>ccc</p>
 
-                <p>Powodem tego jest to, iż nie posortowaliśmy naszego wejścia (wyrazów do podmiany) leksykograficznie, po takim działaniu będziemy mieli następującą kolejność:</p>
-                <p>a -> b</p>
+            <p>Powodem tego jest to, iż nie posortowaliśmy naszego wejścia (wyrazów do podmiany) leksykograficznie, po takim działaniu będziemy mieli następującą kolejność:</p>
+            <p>a -> b</p>
             <p>b -> c</p>
             <p>c -> d</p>
 
@@ -349,6 +402,30 @@
         </div>
     </div>
 
+    <div class="team-section">
+        <h2>O zespole</h2>
+        <div class="team-member">
+            <img src="extern/team-member1.jpg" alt="Team Member 1">
+            <h3>Mikołaj Blangiewicz</h3>
+            <p>Rola: Kierownik, Programista</p>
+        </div>
+        <div class="team-member">
+            <img src="extern/team-member2.jpg" alt="Team Member 2">
+            <h3>Natan Warelich</h3>
+            <p>Rola: Mentalne wsparcie, Programista</p>
+        </div>
+        <div class="team-member">
+            <img src="extern/team-member3.jpg" alt="Team Member 3">
+            <h3>Nadia Hermann</h3>
+            <p>Rola: Prezentacja i grafiki, Programistka</p>
+        </div>
+    </div>
+
+    <div class="presentation-link">
+        <h2>Prezentacja Projektu</h2>
+        <a href="https://www.canva.com/design/DAGH1hVRGKo/JlKNhOwhFo0aoPoignHByg/edit?fbclid=IwAR1qpgcgULpi-c9Dcov4lnLFUM3Ipou2Cxqi7pEKtlmSkx7VRF8h5TqCVAM" target="_blank">Zobacz Prezentacje</a>
+    </div>
+
     <div class="footer">
         <p id="datetime"></p>
         <p><a href="https://github.com/lelMike/plaszczaki/tree/master?tab=readme-ov-file" target="_blank">Cofnij się do repozytorium projektu</a></p>
@@ -360,6 +437,12 @@
 
 <script>
     const translations = {
+        "Prezentacja Projektu": "Project Presentation",
+        "Zobacz Prezentacje": "See Presentations",
+        "O zespole": "About the Team",
+        "Rola: Kierownik, Programista": "Role: Manager, Programmer",
+        "Rola: Mentalne wsparcie, Programista": "Role: Mental Support, Programmer",
+        "Rola: Prezentacja i grafiki, Programistka": "Role: Presentation and Graphics, Programmer",
         "Tłumacz EN/POL": "Translate EN/POL",
         "Do Góry": "Back to Top",
         "Tryb Jasny/ Ciemny": "Light/Dark Mode",
