@@ -234,23 +234,22 @@
                 - Algorytm Hopcrofta-Karpa (Znajdowanie maksymalnego skojarzenia w strukturze danych par); Złożoność O(E*sqrt(V)), gdzie E to liczba krawędzi w grafie dwudzielnym, a V to liczba wierzchołków,<br>
                 - Dostosowany algorytm filtrowania par; Złożoność O(n), gdzie n to rozmiar wektora upodobań przekazywanego do funkcji. Ta analiza zakłada średnią wydajność operacji na mapie skrótów, które zazwyczaj mają złożoność O(1) dla wyszukiwania i wstawiania. Ten algorytm gwarantuje zakończenie, ponieważ skończony zestaw par jest dzielony na 2 nieposortowane mapy w zależności od kierunku rąk, a następnie łączony w pary na podstawie relacji i tego, czy są one znalezione w przeciwległych mapach. Jeśli zakładamy, że nie ma warunku zatrzymania, lista pracowników musiałaby być nieskończona, ponieważ to jedyna możliwość. Jeśli nie można dopasować pracowników, zwracany jest pusty zestaw pracowników.</p>
         </div>
-    </div>
 
         <h2>Problem 2</h2>
         <div class="panel">
-            <h3>Problem description</h3>
+            <h3>Opis problemu</h3>
             <p>Problem. Zapisać opowieść-melodię w maszynie Informatyka, zamieniając wcześniej „poli” na
                 „boli” oraz próbując oszczędzić wykorzystane miejsce. Znaleźć rozwiązanie problemu ewentualnej
                 zamiany innych fragmentów opowieści-melodii, który niepokoi Heretyka oraz Informatyka.
             </p>
 
-            <h3>Our interpretation</h3>
+            <h3>Nasza interpretacja</h3>
             <p>
                 Musimy wyszkiwać wzorzec, podmienić go, a następnie całą pieść poddać kompresji.
                 W tym celu wykorzystamy algorytm Knutha-Morissa-Pratta oraz algorytm Huffmana.
             </p>
 
-            <h3>Files</h3>
+            <h3>Pliki</h3>
             <p>
                 plik główny: problem2.cpp <br>
                 plik pomocniczy z funkcjami niezwiązanymi z algorytmem KMP/Huffmana: filtering.h <br>
@@ -258,17 +257,17 @@
                 kompresja: huffman.h <br>
             </p>
 
-            <h3>Input data</h3>
+            <h3>Dane wejściowe</h3>
             <p>wejście: nasza pieśń która będzie plikiem tekstowym (z przerobionymi wyrazami), oraz plik z parami wyrazów pierwszy niepoprawny (ten w piosence) a drugi poprawny (heretyk przy użyciu swoich kontaktów z siłami nadprzyrodzonymi wie które są przerobione), wyrazy są ustawione w następujący sposób <br>
                 poprawny zły<br>
                 poprawny zły<br>
                 itd <br>
             </p>
 
-            <h3>Output data</h3>
+            <h3>Dane wyjściowe</h3>
             <p>wyjście: plik z pieśnią do której mają dostęp informatyk oraz heretyk, która została poddana obróbce zgodnie z tym co należy przerobić według heretyka oraz zakodowana i skompresowana zgodnie z algorytmem Huffmana </p>
 
-            <h3>Tests</h3>
+            <h3>Testy</h3>
             <p>
                 Łatwo idzie zauważyć, że program ten działa. Wystarczy wpisać dowolny tekst z podmienionymi paroma wyrazami, oraz uzupełnić plik tekstowy na słowa i otrzymamy naszą pieśń skompresowaną zgodnie z algorytmem Huffmana. Zastępowanie liter/wyrazów funkcjonuje bez najmniejszych problemów pragnę więc skupić się na specyficznych przypadkach:<br>
 
@@ -281,7 +280,7 @@
 
             </p>
 
-            <h3>Complexity and proof</h3>
+            <h3>Złożoność i dowód</h3>
             <p>
                 Przed próbą dowiedzenia poprawności pragnę zauważyć, że istnieje szansa na powstanie konfliktu w kolejności podmiany np:<br>
 
@@ -340,19 +339,19 @@
 
         <h2>Problem 3</h2>
         <div class="panel">
-            <h3>Our interpretation</h3>
+            <h3>Nasza interpretacja</h3>
             <p>Problem trzeci w mojej interpretacji wyglądał następująco: Wybudowanego w pierwszym zadaniu płotu należy pilnować. Takie zadanie mają płaszczaki, które pełnią funkcję strażnika. Każdy z nich ma losowo dobraną energię (od 1-10). Na jej podstawie wybierany jest grafik - im strażnik ma większą energię, tym pierwszy jest w kolejce do grafiku. Należy też przestrzegać paru ważnych zasad: ⦁ strażnicy mogą mieć urlopy, ⦁ po pilnowaniu muszą odbyć 7 dni odpoczynku, aby móc ponownie patrolować płot. Każdy punkt płotu ma swoją jasność w skali 1-100 (współrzędne w mojej interpretacji nie mają znaczenia). W inpucie dostajemy dodatkową ilośc kroków strażników, po których muszą sie zatrzymać i rozejrzeć. Jeśli ta ilość równa się trzy, płaszczak może się zatrzymać po jednym, dwóch i trzech krokach, najważniejsze jest, aby punkt na którym się zatrzyma, był ciemniejszy od poprzedniego. Dla punktów 3 18 2 najkorzystniejsze jest przejście z punktu z jasnością 3 do punktu z jasnością 2, ponieważ 2 ma mniejszą jasność niż 18. Jest to ważne w kontekście zadania, ponieważ gdy w sytuacji gdy mamy punkty 30 31 32 zatrzymując się i na punkcie z jasnością 31, i na punkcie z jasnością 32 trafiamy na punkty jaśniejsze, przez którą strażnicy muszą przesłuchać melodię, a słuchanie jej często bardzo nudzi płaszczaków. W takiej sytuacji lepiej przejść do punktu 32, wtedy ilość przesłuchań melodii jest mniejsza. W programie dążę do ustalenia grafiku strażnikow z uwzględnieniem ich losowo wygenerowanej energii, urlopów oraz 7 dni odpoczynku oraz do ustalenia ścieżki, gdzie liczba przesłuchań melodii jest najmniejsza.</p>
 
-            <h3>Files</h3>
+            <h3>Pliki</h3>
             <p>Pliki nagłówkowe: route.h, guards.h Pliki główne: problem3.cpp (main), guards.cpp, route.cpp ANALIZY PLIKÓW problem3.cpp To jest funkcja główna. Łączy ona wszystkie 5 plików ze sobą. W środku znajduje się automatyczne wczytywanie testów, wczytywanie informacji z dwóch plików, losowanie energii strażnikow, inicjalizacja map analizujących urlopy i energie, sprawdzanie najkorzystniejszej ilości przesłuchań melodii oraz wypisanie wyniku na terminal. guards.cpp Połączona jest z plikiem nagłówkowym guards.h Ten plik ma za zadanie stworzenie grafiku strażników na podstawie energii, dni urlopowych i wymaganych 7 dni odpoczynku. Jest to analizowane na podstawie map nieposortowanych oraz kolejki priorytetowej route.cpp W tym pliku wybieramy najkorzystniejszą ścieżkę, aby ilość przesłuchań melodii była jak najmniejsza. W tej funkcji wraz z Natanem i Mikołajem uwzględniliśmy zatrzymywanie się na każdym punkcie i analizowaniu, czy jest jaśniejszy/ciemniejszy od poprzedniego. Jeśli żaden z punktów nie był ciemniejszy, zatrzymuje się na kroku o wartości max_steps (maksymalna ilość kroków) nalicza nam jedno wysłuchanie melodii i jeden krok. W programie uwzględniłam wypisanie ilości zatrzymań, które zrobił strażnik, aby łatwiej było przeanalizować poprawność kroków strażnika. Program uwzględnia ruch do punktu ostatniego i analizowanie przesłuchań i jasności - wtedy strażnik wybiera się na odpoczynek.</p>
 
-            <h3>Input data</h3>
+            <h3>Dane wejściowe</h3>
             <p>Input w moim rozwiązaniu polega na dwóch plikach: ⦁ problem3.vacationx (x - numer testu) - odpowiadający za ilość analizowanych dni, kroków oraz dni wolnych strażników ⦁ problem3.pathx - odpowiadający za ilość punktów i poziomu jasności punktów</p>
 
-            <h3>Output data</h3>
+            <h3>Dane wyjściowe</h3>
             <p>W outpucie mamy numer testu, poszczególne energie każdego strażnika, a następnie grafik oraz liczba przesłuchań melodii</p>
 
-            <h3>Tests</h3>
+            <h3>Testy</h3>
             <p>Testy przeprowadzałam na wielu przypadkach w tym mowa o tych skrajnych: np: ⦁ wszyscy strażnicy mają urlop 1-ego dnia ⦁ jeden strażnik ma urlop każdego dnia ⦁ każde kolejne punkty są od siebie większe ⦁ uwzględnione 14 dni zamiast 7</p>
         </div>
     </div>
