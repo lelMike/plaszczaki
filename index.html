@@ -184,56 +184,57 @@
     <div class="accordion">
         <h2>Problem 1</h2>
         <div class="panel">
-            <h3>Problem description</h3>
-            <p>Panic reigned. It was decided that some intruders from outside the Land must have replaced the letter b in the word "hurts" with a p. In order to protect the beautiful story-melody written on the Site, it was decided to build a fence around it. to p. In order to protect the beautiful story-melody written on the Page, it was decided to build a fence around the Land using the landmarks. Land, using landmarks. The fence will be built from sections of length 1 (they can be cut). The sections will be carried by porters. There are two types of porters among the stingrays: those with their hands at the back and those with their hands in front. In a two-dimensional world, it is impossible to move the hands (from front to back and vice versa). In order to move a section you need a porter with his hands at the back and another with his hands at the front. Not all porters like each other and do not always want to work together. It is necessary to carefully select porters into pairs. Figure 2: On the left friendly porters carrying the section correctly, on the right quarrelsome porters, on the right, contentious porters who do not want to cooperate Figure 3: Friendly porters who cannot carry a section because their hands are on the same side The sections are produced in the factory and then carried by a network of narrow roads to the collection points. Problem. Determine how the sections are transported from the factory to the fence site. Build the fence as quickly and cheaply as possible</p>
+            <h3>Opis problemu</h3>
+            <p>Paniczny chaos zapanował. Zdecydowano, że jacyś intruzi spoza Kraju musieli zamienić literę b w słowie "boli" na p. Aby chronić piękną historię-melodię napisaną na Stronie, zdecydowano się zbudować wokół niej płot. Aby chronić piękną historię-melodię napisaną na Stronie, zdecydowano się zbudować wokół Kraju płot, używając punktów orientacyjnych. Płot zostanie zbudowany z odcinków o długości 1 (mogą być cięte). Odcinki będą przenoszone przez tragarzy. Wśród tragarzy są dwa rodzaje: ci z rękami z tyłu i ci z rękami z przodu. W dwuwymiarowym świecie nie można przenieść rąk (z przodu na tył i odwrotnie). Aby przenieść odcinek, potrzebny jest tragarz z rękami z tyłu i drugi z rękami z przodu. Nie wszyscy tragarze lubią się nawzajem i nie zawsze chcą ze sobą współpracować. Konieczne jest staranne dobieranie tragarzy w pary. Rysunek 2: Po lewej przyjaźni tragarze przenoszący odcinek prawidłowo, po prawej kłótliwi tragarze, którzy nie chcą współpracować Rysunek 3: Przyjaźni tragarze, którzy nie mogą przenieść odcinka, ponieważ ich ręce są po tej samej stronie Odcinki są produkowane w fabryce, a następnie przenoszone siecią wąskich dróg do punktów zbiorczych. Problem. Określić, jak odcinki są transportowane z fabryki na miejsce budowy płotu. Zbudować płot tak szybko i tanio, jak to możliwe.</p>
 
-            <h3>Our interpretation</h3>
-            <p>This problem could be seen as 2 sub-problems. The first problem, is given some set of workers, and certain conditions and relations, the goal is to calculate the maximum amount of possible pairs. The second problem is generating a border around a set of points, and constructing a flow network between them all, based on some edge criteria. The calculation needed, is the amount of days it would take to build the wall around the border, if worker pairs were able to stash wall pieces around every border point.</p>
+            <h3>Nasza interpretacja</h3>
+            <p>Ten problem można podzielić na dwa podproblemy. Pierwszy problem to, mając dany zestaw pracowników oraz określone warunki i relacje, celem jest obliczenie maksymalnej liczby możliwych par. Drugi problem to generowanie granicy wokół zbioru punktów i konstruowanie sieci przepływu między nimi, na podstawie określonych kryteriów krawędzi. Obliczenie potrzebne, to ilość dni potrzebnych do zbudowania muru wokół granicy, jeśli pary pracowników mogłyby składać elementy muru wokół każdego punktu granicznego.</p>
 
-            <h3>Run instructions</h3>
-            <p>This program operates in 3 modes.</p>
+            <h3>Instrukcje uruchomienia</h3>
+            <p>Ten program działa w 3 trybach.</p>
 
             <p>
-                The first mode lets the user pick what .txt files he uses from console, and prints the answer in the console:<br>
+                Pierwszy tryb pozwala użytkownikowi wybrać pliki .txt z konsoli i wyświetla odpowiedź w konsoli:<br>
                 <code>.\build1.bat</code>
             </p>
 
             <p>
-                The second mode is an extension of the first, as it additionally outputs debugging information in the console:<br>
+                Drugi tryb jest rozszerzeniem pierwszego, dodatkowo wyświetla informacje debugowania w konsoli:<br>
                 <code>.\build1.bat debug</code>
             </p>
 
             <p>
-                The third mode is a testing mode, to be able to conduct a series of tests without needing to enter each .txt file name individually:<br>
+                Trzeci tryb to tryb testowy, pozwalający przeprowadzić serię testów bez potrzeby ręcznego wprowadzania każdej nazwy pliku .txt:<br>
                 <code>.\build1.bat test</code>
 
-                Each mode has a GUI interface, for showing the constructed graph, built in SFML.
+                Każdy tryb ma interfejs GUI, do pokazywania skonstruowanego grafu, zbudowany w SFML.
             </p>
 
-            <h3>Files</h3>
-            <p>This problem solution is made up of:<br>
+            <h3>Pliki</h3>
+            <p>Rozwiązanie tego problemu składa się z:<br>
                 <code>problem1.cpp</code>
                 <code>WorkerRelations.cpp</code><code>WorkerRelations.h</code><code>BorderHandler.cpp</code>
                 <code>BorderHandler.h</code>
                 <code>GraphHandler.cpp</code><code>GraphHandler.h</code>
             </p>
 
-            <h3>Input data</h3>
-            <p>In every test case, there are 2 .txt files needed. The first file, indicates the worker details, and their relations (p[x]_w[x].txt). The second file contains all the points and their coordinates, as well as the edges specified with a certain flow value (p[x]_c[x].txt)</p>
+            <h3>Dane wejściowe</h3>
+            <p>W każdym przypadku testowym potrzebne są 2 pliki .txt. Pierwszy plik zawiera szczegóły dotyczące pracowników i ich relacji (p[x]_w[x].txt). Drugi plik zawiera wszystkie punkty i ich współrzędne, a także krawędzie określone z określoną wartością przepływu (p[x]_c[x].txt).</p>
 
-            <h3>Output data</h3>
-            <p>After every calculation of the border, the border points count, as well as randomly generated 1-100 brightness values for each of them, are stored in a p3_path[x].txt file to be used in problem 3.</p>
+            <h3>Dane wyjściowe</h3>
+            <p>Po każdym obliczeniu granicy, liczba punktów granicznych oraz losowo wygenerowane wartości jasności od 1 do 100 dla każdego z nich są przechowywane w pliku p3_path[x].txt do wykorzystania w problemie 3.</p>
 
-            <h3>Tests</h3>
-            <p>The series of tests conducted are visible in the /txt folder. Most were generated using the GenerateTests.py python script, with some additional tests manually constructed to test edge cases. Some examples are: No worker pairs, Less than 4 points tests, factory part of the border test, float value-sensitive tests (for possible floating point errors), odd border tests.</p>
+            <h3>Testy</h3>
+            <p>Seria przeprowadzonych testów jest widoczna w folderze /txt. Większość została wygenerowana za pomocą skryptu GenerateTests.py, z dodatkowymi testami stworzonymi ręcznie w celu przetestowania przypadków brzegowych. Przykłady obejmują: Brak par pracowników, Mniej niż 4 punkty testowe, test fabryki będącej częścią granicy, testy wrażliwe na wartości zmiennoprzecinkowe (dla możliwych błędów zmiennoprzecinkowych), dziwne testy graniczne.</p>
 
-            <h3>Complexity and proof</h3>
-            <p>The algorithms used are as following:<br>
-                - Jarvis algorithm (border calculation, with Natans help); O(N*H) complexity, where N is the total number of points, and H is the total number of points that lie in the convex hull (border),<br>
-                - Customised Ford-Fulkerson algorithm (for the flow network and augmenting path); Customised, because I add a virtual sink node, to handle multiple sinks in the algorithm. The complexity still remains the base O(E*|F|), where E is the number of edges and |F| is the maximum flow, as the additional operations related to handling the virtual sink are manageable within this complexity framework,<br>
-                - Hopcroft-Karp algorithm (Finding the maximum matching in the pairs data structure); O(E*sqrt(V)) complexity, where E is the number of edges in the bipartite graph, and V is the number of vertices,<br>
-                - Custom pair filtering algorithm; O(n) complexity, where n is the size of the likes vector passed to the function. This analysis assumes average-case performance of hash map operations, which are typically O(1) for lookup and insertion. This algorithm is guaranteed to stop, as the finite set of pairs is divided up to 2 unsorted maps depending on their hand direction, and then put together to pairs based on the relation, and if they are found in opposing maps. If we assume that it doesn't have a stop condition, then the list of workers would have to be infinite, as that is the only possibility. If no workers can be matched, then there is an empty set of workers returned. </p>
+            <h3>Złożoność i dowód</h3>
+            <p>Używane algorytmy to:<br>
+                - Algorytm Jarvisa (obliczenie granicy, z pomocą Natana); Złożoność O(N*H), gdzie N to całkowita liczba punktów, a H to całkowita liczba punktów leżących w otoczce wypukłej (granicy),<br>
+                - Dostosowany algorytm Forda-Fulkersona (dla sieci przepływu i ścieżki powiększającej); Dostosowany, ponieważ dodaję wirtualny węzeł zlewni, aby obsłużyć wiele zlewni w algorytmie. Złożoność nadal pozostaje bazowa O(E*|F|), gdzie E to liczba krawędzi, a |F| to maksymalny przepływ, ponieważ dodatkowe operacje związane z obsługą wirtualnej zlewni są zarządzalne w ramach tej złożoności,<br>
+                - Algorytm Hopcrofta-Karpa (Znajdowanie maksymalnego skojarzenia w strukturze danych par); Złożoność O(E*sqrt(V)), gdzie E to liczba krawędzi w grafie dwudzielnym, a V to liczba wierzchołków,<br>
+                - Dostosowany algorytm filtrowania par; Złożoność O(n), gdzie n to rozmiar wektora upodobań przekazywanego do funkcji. Ta analiza zakłada średnią wydajność operacji na mapie skrótów, które zazwyczaj mają złożoność O(1) dla wyszukiwania i wstawiania. Ten algorytm gwarantuje zakończenie, ponieważ skończony zestaw par jest dzielony na 2 nieposortowane mapy w zależności od kierunku rąk, a następnie łączony w pary na podstawie relacji i tego, czy są one znalezione w przeciwległych mapach. Jeśli zakładamy, że nie ma warunku zatrzymania, lista pracowników musiałaby być nieskończona, ponieważ to jedyna możliwość. Jeśli nie można dopasować pracowników, zwracany jest pusty zestaw pracowników.</p>
         </div>
+    </div>
 
         <h2>Problem 2</h2>
         <div class="panel">
@@ -251,17 +252,17 @@
 
             <h3>Files</h3>
             <p>
-                plik główny: problem2.cpp
-                plik pomocniczy z funkcjami niezwiązanymi z algorytmem KMP/Huffmana: filtering.h
-                wyszukiwanie wzorca: KMP.h
-                kompresja: huffman.h
+                plik główny: problem2.cpp <br>
+                plik pomocniczy z funkcjami niezwiązanymi z algorytmem KMP/Huffmana: filtering.h <br>
+                wyszukiwanie wzorca: KMP.h <br>
+                kompresja: huffman.h <br>
             </p>
 
             <h3>Input data</h3>
-            <p>wejście: nasza pieśń która będzie plikiem tekstowym (z przerobionymi wyrazami), oraz plik z parami wyrazów pierwszy niepoprawny (ten w piosence) a drugi poprawny (heretyk przy użyciu swoich kontaktów z siłami nadprzyrodzonymi wie które są przerobione), wyrazy są ustawione w następujący sposób
-                poprawny zły
-                poprawny zły
-                itd
+            <p>wejście: nasza pieśń która będzie plikiem tekstowym (z przerobionymi wyrazami), oraz plik z parami wyrazów pierwszy niepoprawny (ten w piosence) a drugi poprawny (heretyk przy użyciu swoich kontaktów z siłami nadprzyrodzonymi wie które są przerobione), wyrazy są ustawione w następujący sposób <br>
+                poprawny zły<br>
+                poprawny zły<br>
+                itd <br>
             </p>
 
             <h3>Output data</h3>
@@ -269,70 +270,70 @@
 
             <h3>Tests</h3>
             <p>
-                Łatwo idzie zauważyć, że program ten działa. Wystarczy wpisać dowolny tekst z podmienionymi paroma wyrazami, oraz uzupełnić plik tekstowy na słowa i otrzymamy naszą pieśń skompresowaną zgodnie z algorytmem Huffmana. Zastępowanie liter/wyrazów funkcjonuje bez najmniejszych problemów pragnę więc skupić się na specyficznych przypadkach:
+                Łatwo idzie zauważyć, że program ten działa. Wystarczy wpisać dowolny tekst z podmienionymi paroma wyrazami, oraz uzupełnić plik tekstowy na słowa i otrzymamy naszą pieśń skompresowaną zgodnie z algorytmem Huffmana. Zastępowanie liter/wyrazów funkcjonuje bez najmniejszych problemów pragnę więc skupić się na specyficznych przypadkach:<br>
 
                 1. wejście puste:
-                W przypadku gdy jedno z wejść jest puste program nas poinformuje o zakończeniu działania.
+                W przypadku gdy jedno z wejść jest puste program nas poinformuje o zakończeniu działania.<br>
                 2. nasz wyraz będzie dłuższy od tekstu/równy lub wzorzec == wyraz do podmiany
-                W takim przypadku funkcja errorChecking w KMP.h zajmie się sprawdzeniem tych przypadków i odpowiednią reakcją na nie
+                W takim przypadku funkcja errorChecking w KMP.h zajmie się sprawdzeniem tych przypadków i odpowiednią reakcją na nie<br>
                 3. wejście to pojedynczy znak
-                Program ten jest przystosowany do takiej ewentualności jednakże będzie również przyjmował znak nowej linii.
+                Program ten jest przystosowany do takiej ewentualności jednakże będzie również przyjmował znak nowej linii.<br>
 
             </p>
 
             <h3>Complexity and proof</h3>
             <p>
-                Przed próbą dowiedzenia poprawności pragnę zauważyć, że istnieje szansa na powstanie konfliktu w kolejności podmiany np:
+                Przed próbą dowiedzenia poprawności pragnę zauważyć, że istnieje szansa na powstanie konfliktu w kolejności podmiany np:<br>
 
-                rower podmieniamy na kajak
-                kaj podmieniamy na maj
+                rower podmieniamy na kajak<br>
+                kaj podmieniamy na maj<br>
 
-                wynikiem końcowym powinien być wyraz majak jednakże rozważmy następującą sytuację:
+                wynikiem końcowym powinien być wyraz majak jednakże rozważmy następującą sytuację:<br>
 
-                kaj -> maj
-                rower -> kajak
+                kaj -> maj<br>
+                rower -> kajak<br>
 
-                Łatwo idzie zauważyć, że bez odpowiedniej reakcji wynikiem końcowym będzie wyraz kajak, albowiem nie znajdziemy na początku dopasowania dla kaj. W związku z czym musimy nasz zbiór wyrazów posortować względem liczby znaków, a dokładniej rzecz ujmując malejąco.
+                Łatwo idzie zauważyć, że bez odpowiedniej reakcji wynikiem końcowym będzie wyraz kajak, albowiem nie znajdziemy na początku dopasowania dla kaj. W związku z czym musimy nasz zbiór wyrazów posortować względem liczby znaków, a dokładniej rzecz ujmując malejąco.<br>
 
 
-                Pomimo posortowania malejąco dalej możemy natrafić na konflikt, weźmy pod uwagę następującą sytuację:
-                a -> b
-                c -> d
-                b -> c
+                Pomimo posortowania malejąco dalej możemy natrafić na konflikt, weźmy pod uwagę następującą sytuację:<br>
+                a -> b<br>
+                c -> d<br>
+                b -> c<br>
 
-                Posortowane pod względem rozmiaru ewidentnie to jest, jednakże nadal występuje konflikt, albowiem dla wejścia:
-                aaa
-                otrzymamy:
-                ccc
+                Posortowane pod względem rozmiaru ewidentnie to jest, jednakże nadal występuje konflikt, albowiem dla wejścia:<br>
+                aaa<br>
+                otrzymamy:<br>
+                ccc<br>
 
-                Powodem tego jest to, iż nie posortowaliśmy naszego wejścia (wyrazów do podmiany) leksykograficznie, po takim działaniu będziemy mieli następującą kolejność:
-                a -> b
-                b -> c
-                c -> d
+                Powodem tego jest to, iż nie posortowaliśmy naszego wejścia (wyrazów do podmiany) leksykograficznie, po takim działaniu będziemy mieli następującą kolejność:<br>
+                a -> b<br>
+                b -> c<br>
+                c -> d<br>
 
-                Czyli dla naszego wejścia aaa wyjściem będzie ddd.
+                Czyli dla naszego wejścia aaa wyjściem będzie ddd.<br>
 
-                Możemy starać się z całego serca zredukować konflikt jednakże to jeszcze nie jest koniec, bo co w sytuacji gdy:
+                Możemy starać się z całego serca zredukować konflikt jednakże to jeszcze nie jest koniec, bo co w sytuacji gdy:<br>
 
-                a -> z
-                c -> a
-                z -> b
+                a -> z<br>
+                c -> a<br>
+                z -> b<br>
 
-                Długość wyrazów ta sama? Jest. Wyraz do podmiany posortowany leksykograficznie? Również jest. To dlaczego dalej mamy konflikt?
-                W celu otrzymania pełnej poprawność musimy jeszcze wyrazy zastępujące również posortować leksykograficznie.
-                Przykład we/wy może być analogiczny do poprzedniego więc pozostawię go wyobraźni.
+                Długość wyrazów ta sama? Jest. Wyraz do podmiany posortowany leksykograficznie? Również jest. To dlaczego dalej mamy konflikt?<br>
+                W celu otrzymania pełnej poprawność musimy jeszcze wyrazy zastępujące również posortować leksykograficznie.<br>
+                Przykład we/wy może być analogiczny do poprzedniego więc pozostawię go wyobraźni.<br>
 
-                Reszta kodu to jest algorytm Knutha Morrisa Pratta oraz algorytm Huffamana które zostały już dawno dowiedzione przez ludzi z znacznie większą wiedza ode mnie więc zaufam im na słowo.
+                Reszta kodu to jest algorytm Knutha Morrisa Pratta oraz algorytm Huffamana które zostały już dawno dowiedzione przez ludzi z znacznie większą wiedza ode mnie więc zaufam im na słowo.<br>
 
-                Ogólna złożoność czasowa:
-                Złożoność KMP: O(k⋅(n+m), gdzie k to liczba wywołań pattern, n to długość tekstu, a m to długość wzorca.
-                Złożoność Huffmana: O(n logn) dla tworzenia drzewa, O(n) dla kompresji i dekompresji.
-                Ogólna uproszczona złożoność: O(k * (n + m) + n * log n)
+                Ogólna złożoność czasowa:<br>
+                Złożoność KMP: O(k⋅(n+m), gdzie k to liczba wywołań pattern, n to długość tekstu, a m to długość wzorca.<br>
+                Złożoność Huffmana: O(n logn) dla tworzenia drzewa, O(n) dla kompresji i dekompresji.<br>
+                Ogólna uproszczona złożoność: O(k * (n + m) + n * log n)<br>
 
-                Złożoność przestrzenna:
-                Odczyt plików: O(n), gdzie n to liczba znaków w pliku.
-                Algorytm KMP: O(n) dla przechowywania wzorców i tekstu.
-                Algorytm Huffmana: O(n) dla przechowywania drzewa i skompresowanego tekstu.
+                Złożoność przestrzenna:<br>
+                Odczyt plików: O(n), gdzie n to liczba znaków w pliku.<br>
+                Algorytm KMP: O(n) dla przechowywania wzorców i tekstu.<br>
+                Algorytm Huffmana: O(n) dla przechowywania drzewa i skompresowanego tekstu.<br>
 
             </p>
         </div>
