@@ -22,3 +22,6 @@
 
 #Ignore cmake for now
 CMakeLists.txt
+
+# Ignore newly created path .txt tests
+p3_path*.txt

@@ -1,0 +1,12 @@
+5
+Emma 1
+Aiden 1
+Avery 0
+Charlotte 1
+Lily 0
+
+Emma Aiden Lily
+Aiden Avery Lily
+Avery Lily Charlotte
+Charlotte Lily Aiden
+Lily Emma Avery
